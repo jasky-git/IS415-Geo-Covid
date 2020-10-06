@@ -1,6 +1,6 @@
 ---
 title: "IS415-Geo-Covid"
-author: "IS415 Group 6"
+author: "IS415 Group 6 by: Ivy, Shermin, Jasky"
 date: "10/2/2020"
 output: html_document
 ---
