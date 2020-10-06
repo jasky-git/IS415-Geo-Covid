@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Getting Started
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
-packages = c('sp', 'rgdal', 'sf', 'tidyverse', 'tmap', 'ggplot2', 'maptools', 'raster', 'spatstat')
+packages = c('sp', 'rgdal', 'sf', 'tidyverse', 'tmap', 'ggplot2', 'maptools', 'raster', 'spatstat', 'dplyr')
 for(p in packages){
   if(!require(p, character.only = T)){
     install.packages(p)
@@ -25,21 +25,29 @@ for(p in packages){
 # Import data
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 hk_district <- st_read(dsn = "data/geospatial", layer = "HKDistrict18")
-location <- st_read(dsn = "data/geospatial", layer = "hong_kong_location")
+hk_location <- st_read(dsn = "data/geospatial", layer = "hong_kong_location")
+confines_qc <- read_csv("data/aspatial/no_of_confines_by_types_in_quarantine_centres_eng.csv")
+
 ```
 
-#EPSG:2326
+# EPSG:2326
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 hk_district_2326 <- st_set_crs(hk_district, 2326)
-location_2326 <- st_set_crs(location, 2326)
-tm_shape(hk_district_2326) + tm_polygons() + tm_shape(location_2326) + tm_bubbles(size = 0.05)
+hk_location_2326 <- st_set_crs(hk_location, 2326)
 ```
 
+# Data Wrangling
+
+## No. of Confines by Types in Quarantine Centres
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+confines_qc$`As of date` <- as.Date(confines_qc$`As of date`, "%d/%m/%y")
+confines_qc$`As of month` <- format(confines_qc$`As of date`, "%m")
 
 
-
-
-
+cumulative_confines_qc <- confines_qc %>%
+  dplyr::select('As of month', 'Cumulative number of close contacts of confirmed cases', 'Cumulative number of non-close contacts')
+  
+```
 
 
 
