@@ -1,0 +1,8 @@
+Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known)
+CX252,London,21/04/2020,1031,17A
+CX252,London,21/04/2020,1032,63D
+CX252,London,21/04/2020,1033,48A
+QR818,Doha,21/04/2020,1035,17H
+CX252,London,24/04/2020,1037,65G
+CX252,London,28/04/2020,Case confirmed in United Kingdom,48D
+CX881,Los Angeles,04/05/2020,1041,48H

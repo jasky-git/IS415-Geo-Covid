@@ -1,0 +1,48 @@
+District,Building name,Last date of residence of the case(s),Related probable/confirmed cases
+Wong Tai Sin,Choi Fung Court,08/02/2020,Case 28
+Wan Chai,"Hung Fook Mansion, 356-362 Lockhart Road",08/02/2020,"Case 27, 29, 30, 31"
+Wan Chai,"Lai Chi building, 42-56 Leighton Road ",08/02/2020,"Case 32,34,35,41"
+Wan Chai,"Chung Wui Mansion, 110 Wan Chai Road",09/02/2020,"Case 33, 36"
+Shatin,"Tai Wo House, Wo Che Estate ",09/02/2020,Case 37
+Eastern ,"Cheung Hing Building, 110 Sai Wan Ho Street ",09/02/2020,"Case 38, 39, 40"
+Kwai Tsing,"Hong Mei House, Cheung Hong Estate",09/02/2020,"Case 12, 42, 48, 49"
+Eastern,"Block 3, Island Resort",10/02/2020,Case 43
+Southern,"Tung Ping House, Lei Tung Estate",10/02/2020,Case 44
+Sai Kung ,"Po Yan House, Po Lam Estate",10/02/2020,Case 45
+Southern ,"Tin Chak House, Tin Wan Estate",10/02/2020,Case 46
+Tuen Mun,Leung Tin Village ,10/02/2020,Case 47
+Kwai Tsing,"On Tao House, Cheung On Estate ",10/02/2020,Case 50
+Tuen Mun,Tze Tin Tsuen,12/02/2020,Case 51
+Wan Chai,"Heung Hoi Mansion, 28-32 O'Brien Road",12/02/2020,"Case 52, 53"
+Kwai Tsing,"Shek Yi House, Shek Lei (II) Estate",12/02/2020,Case 55
+Southern ,Tai Long Wan Village ,13/02/2020,Case 54
+Central and Western ,233 Wing Lok Street ,13/02/2020,Case 56 
+Eastern ,"Block D, Mount Parker Lodge, 10 Hong Pak Path",14/02/2020,"Case 52, 61"
+Eastern,"Ming Kung Mansion, Taikoo Shing, 22 Taikoo Shing Road",16/02/2020,"Case 57, 60"
+Sai Kung,Yee Ching House Yee Ming Estate,16/02/2020,Case 58
+Wong Tai Sin,"Oi Wah House, Tsz Oi Court, Tsz Wan Shan",16/02/2020,Case 59
+Kwun Tong,"Cambridge Building, 25-41 Hong Ning Road",17/02/2020,Case 62
+Eastern,"Sui Moon House, Siu Sai Wan Estate",18/02/2020,"Case 64, 65"
+Tuen Mun,"Block 1, Seaview Garden",18/02/2020,"Case 63, 66"
+Kwun Tong,"Hiu Fai House, Hiu Lai Court",19/02/2020,Case 67
+Yuen Long,"Shek Wu Wai, San Tin",19/02/2020,Case 68
+Kwun Tong,"Yun Mei House, Yau Mei Court",20/02/2020,Case 69
+Kowloon City,"Hospital Authority Building, 147B Argyle Street (non-residential)",07/02/2020,"Case 57, 59"
+Tuen Mun,"Hanford Plaza, 333 Castle Peak Road (non-residential)",07/02/2020,Case 66
+Yau Tsim Mong,MOKO (non-residential),09/02/2020,"Case 37, 50"
+Eastern,"Fu Yan Court, 23 Sai Wan Ho Street (non-residential)",09/02/2020,"Case 57, 60"
+Wan Chai ,Kwan Chart Tower (non-residential),10/02/2020,"Case 30, 44"
+Kwun Tong,Domain (non-residential),10/02/2020,Case 67
+Eastern,"Po Shan Mansion, Tai Koo Shing (non-residential)",10/02/2020,Case 60
+Eastern,"633 King's Road, North Point (non-residential)",11/02/2020,"Case 57, 59"
+Wong Tai Sin,"42 Yuk Wah Street, Tsz Wan Shan (non-residential)",13/02/2020,Case 59
+Kwun Tong,"Lok Wah Shopping Centre, Lok Wah North Estate (non-residential)",13/02/2020,Case 62
+Kwun Tong,Hiu Lai Court Shopping Centre (non-residential),14/02/2020,Case 67
+Eastern,"Yuan Kung Mansion, Tai Koo Shing (non-residential)",15/02/2020,Case 57
+Sham Shui Po,Cheung Sha Wan Jockey Club Clinic (non-residential),15/02/2020,Case 58
+Sham Shui Po,298D Un Chau Street (non-residential),16/02/2020,Case 58
+Tai Po,"Fortune Plaza Arcade, 4 On Chee Road (non-residential)",17/02/2020,Case 68
+Eastern,"Coronet Court, 1-9A North Point Road (non-residential)",18/02/2020,"Case 64, 65"
+Tuen Mun,5 Sam Shing Street (non-residential),18/02/2020,"Case 63, 66"
+Central and Western,271-285 Des Voeux Road West (non-residential),18/02/2020,Case 69
+Kwun Tong,Kwun Tong Community Health Centre (non-residential),19/02/2020,Case 69

@@ -1,0 +1,135 @@
+Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known)
+Flight CX838,Hong Kong → Vancouver,06/03/2020,Case 157 and 158,"Business class 15D, Business  class 15G"
+Flight TK70,Istanbul → Hong Kong,07/03/2020,"Case 119-121, 123-127 and 129",14ABDEFGJKand 9J
+Flight TK695,Cairo → Istanbul,7/3/2020 (Arrival in Istanbul),"Case 119-121, 123-127 and 129",Unknown
+Flight CX930,Manila → Hong Kong,08/03/2020,Case 132,48C
+Flight CX250,London → Hong Kong,8/3/2020 (Arrival in Hong Kong),Case 134,Unknown
+Flight HV5760,Morocco → Amsterdam,08/03/2020,Case 137 and 142,"29E, 22D"
+Flight QR818,Doha → Hong Kong,08/03/2020,Case 174,Unknown
+Flight CX837,Vancouver → Hong Kong,08/03/2020,Case 239,40K
+Flight CX320,Madrid → Hong Kong,8/3/2020 (Arrival in Hong Kong),Case notified by Health Commission of Guangdong Province and Case 122,65C
+Flight KA900,Hong Kong → Beijing,09/03/2020,Case notified by the National Health Commission,23C
+Flight CX857,Seattle → Hong Kong,9/3/2020 (Arrival in Hong Kong ),Case notified by the National Health Commission,40C
+Flight KL887,Amsterdam → Hong Kong,9/3/2020 (Arrival in Hong Kong ),Case 137 and 142,"11K, 10G"
+Flight NH811,Tokyo → Hong Kong,10/3/2020 (Arrival in Hong Kong),Case 136 and a case confirmed in Japan,"38C, then 39C"
+Flight CX811,Boston → Hong Kong,10/3/2020 (Arrival in Hong Kong),"Case 147, 148 and 167","Business class 23K, business class 24K and cabin crew"
+Flight EK380,Dubai → Hong Kong,10/03/2020,Case 151,Unknown
+Flight CX759,Hong Kong → Singapore,10/03/2020,Case notified by the health authority of Singapore,47H
+Flight CX845,New York → Hong Kong,10/3/2020 (Arrival in Hong Kong),Case notified by the health authority of Singapore,70C
+Flight CX260,Paris → Hong Kong,10/3/2020 (Arrival in Hong Kong),Case notified by Health Commission of Guangdong Province,70E
+Flight CX171,Hong Kong → Perth,10/03/2020,Case notified by the health authority of Australia,"20K, then 21K"
+Flight EK380,Dubai → Hong Kong,11/03/2020,Case 139,Business class 6K
+Flight EK142,Madrid → Dubai,11/3/2020 (Arrival in Dubai),Case 139,Business class 6K
+Flight BA31,London → Hong Kong ,11/3/2020 (Arrival in Hong Kong),Case 141,14E
+Flight JL2504,Hokkaido → Osaka,11/03/2020,Case 143 and 153,Unknown
+Flight CX561,Osaka → Hong Kong,11/3/2020 (Arrival in Hong Kong),Case 143 and 153,"42A, 42B"
+Flight CX320,Madrid → Hong Kong,11/3/2020 (Arrival in Hong Kong),Case 161,Business class cabin crew
+Flight LX138,Zurich → Hong Kong,11/3/2020 (Arrival in Hong Kong),Case 168,14A
+Flight QR818,Dubai → Hong Kong,11/03/2020,Case 186,Unknown
+Flight TG638,Bangkok  → Hong Kong,11/03/2020,Case 210,55C
+Flight CX776,Jakarta → Hong Kong ,11/03/2020,Case 212,Cabin crew 
+Flight HX782,Manila → Hong Kong,11/3/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province,39C
+Flight CX845,New York → Hong Kong,12/03/2020,Case notified by the National Health Commission,45H
+Flight KA900,Hong Kong  → Beijing,12/03/2020,Case notified by the National Health Commission,44K
+Flight LH119,Munich → Frankfurt,12/03/2020,Case 144,9C
+Flight CX238,London → Hong Kong,12/3/2020 (Arrival in Hong Kong),Case 170,Unknown
+Flight CX252,London → Hong Kong,12/3/2020 (Arrival in Hong Kong),Case 206,First class 2A
+Flight LH7014,Frankfurt → Hong Kong,12/3/2020 (Arrival in Hong Kong),Case 211,41K
+Flight BR0891,Taipei → Hong Kong ,12/03/2020,Case 240,54K
+Flight LH796,Frankfurt → Hong Kong,13/3/2020 (Arrival in Hong Kong),Case 144 and case notified by the Health Commission of Guangdong province,"46G, 81K"
+Flight CX260,Paris → Hong Kong,13/3/2020 (Arrival in Hong Kong),"Case 145, 146 and 159","47A, 59D, 62A"
+Flight BA0953,Munich → London,13/03/2020,Case 154,Unknown
+Flight CX698,New Delhi → Hong Kong,13/3/2020 (Arrival in Hong Kong),Case 184,20K
+Flight QR818,Doha → Hong Kong,13/03/2020,Case 196,23E
+Flight CX902,Manila → Hong Kong,13/3/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province,20D
+Flight EK380,Dubai → Hong Kong,13/3/2020 (Arrival in Hong Kong),Case notified by the Health Bureau of Macao Special Administrative Region,31J
+Flight MS960,Cairo → Bangkok →  Hong Kong,14/03/2020,Case 152,44
+Flight BA0027,London → Hong Kong,14/03/2020,Case 154,Unknown
+Flight BA0733,Geneva → London,14/03/2020,Case 160,Unknown
+Flight UO754,Chiang Mai → Hong Kong,14/03/2020,Case 175 and 176,"8B, 8E"
+Flight QR818,Doha → Hong Kong,14/03/2020,Case 224,5K
+Flight CX382,Zurich → Hong Kong,14/3/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province,22A
+Flight KA5930,Manila → Hong Kong,14/3/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province,61D
+Flight CX857,Seattle → Hong Kong,14/3/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province,43K
+Flight CX270,Netherlands → Hong Kong ,15/3/2020 (Arrival in Hong Kong),Case 150,31C
+Flight CX837,Vancouver → Hong Kong,15/3/2020 (Arrival in Hong Kong),Case 157 and 158,"Business class 15D, Business class 15G"
+Flight BA0033,London → Kuala Lumpur ,15/3/2020 (Arrival in Kuala Lumpur),Case 160 and 164,"31B, 37C"
+Flight MH78,Kuala Lumpur → Hong Kong,15/03/2020,Case 160,17C
+Flight QR160,Copenhagen → Doha,15/03/2020,Case 165,Unknown
+Flight CX256,London → Hong Kong,15/3/2020 (Arrival in Hong Kong),Case 171 and 181,"21A, 47B"
+Flight TG600,Bangkok → Hong Kong,15/03/2020,Case 172,Unknown
+Flight BA0027,London → Hong Kong,15/3/2020 (Arrival in Hong Kong),Case 180,14A
+Flight CX881,Los Angeles → Hong Kong,15/3/2020 (Arrival in Hong Kong),Case 225,40C
+Flight TG638,Bangkok → Hong Kong,15/03/2020,Case 251,43F
+Flight AC007,Vancouver→Hong Kong,15/03/2020,Case 261,36C
+Flight AC007,Vancouver → Hong Kong,15/3/2020 (Arrival in Hong Kong),Case 261,36C
+Flight AC007,Vancouver →Hong Kong,15/03/2020,Case 262,36D
+Flight LH796,Frankfurt → Hong Kong,15/3/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province,46G
+Flight HX782,Manila → Hong Kong,15/3/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province,42E
+Flight LH796,Frankfurt → Hong Kong,15/3/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province,8C
+Flight CX5734,Kuala Lumpur → Hong Kong,16/03/2020,Case 164,23G
+Flight QR818,Doha → Hong Kong,16/03/2020,Case 165,Business class 24E
+Flight BA0027,London → Hong Kong,16/3/2020 (Arrival in Hong Kong),Case 166 and 190,"42J, Business class 57K"
+Flight CX702,Bangkok → Hong Kong,16/3/2020 01:54am (Arrival in Hong Kong),"Case 177, 178 and 200",44E
+Flight MH78,Kuala Lumpur → Hong Kong,16/03/2020,Case 185,30F
+Flight LX138,Zurich → Hong Kong,16/3/2020 (Arrival in Hong Kong),Case 193,43A
+Flight LX138,Zurich → Hong Kong,16/3/2020 (Arrival in Hong Kong),Case 193,43A
+Flight CX845,New York → Hong Kong,16/3/2020 (Arrival in Hong Kong),Case 203,59B
+Flight EK380,Dubai → Hong Kong,16/03/2020,Case 207 and case notified by the Health Commission of Guangdong province,50B
+Flight SQ860,Singapore → Hong Kong,16/03/2020,Case 216,31F
+Flight BA027,London → Hong Kong,16/03/2020,Case 226,70K
+Flight CX260,France → Hong Kong,16/3/2020 (Arrival in Hong Kong),Case 245,71C
+Flight CX922,Cebu → Hong Kong,16/03/2020,Case 246,Business Class 12K
+Flight CX829,Toronto  → Hong Kong,16/03/2020,Case 256,65J
+Flight QF2,London → Singapore,16/03/2020,Case 257,67J
+Flight CX658,Singapore  → Hong Kong,16/03/2020,Case 264,15D
+Flight CX250,London  → Hong Kong,16/03/2020,Case 265,64J
+Flight CX845,New York → Hong Kong,16/03/2020  (Arrival in Hong Kong),Case 267,65D
+Flight KA734,Kuala Lumpur → Hong Kong,16/03/2020,Case notified by the Health Bureau of Macao Special Administrative Region,63K
+Flight HX782,Manila → Hong Kong,16/03/2020,Case notified by the Health Bureau of Macao Special Administrative Region,41K
+Flight SQ856,Singapore → Hong Kong,16/03/2020,Case notified by the Health Bureau of Macao Special Administrative Region,40B
+Flight JL29,Tokyo → Hong Kong,17/03/2020,Case 179,46K
+Flight CX250,London → Hong Kong,17/3/2020 (Arrival in Hong Kong),Case 187,Unknown
+Flight BI635,Brunei → Hong Kong,17/03/2020,Case 188 and 189,"35A, 35B"
+Flight SQ860,Singapore → Hong Kong,17/03/2020,Case 198,46B
+Flight CX881,Los Angeles → Hong Kong,17/3/2020 (Arrival in Hong Kong),Case 204,Business class 25D
+Flight CX829,Toronto → Hong Kong,17/3/2020 (Arrival in Hong Kong),Case 205,65H
+Flight CX382,Zurich→Hong Kong,17/03/2020  (Arrival in Hong Kong),Case 219,76J
+Flight QR818,Doha → Hong Kong,17/03/2020,Case 231,36C
+Flight SQ856,Singapore  → Hong Kong,17/03/2020,Case 234,14F
+Flight SQ856,Singapore → Hong Kong,17/03/2020,Case 234 and cases notified by the Health Commission of Guangdong province,"14F, 16F, 18D"
+Flight AC103,Toronto→Vancouver,17/03/2020,Case 238,Unknown
+Flight AC007,Vancouver→Hong Kong,17/03/2020,Case 238,Unknown
+Flight AC007,Vancouver→Hong Kong,17/03/2020,Case 238,Unknown
+Flight AC007,Vancouver → Hong Kong,17/03/2020,Case 242,27A
+Flight LH796,Frankfurt → Hong Kong,17/03/2020,Case 252,29H
+Flight CX382,Zurich → Hong Kong,17/03/2020,Case 255,49A
+Flight CX658,Singapore → Hong Kong ,17/03/2020,Case 257,45B
+Flight HX782,Manila → Hong Kong,17/03/2020,Case notified by the Health Commission of Guangdong province,19C
+Flight EK0380,Dubai→ Hong Kong,17/03/2020,Case notified by the Health Commission of Guangdong province,11D
+Flight SQ856,Singapore→ Hong Kong,17/03/2020,Case notified by the Health Commission of Guangdong province,34C
+Flight CX807,Chicago → Hong Kong,17/3/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province,42A
+Flight CX718,Jakarta → Hong Kong,17/03/2020,Case notified by the Health Bureau of Macao Special Administrative Region,47F
+Flight CX748,Johannesburg → Hong Kong,18/3/2020 (Arrival in Hong Kong),Case 197,68D
+Flight CX320,Madrid → Hong Kong,18/3/2020 (Arrival in Hong Kong),Case 202,60J
+Flight CX288,Frankfurt → Hong Kong,18/3/2020 (Arrival in Hong Kong),Case 209,2A
+Flight BR891,Taipei → Hong Kong ,18/03/2020,Case 218,Unknown
+Flight CX718,Jakarta → Hong Kong,18/03/2020,Case 220,60D
+Flight CX250,London → Hong Kong,18/3/2020  (Arrival in Hong Kong),Case 232,62D
+Flight EK380,Dubai  → Hong Kong,18/03/2020,Case 249,27F
+Flight CX250,London→Hong Kong,18/03/2020,Case 269,75D
+Flight CX250,London → Hong Kong,18/3/2020 (Arrival in Hong Kong),Case 269,75D
+Flight EK380,Dubai → Hong Kong,18/03/2020,Case notified by the Health Commission of Guangdong province,"6B, 31C"
+Flight CX930,Manila → Hong Kong,18/03/2020,Case notified by the Health Commission of Guangdong province,42D
+Flight MU722,Hong Kong→ Shanghai,18/03/2020,Case notified by the Health Commission of Guangdong province,68J
+Flight EK0380,Dubai→ Hong Kong,18/03/2020,Case notified by the Health Commission of Guangdong province,11E
+Flight SQ856,Singapore→ Hong Kong,18/03/2020,Case notified by the Health Commission of Guangdong province,19D
+Diamond Princess,"Yokohama, Japan → Hong Kong → Yokohama, Japan",Since 20/1/2020,"Case 14, 71, 78, 79, 80, 81, 87, 88, 94, 96, 97 and an outbreak reported by the health authority of Japan", 
+Taxi,Hong Kong International Airport → Shenzhen Bay Port,08/03/2020,Case notified by Health Commission of Guangdong Province, 
+Taxi,"Hong Kong International Airport → Serene Court, 35 Sai Ning Street",08/03/2020,Case 132, 
+Taxi,"Hong Kong International Airport → Ng Tung Chai, Lam Tsuen",8/3/2020 1:30pm,Case 134, 
+Ferry,Central → Cheung Chau,10/3/2020 7:40am,Case 123, 
+Taxi UF1749,Hong Kong International Airport → Shenzhen Bay Port,10/03/2020,Case notified by Health Commission of Guangdong Province, 
+Taxi,iPlace → Princess Margaret Hospital ,10/3/2020 (Arrived Princess Margaret Hospital at 5:45pm),Case 130 and 131, 
+Taxi ,Princess Margaret Hospital → iPlace,10/3/2020 9pm,Case 131, 
+Taxi,"Queen Mary Hospital → Serene Court, 35 Sai Ning Street",11/3/2020 1:15pm and 12/03/2020 11am,Case 132, 

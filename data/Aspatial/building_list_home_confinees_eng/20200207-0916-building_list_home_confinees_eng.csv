@@ -1,0 +1,102 @@
+No.,District,Name of Building,End Date of Home Quarantine
+1,Kowloon City,"Block 10, Cherry Mansions, Whampoa Garden (Site2)",06/02/2020
+2,Tai Po,"Block 8, Grand Palisades",06/02/2020
+3,Central and Western,"Sum Way Mansion , 1 Belchers Street ",06/02/2020
+4,Yuen Long,"Block 11, Goodview Court",06/02/2020
+5,Tuen Mun,"Oi Ming House, Yau Oi Estate ",06/02/2020
+6,Sai Kung,"Ming Yat House, Kin Ming Estate ",06/02/2020
+7,Sai Kung,"Tower 2 (Aster Diamond), the Wings ",06/02/2020
+8,Yau Tsim Mong,"Shining Heights, 83 Sycamore Street",06/02/2020
+9,Yau Tsim Mong,"Block 1, The Long Beach",06/02/2020
+10,Sham Shui Po,"Block 6, Metro Harbour View",06/02/2020
+11,Wong Tai Sin,"Block 1, Tsui Chuk Garden",06/02/2020
+12,Kwun Tong,"Sing Win Factory Building, 15-17 Shing Yip Street",06/02/2020
+13,Kwun Tong,"Kan Wah House, Lok Wah North Estate",06/02/2020
+14,Kwun Tong,"Lee Foo House , Shun Lee Estate",06/02/2020
+15,Yau Tsim Mong,"Front Block, Man Ying Building, Ferry Street",06/02/2020
+16,Sha Tin,Chan Kwan Tung Inter-university Hall The Chinese University of Hong Kong,06/02/2020
+17,Tuen Mun,"Visitors' Quarters, 8 Castle Peak Road, Lingnan University",06/02/2020
+18,Sha Tin,"Tower 1, Phase 1 Festival City",06/02/2020
+19,Kowloon City,"Fook Hing House, 44A Fuk Lo Tsun Road",07/02/2020
+20,Kowloon City,"Good Rich Mansion, 7-8 Wa Fung Street",07/02/2020
+21,Central and Western,"Hang Yue Building, 334-350 Des Voeux Road West",07/02/2020
+22,Central and Western,"Bic Wah Court, 464 Des Voeux Road West",07/02/2020
+23,Central and Western,"Liang Ga Building, 296-302 Des Voeux Road West",07/02/2020
+24,Central and Western,"Jockey Club Student Village III, Hong Kong University",07/02/2020
+25,Yuen Long,"Ngau Keng Tsuen, Kam Sheung Road",07/02/2020
+26,Sai Hung,"Tai Po Tsai Village, Clear Water Bay Road",07/02/2020
+27,Sai Kung,"Yee Yan House, Yee Ming Estate",07/02/2020
+28,Sha Tin,"Tsun Chuen House, Shui Chuen O Estate",07/02/2020
+29,Sha Tin,"Block K, Phase 4 Sunshine City",07/02/2020
+30,Sha Tin,"Block 49, City One",07/02/2020
+31,Eastern,"Block C, Sunway Gardens",07/02/2020
+32,Yau Tsim Mong,"Block 2, Eltanin Square Mile",07/02/2020
+33,Southern,"Block A, Ngan On House , Yue On Court",07/02/2020
+34,Wong Tai Sin,"Lung Yat House, Lower Wong Tai Sin Estate",07/02/2020
+35,Wong Tai Sin,"Lai Yuen House, Chuk Yuen South Estate",07/02/2020
+36,Kwai Tsing,"Kwai Ching House, Kwai Fong Estate ",07/02/2020
+37,Kwai Tsing,"Block 1, Kwai Chung Plaza",07/02/2020
+38,Islands,"Ying Tung Estate, Ying Yuet Estate",07/02/2020
+39,Kwun Tong,"Tin Chi House, Shun Tin Estate",07/02/2020
+40,Yau Tsim Mong,"Lucky House, 18-24 Jordan Road",07/02/2020
+41,Yau Tsim Mong,"Tower 1, Eltanin Square Mile",07/02/2020
+42,Kowloon City,3A Waterloo Road,07/02/2020
+43,Sha Tin,"Chan Kwan Tung Inter-university Hall, The Chinese University of Hong Kong",07/02/2020
+44,Kowloon City,"Block 10, Cherry Mansions, Whampoa Garden (Site2)",08/02/2020
+45,Kowloon City,"Block A, Fok Lin Building",08/02/2020
+46,Central and Western,"Block 1, Cayman Rise",08/02/2020
+47,Yuen Long,"Fook Shun Building, 45-67 Ma Wang Road",08/02/2020
+48,Yuen Long,"Block 4, Lynwood Court, Kingswood Villas (Phase 5)",08/02/2020
+49,Yuen Long,Phase 1A Park Vista,08/02/2020
+50,Tuen Mun,"Block 4, Melody Garden",08/02/2020
+51,Tuen Mun,"Block 10, Melody Garden",08/02/2020
+52,Tuen Mun,Chung Uk Tsuen (Tuen Mun),08/02/2020
+53,Tuen Mun,"Block 6, Pierhead Garden",08/02/2020
+54,Sai Kung,"Tower 5, Le Prestige of Lohas Park",08/02/2020
+55,Sai Kung,Li Dak Sum Yip Yio Chin Kenneth Li Conference Lodge,08/02/2020
+56,Sai Kung,"Ho Ming Court, 9 Kai King Road",08/02/2020
+57,Sha Tin,"Hin Fu House, Hin Keng Estate",08/02/2020
+58,Sha Tin,"Tower 3, Phase 3, Festival City",08/02/2020
+59,Eastern,"Block 6, Nan Fung Sun Chuen",08/02/2020
+60,Yau Tsim Mong,"Tower 2, Hampton place",08/02/2020
+61,Tsuen Wan,"Tower West, Chelsea Court, 90-114 Yeung Uk Road",08/02/2020
+62,Sham Shui Po,"Wing Chun House, Wing Cheong Estate",08/02/2020
+63,Sham Shui Po,"Hoi Wo House, Hoi Lai Estate",08/02/2020
+64,Wong Tai Sin,"Cheong Sin House, Upper Wong Tai Sin Estate",08/02/2020
+65,Kwai Tsing,"Fu Yin House, Tai Wo Hau Estate",08/02/2020
+66,Islands,"Sui Yat House, Yat Tung Estate",08/02/2020
+67,Wan Chai,"Block 2, Hoover Towers",08/02/2020
+68,Kwun Tong,"Choi Wui House, Choi Hing Court",08/02/2020
+69,Kwun Tong,"Chi Cheong Building, 2-4 Yee On Street",08/02/2020
+70,Kwun Tong,"Ping Shing House, Ping Tin Estate",08/02/2020
+71,Yuen Long,"Block 2, Sherwood Court, Kingswood Villas",08/02/2020
+72,Tsuen Wan,"Block 8, City Point",08/02/2020
+73,Central and Western,"Hall B, Jockey Club Student Village III, The University of Hong Kong",08/02/2020
+74,Tai Po,"Hing Wo House, Po Nga Court, Tai Wo Estate",09/02/2020
+75,Central and Western,Sang Cheong Building,09/02/2020
+76,Yuen Long,"Chuen Shui House, Shui Pin Wai Estate",09/02/2020
+77,Yuen Long,"Long Fu House, Tin Fu Court",09/02/2020
+78,North,"Tai Yuen Tsuen, Sheung Shui Wai",09/02/2020
+79,North,"Ching Chiu House, Ching Ho Estate",09/02/2020
+80,Yuen Long,"Tsz Ping House, Tin Tsz Estate",09/02/2020
+81,Yau Tsim Mong,"Lizhi Hall, The Hong Kong Polytechnic University",09/02/2020
+82,Yuen Long,"Wing Fu House, Tin Fu Court",09/02/2020
+83,Southern,"Lei Tim House, Ap Lei Chau Estate",09/02/2020
+84,Tsuen Wan,"Fu Tak House, Tai Wo Hau Estate",09/02/2020
+85,Yau Tsim Mong,"Block 1, Victoria Towers",09/02/2020
+86,Yau Tsim Mong,69 Bute Street,10/02/2020
+87,North,"Block A, Fanling Centre",10/02/2020
+88,Yuen Long,"Yuet Ping House, Long Ping Estate",11/02/2020
+89,Tuen Mun,"Block A, New Town Mansion",11/02/2020
+90,Sham Shui Po,"Choi Lan House, 259 Yu Chau Street",12/02/2020
+91,Tuen Mun,"Tip Ling House, Butterfly Estate",12/02/2020
+92,Yuen Long,"Block 5, Sherwood Court, Kingswood Villas ",13/02/2020
+93,Kwun Tong,"Ping Shing House, Ping Tin Estate",13/02/2020
+94,North,15 Po Sheung Tsuen,13/02/2020
+95,Sha Tin,"Block 5, Jubilee Garden",13/02/2020
+96,Sha Tin,"Tower 5, Phase 2 Festival City",13/02/2020
+97,North,"Block 11, Dawning Views",13/02/2020
+98,Sham Shui Po,"Wing On Building, 286 Fuk Wah Street",13/02/2020
+99,Sha Tin,"Kwong Ning Building, Shatin Centre",14/02/2020
+100,Wong Tai Sin,"Pik Fung House, Fung Tak Estate",16/02/2020
+101,Kwai Tsing,"Kwai Chung Building, 10-30 Shek Pui Street",18/02/2020

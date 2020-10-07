@@ -1,0 +1,13 @@
+Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases,Seat Number (if known)
+SU212,Moscow,02/06/2020,1112,Unknown
+SU212,Moscow,02/06/2020,1113,Unknown
+KA734,Kuala Lumpur,03/06/2020,1095,Row 48
+KA734,Kuala Lumpur,03/06/2020,1096,48C
+KA734,Kuala Lumpur,03/06/2020,1097,47C
+KA734,Kuala Lumpur,03/06/2020,1098,44H
+KA734,Kuala Lumpur,03/06/2020,1099,46D
+AC007,Vancouver,04/06/2020,Overseas case,33D
+CX252,London,05/06/2020,1103,48D
+BA31,London,05/06/2020,1104,29D
+CX906,Manila,06/06/2020,1107,43E
+GA876,Jakarta,14/06/2020,1111,37D

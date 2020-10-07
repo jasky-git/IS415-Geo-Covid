@@ -1,0 +1,51 @@
+Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases
+Diamond Princess,"Yokohama, Japan → Hong Kong → Yokohama, Japan",Since 20/01/2020,"Case 14, 71, 78, 79, 80, 81, 87, 88, 94, 96, 97 and an outbreak reported by the health authority of Japan"
+Taxi,1. Villa Lotto → Tang Shiu Kin Hospital 2.  Wellington Place → Tung Wah Hospital,02/03/2020,Case 105
+Taxi,1. Villa Lotto → Tang Shiu Kin Hospital 2. Tang Shiu Kin Hospital → Villa Lotto,03/03/2020,Case 105
+Flight BA0323,Paris → London,03/03/2020,Case 106
+Flight BA27,London → Hong Kong,04/03/2020,Case 106
+Ferry,Central → Cheung Chau,04/03/2020 9:45am,Case 107
+Ferry,Cheung Chau → Central,04/03/2020 1:45pm,Case 107
+Flight CX838,Hong Kong → Vancouver,06/03/2020,Case 157 and 158
+Flight TK695,Cairo → Istanbul,07/03/2020 (Arrival in Istanbul),"Case 119-121, 123-127 and 129"
+Flight TK70,Istanbul → Hong Kong,07/03/2020,"Case 119-121, 123-127 and 129"
+Flight CX320,Madrid → Hong Kong,08/03/2020 (Arrival in Hong Kong),Case notified by Health Commission of Guangdong Province and Case 122
+Taxi,Hong Kong International Airport → Shenzhen Bay Port,08/03/2020,Case notified by Health Commission of Guangdong Province
+Flight CX930,Manila→ Hong Kong,08/03/2020,Case 132
+Taxi,"Hong Kong International Airport → Serene Court, 35 Sai Ning Street",08/03/2020,Case 132
+Flight CX250,London → Hong Kong,08/03/2020 (Arrival in Hong Kong),Case 134
+Taxi,"Hong Kong International Airport → Ng Tung Chai, Lam Tsuen",08/03/2020 1:30pm,Case 134
+Flight HV5760,Morocco → Amsterdam,08/03/2020,Case 137 and 142
+Flight CX857,Seattle → Hong Kong,09/03/2020 (Arrival in Hong Kong ),Case notified by the National Health Commission
+Flight KA900,Hong Kong → Beijing,09/03/2020,Case notified by the National Health Commission
+Flight KL887,Amsterdam → Hong Kong,09/03/2020 (Arrival in Hong Kong ),Case 137 and 142
+Ferry,Central → Cheung Chau,10/03/2020 7:40am,Case 123
+Flight CX260,Paris → Hong Kong,10/03/2020 (Arrival in Hong Kong),Case notified by Health Commission of Guangdong Province
+Taxi UF1749,Hong Kong International Airport → Shenzhen Bay Port,10/03/2020,Case notified by Health Commission of Guangdong Province
+Taxi,iPlace → Princess Margaret Hospital ,10/03/2020(Arrived Princess Margaret Hospital at 5:45pm),Case 130 and 131
+Taxi ,Princess Margaret Hospital → iPlace,10/03/2020 9pm,Case 131
+Flight NH811,Tokyo → Hong Kong,10/03/2020 (Arrival in Hong Kong),Case 136 and a case confirmed in Japan
+Flight CX845,New York → Hong Kong,10/03/2020 (Arrival in Hong Kong),Case notified by the health authority of Singapore
+Flight CX759,Hong Kong → Singapore,10/03/2020,Case notified by the health authority of Singapore
+Flight CX171,Hong Kong → Perth,10/03/2020,Case notified by the health authority of Australia
+Flight CX811,Boston→Hong Kong,10/03/2020 (Arrival in Hong Kong),Case 147 and 148
+Flight EK380,Dubai → Hong Kong,10/03/2020,Case 151
+Flight HX782,Manila → Hong Kong,11/03/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province
+Taxi,"Queen Mary Hospital→Serene Court, 35 Sai Ning Street",11/03/2020 1:15pm and 12/03/2020 11am,Case 132
+Flight EK142,Madrid → Dubai,11/03/2020 (Arrival in Dubai),Case 139
+Flight EK380,Dubai → Hong Kong,11/03/2020,Case 139
+Flight BA31,London → Hong Kong ,11/03/2020 (Arrival in Hong Kong),Case 141
+Flight JL2504,Hokkaido → Osaka,11/03/2020,Case 143 and 153
+Flight CX561,Osaka → Hong Kong,11/03/2020 (Arrival in Hong Kong),Case 143 and 153
+Flight CX902,Manila → Hong Kong,13/03/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province
+Flight LH119,Munich → Frankfurt,12/03/2020,Case 144
+Flight LH796,Frankfurt → Hong Kong,13/03/2020 (Arrival in Hong Kong),Case 144 and case notified by the Health Commission of Guangdong province
+Flight CX260,Paris → Hong Kong,13/03/2020 (Arrival in Hong Kong),Case 145 and 146
+Flight EK380,Dubai → Hong Kong,13/3/2020 (Arrival in Hong Kong),Case notified by the Health Bureau of Macao Special Administrative Region
+Flight BA0953,Munich → London,13/03/2020,Case 154
+Flight MS960,Cairo → Bangkok → Hong Kong,14/03/2020,Case 152
+Flight BA0027,London → Hong Kong,14/03/2020,Case 154
+Flight CX382,Zurich → Hong Kong,14/03/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province
+Flight KA5930,Manila → Hong Kong,14/03/2020 (Arrival in Hong Kong),Case notified by the Health Commission of Guangdong province
+Flight CX270,Netherlands → Hong Kong ,15/3/2020 (Arrival in Hong Kong),Case 150
+Flight CX837,Vancouver → Hong Kong,15/3/2020 (Arrival in Hong Kong),Case 157 and 158

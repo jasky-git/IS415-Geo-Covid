@@ -1,0 +1,16 @@
+Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases
+Diamond Princess,"Yokohama, Japan → Hong Kong → Yokohama, Japan",Since 20/01/2020,"Case 14, 71, 78, 79, 80, 81, 87, 88, 94, 96, 97 and an outbreak reported by the health authority of Japan"
+Taxi,"1.     Block 3, Grand Yoho→Pok Oi Hospital 2. Pok Oi Hospital→Block 3, Grand Yoho",21/02/2020,Case 75
+Taxi,"Fly Dragon Terrace, 26-32 Tin Hau Temple Road→Pamela Youde Nethersole Eastern Hospital",22/02/2020,Case 70
+Taxi,"Maylun Apartments, 1-25 Shu Kuk Street→Pamela Youde Nethersole Eastern Hospital",22/02/2020,Case 74
+Flight CX694,New Delhi→Hong Kong,24/02/2020,Case 105
+Taxi,HK station→Villa Lotto,24/02/2020,Case 105
+Flight CX250,London→Hong Kong ,28/2/2020 (Arrival in Hong Kong),Case notified by Health Commission of Guangdong Province
+Ferry 3A109,SkyPier→Shekou,28/02/2020,Case notified by Health Commission of Guangdong Province
+Flight CX250,London→Hong Kong ,29/2/20200,Case notified by the health authority of Thailand
+Flight CX617,Hong Kong→Bangkok,29/2/20200,Case notified by the health authority of Thailand
+Flight CX838,Hong Kong→Vancouver,29/2/20200,Case 105 related contact tracing
+Taxi,1. Villa Lotto→Tang Shiu Kin Hospital 2.  Wellington Place→Tung Wah Hospital,02/03/2020,Case 105
+Taxi,1. Villa Lotto→Tang Shiu Kin Hospital 2. Tang Shiu Kin Hospital→Villa Lotto,03/03/2020,Case 105
+Flight BA0323,Paris→London,03/03/2020,Case 106
+Flight BA27,London→Hong Kong,04/03/2020,Case 106

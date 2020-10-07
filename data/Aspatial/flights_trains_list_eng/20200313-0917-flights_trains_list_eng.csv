@@ -1,0 +1,29 @@
+Flight/Train/Ship number,Departure & arrival,Date of travel,Related probable/confirmed cases
+Diamond Princess,"Yokohama, Japan → Hong Kong → Yokohama, Japan",Since 20/01/2020,"Case 14, 71, 78, 79, 80, 81, 87, 88, 94, 96, 97 and an outbreak reported by the health authority of Japan"
+Flight CX250,London → Hong Kong ,28/02/2020 (Arrival in Hong Kong),Case notified by Health Commission of Guangdong Province
+Ferry 3A109,SkyPier → Shekou,28/02/2020,Case notified by Health Commission of Guangdong Province
+Flight CX288,Frankfurt → Hong Kong ,28/02/2020,Case notified by health authority of Korea
+Flight CX 438,Hong Kong → Seoul,29/02/2020,Case notified by health authority of Korea
+Flight CX838,Hong Kong → Vancouver,29/02/2020,Case notified by the health authority of Canada
+Flight CX 250,London → Hong Kong,29/02/2020 (Arrival in Hong Kong),"Case notified by the health authority of Thailand, Case 114, 130 and 131"
+Taxi,Hong Kong International Airport →iPlace,29/02/2020,Case 130 and 131
+Taxi,1. Villa Lotto → Tang Shiu Kin Hospital  2.  Wellington Place → Tung Wah Hospital,02/03/2020,Case 105
+Taxi,1. Villa Lotto → Tang Shiu Kin Hospital   2. Tang Shiu Kin Hospital → Villa Lotto,03/03/2020,Case 105
+Flight BA0323,Paris → London,03/03/2020,Case 106
+Flight BA27,London → Hong Kong,04/03/2020,Case 106
+Ferry,Central → Cheung Chau,04/03/2020 9:45am,Case 107
+Ferry,Cheung Chau → Central,04/03/2020 1:45pm,Case 107
+Flight TK695,Cairo → Istanbul,07/03/2020 (Arrival in Istanbul),"Case 119-121, 123-127 and 129"
+Flight TK70,Istanbul → Hong Kong,07/03/2020,"Case 119-121, 123-127 and 129"
+Flight CX320,Madrid → Hong Kong,08/03/2020 (Arrival in Hong Kong),Case notified by Health Commission of Guangdong Province and Case 122
+Taxi,Hong Kong International Airport → Shenzhen Bay Port,08/03/2020,Case notified by Health Commission of Guangdong Province
+Flight CX930,Manila→ Hong Kong,08/03/2020,Case 132
+Taxi,"Hong Kong International Airport → Serene Court, 35 Sai Ning Street",08/03/2020,Case 132
+Flight CX857,Seattle → Hong Kong,09/03/2020 (Arrival in Hong Kong),Case notified by the National Health Commission
+Flight KA900,Hong Kong → Beijing,09/03/2020,Case notified by the National Health Commission
+Ferry,Central → Cheung Chau,10/03/2020 7:40am,Case 123
+Flight CX260,Paris → Hong Kong,10/03/2020 (Arrival in Hong Kong),Case notified by Health Commission of Guangdong Province
+Taxi UF1749,Hong Kong International Airport → Shenzhen Bay Port,10/03/2020,Case notified by Health Commission of Guangdong Province
+Taxi,iPlace → Princess Margaret Hospital ,10/03/2020 (Arrived Princess Margaret Hospital at 5:45pm),Case 130 and 131
+Taxi ,Princess Margaret Hospital→iPlace,10/03/2020 9pm,Case 131
+Taxi,"Queen Mary Hospital→Serene Court, 35 Sai Ning Street",11/03/2020 1:15pm and 12/03/2020 11am,Case 132
