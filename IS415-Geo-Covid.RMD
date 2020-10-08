@@ -21,8 +21,7 @@ for(p in packages){
   library(p, character.only = T)
 }
 ```
-
-# Import data
+ # Import data
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 hk_district <- st_read(dsn = "data/geospatial", layer = "HKDistrict18")
 hk_region <- read.csv("data/geospatial/Hong_Kong_18_Districts.csv")
