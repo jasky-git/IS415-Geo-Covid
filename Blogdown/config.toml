@@ -13,14 +13,26 @@ pygmentsUseClasses = true
 summaryLength = 30
 
 [[menu.main]]
-    name = "Home"
+    name = "Covid-19"
     url = "/"
     weight = 1
-
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "Proposal"
+    url = "/Proposal/"
     weight = 2
+[[menu.main]]
+    name = "Poster"
+    url = "/poster/"
+    weight = 3
+[[menu.main]]
+    name = "Application"
+    url = "/application/"
+    weight = 4
+[[menu.main]]
+    name = "Research Paper"
+    url = "/reserach-paper/"
+    weight = 5
+    
 
 [params]
   google_analytics_id=""
