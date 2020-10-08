@@ -26,8 +26,13 @@ for(p in packages){
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 hk_district <- st_read(dsn = "data/geospatial", layer = "HKDistrict18")
 hk_location <- st_read(dsn = "data/geospatial", layer = "hong_kong_location")
+pop_district_2016 <- read_csv("data/aspatial/Population by District Council and Year.csv")
+pop_sex <- read.csv("data/aspatial/population-by-sex.csv")
 confines_qc <- read_csv("data/aspatial/no_of_confines_by_types_in_quarantine_centres_eng.csv")
-
+occupancy_qc <- read_csv("data/aspatial/occupancy_of_quarantine_centres_eng.csv")
+indv_caseinfo <- read_csv("data/aspatial/enhanced_sur_covid_19_eng.csv")
+reported_cases_by_country <- read_csv("data/aspatial/countries_areas_have_reported_cases_eng.csv")
+testing_done_mth <- read_csv("data/aspatial/statistics_on_covid_19_testing_cumulative.csv")
 ```
 
 # EPSG:2326
@@ -36,18 +41,33 @@ hk_district_2326 <- st_set_crs(hk_district, 2326)
 hk_location_2326 <- st_set_crs(hk_location, 2326)
 ```
 
-# Data Wrangling
+# Data Cleaning
+
+# Population by Sex in 2020
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+pop_sex_2020 <- pop_sex %>%
+  filter(year == 2020) %>%
+  mutate('total' = `male` + `female`)
+```
 
 ## No. of Confines by Types in Quarantine Centres
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
-confines_qc$`As of date` <- as.Date(confines_qc$`As of date`, "%d/%m/%y")
-confines_qc$`As of month` <- format(confines_qc$`As of date`, "%m")
+#confines_qc$`As of date` <- as.Date(confines_qc$`As of date`, "%d/%m/%y")
+#confines_qc$`As of month` <- format(confines_qc$`As of date`, "%m")
 
 
-cumulative_confines_qc <- confines_qc %>%
-  dplyr::select('As of month', 'Cumulative number of close contacts of confirmed cases', 'Cumulative number of non-close contacts')
+#cumulative_confines_qc <- confines_qc %>%
+  #dplyr::select('As of month', 'Cumulative number of close contacts of confirmed cases', 'Cumulative number of non-close contacts')
   
 ```
+
+## Total No. of Reported Cases Daily in HK
+
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+hk_reported_cases <- reported_cases_by_country %>%
+  filter(`Countries/areas` == 'Hong Kong Special Administrative Region')
+```
+
 
 
 
