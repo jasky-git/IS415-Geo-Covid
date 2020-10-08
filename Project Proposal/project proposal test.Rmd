@@ -1,0 +1,15 @@
+---
+title: "Project _proposal test"
+author: "Ivy Hau"
+date: "10/7/2020"
+output: 
+  blogdown::html_page:
+    toc: true
+    fig_width: 6
+    dev: "svg"
+---
+
+```{r}
+blogdown::serve_site()
+blogdown::new_site(theme = 'gangjun06/SimpleIntro themes')
+```
