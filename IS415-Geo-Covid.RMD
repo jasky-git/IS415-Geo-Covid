@@ -21,7 +21,8 @@ for(p in packages){
   library(p, character.only = T)
 }
 ```
- # Import data
+
+# Import data
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 hk_district <- st_read(dsn = "data/geospatial", layer = "HKDistrict18")
 hk_region <- read.csv("data/geospatial/Hong_Kong_18_Districts.csv")
@@ -38,14 +39,14 @@ testing_done_mth <- read_csv("data/aspatial/statistics_on_covid_19_testing_cumul
 
 # Data Cleaning
 
-# HK District and Region
+
+## HK District and Region
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 hk_map <- cbind(hk_district, hk_region$REGION) %>%
   rename('REGION' = 'hk_region.REGION')
 ```
 
-
-# Population by Sex in 2020
+## Population by Sex in 2020
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 pop_sex_2020 <- pop_sex %>%
   filter(year == 2020) %>%
@@ -64,12 +65,10 @@ pop_sex_2020 <- pop_sex %>%
 ```
 
 ## Total No. of Reported Cases Daily in HK
-
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 hk_reported_cases <- reported_cases_by_country %>%
   filter(`Countries/areas` == 'Hong Kong Special Administrative Region')
 ```
-
 
 
 
