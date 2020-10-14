@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://boring-kirch-727db7.netlify.app/"
 languageCode = "en-us"
 title = "GEOVID"
 themesDir = "themes"
