@@ -5,11 +5,14 @@ draft: false
 weight: 6
 ---
 
-### 4.1 Spatial statistics and influencing factors of the novel coronavirus (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)
+### 4.1 Spatial statistics and influencing factors of the novel coronavirus 
+
+Taken from: 
+(By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)
 
 *   
 **Aim of study**
-* To understand spatio-temporal dynamic characteristics of covid-19
+* To understand spatio-temporal dynamic characteristics of COVID-19
 
 *   
 **Methodology**
@@ -30,3 +33,6 @@ weight: 6
 *   
 **Areas of Improvement**
 - The research only focus on mainly 1 methodology, which is autocorrelation analysis
+
+
+
