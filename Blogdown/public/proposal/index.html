@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Overview - Hugo Whisper Theme</title>
+  <title>Overview - GEOVID</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="/favicon.png">
@@ -128,19 +128,19 @@
   <ul>
     
     <li class="">
-      <a href = "#1.%20Project%20Motivation">1. Project Motivation </a>
+      <a href = "#Project%20Motivation">Project Motivation </a>
     </li>
     
     <li class="">
-      <a href = "#2.%20Objectives">2. Objectives </a>
+      <a href = "#Objectives">Objectives </a>
     </li>
     
     <li class="">
-      <a href = "#3.%20Data%20Source">3. Data Source </a>
+      <a href = "#Data%20Source%28s%29">Data Source(s) </a>
     </li>
     
     <li class="">
-      <a href = "#4.%20Data%20Preperation">4. Data Preperation </a>
+      <a href = "#Data%20Preparation">Data Preparation </a>
     </li>
     
     <li class="">
@@ -152,7 +152,7 @@
     </li>
     
     <li class="">
-      <a href = "#7.%20Approach">7. Approach </a>
+      <a href = "#Methodology">Methodology </a>
     </li>
     
     <li class="">
@@ -161,10 +161,6 @@
     
     <li class="">
       <a href = "#9.%20Milestone">9. Milestone </a>
-    </li>
-    
-    <li class="">
-      <a href = "#10.%20References">10. References </a>
     </li>
     
   </ul>
@@ -177,41 +173,43 @@
 
 
 
-<div id = "1. Project Motivation">
+<div id = "Project Motivation">
   <br/>
-  <h2>1. Project Motivation</h2>
-  <p>Covid-19 is an infectious disease caused by a new strain of coronavirus, which has now spread worldwide. Currently, there are no available vaccines for global use. Because of that, it is important to study the spread of covid-19, understand where, when, and how it occurred by studying the spatio-temporal patterns of confirmed cases.</p>
-<p>The project aims to provide a web-based geospatial application to identify areas with covid-19 and the factors affecting the spread. Most of the geospatial applications on covid-19 are limited to visualizing proportional point patterns. However, our group is also concerned about the factors affecting the spread of covid-19.</p>
-<p>Due to the limited number of covid-19 data Singapore has to offer, our group has decided to focus on Hong Kong as the choice of study area as it offers more data as compared to Singapore. These data acquired from data.gov.hk include number of cases confirmed, location of confinement (?), which will be relevant to the analysis of the spatio-temporal patterns.</p>
-<p>The web-enabled geospatial analytical tool is developed to allow users to view the spread of covid-19, as well as how to better plan for further spread and its mitigation.</p>
+  <h2>Project Motivation</h2>
+  <p>COVID-19 is an infectious disease caused by a new strain of coronavirus, which has now spread worldwide. Currently, there are no available vaccines for global use. Because of that, it is important to study the spread of COVID-19, understand where, when, and how it occurred by studying the spatio-temporal patterns of confirmed cases.</p>
+<p>This project aims to provide a web-based geospatial application to identify areas with COVID-19 and the factors affecting the spread. Most of the geospatial applications on COVID-19 are limited to visualizing proportional point patterns. However, our group is also concerned about the factors affecting the spread of COVID-19.</p>
+<p>Due to the limited number of COVID-19 data Singapore has to offer, our group has decided to focus on Hong Kong as the choice of study area as it offers more data as compared to Singapore. These data acquired from data.gov.hk include number of cases confirmed(active and/or discharged), location of quarantined areas (governmental and/or homes), which will be relevant to the analysis of the spatio-temporal patterns.</p>
+<p>The web-enabled geospatial analytical tool is developed to allow users to view the spread of COVID-19, as well as how to better plan for further spread and its mitigation.</p>
 
   <br/>
 </div>
 
-<div id = "2. Objectives">
+<div id = "Objectives">
   <br/>
-  <h2>2. Objectives</h2>
+  <h2>Objectives</h2>
   <p>Our group will focus on the following objectives:</p>
 <ol>
-<li>Visualise density / intensity (?) of covid cases.</li>
+<li>Visualize density of the COVID-19 cases in Hong Kong by performing relevant exploratory data analysis.</li>
+<li>intensity(?)</li>
 <li>Conduct spatial analysis to find out spatial correlation patterns and influencing factors.</li>
-<li>Web-based interface with relevant filters</li>
+<li>Create a web-based interface with relevant filters to display relevant data analysis</li>
+<li>Evaluate results based on the findings to understand the spread in Hong Kong, and provide recommendations to further mitigate the situation.</li>
 </ol>
 
   <br/>
 </div>
 
-<div id = "3. Data Source">
+<div id = "Data Source(s)">
   <br/>
-  <h2>3. Data Source</h2>
+  <h2>Data Source(s)</h2>
   <p><img src="datasource.png" alt="datasource"></p>
 
   <br/>
 </div>
 
-<div id = "4. Data Preperation">
+<div id = "Data Preparation">
   <br/>
-  <h2>4. Data Preperation</h2>
+  <h2>Data Preparation</h2>
   <p><strong>a. Data collection</strong></p>
 <p>Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government&rsquo;s open data source.</p>
 <p><strong>b. Data Cleaning and Wrangling</strong></p>
@@ -232,29 +230,25 @@
 <li></li>
 </ul>
 <p><strong>Aim of study</strong></p>
+<p>To understand spatio-temporal dynamic characteristics of COVID-19 to help with the prevention and control of the disease.</p>
 <ul>
-<li>
-<p>To understand spatio-temporal dynamic characteristics of COVID-19</p>
-</li>
 <li></li>
 </ul>
 <p><strong>Methodology</strong></p>
 <ul>
-<li>
-<p>Spatial autocorrelation (Moran’s I)</p>
-</li>
-<li>
-<p>Find out if study area and its neighbors had significant global and local spatial autocorrelation characteristics</p>
-</li>
-<li>
-<p>Statistical correlation</p>
-</li>
-<li>
-<p>Find out correlation between cases at prefecture level and county level, plus other indication (population, economy, environmental, etc)</p>
-</li>
+<li>i. Spatial autocorrelation (Moran’s I)</li>
+</ul>
+<p>Global spatial autocorrelation is used to measure the spatial characteristics in cases the entire region. Analysis is also done on the overall spatial correlation and spatial differences within the region. To compute the global spatial autocorrelation, Global Moran&rsquo;s I is used.</p>
+<p>Local Spatial aurocorrelation analysis such as Local Moran I is also done to indentify regions with high or low clustering significance.Getis-Ord Gi is later then used to identify the association between hotspots adn coldspots/</p>
+<ul>
+<li>ii. Statistical correlation</li>
+</ul>
+<p>Pearson statistical correaltion was used to find out correlation between cases at prefecture level and county level, plus other indication (population, economy, environmental, etc).</p>
+<ul>
 <li></li>
 </ul>
 <p><strong>Learning Points</strong></p>
+<p><img src="litreview_cluster.png" alt="cluster"></p>
 <ul>
 <li>
 <p>Spatial scale significantly affected global spatial autocorrelation of NCP epidemic</p>
@@ -291,10 +285,18 @@
   <br/>
 </div>
 
-<div id = "7. Approach">
+<div id = "Methodology">
   <br/>
-  <h2>7. Approach</h2>
-  
+  <h2>Methodology</h2>
+  <p><strong>a. Data collection</strong></p>
+<p>Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government&rsquo;s open data source.</p>
+<p><strong>b. Data Cleaning</strong></p>
+<ol>
+<li>Data Cleaning and Wrangling</li>
+<li>Exploratory Data Analysis</li>
+<li>Data Analysis</li>
+</ol>
+
   <br/>
 </div>
 
@@ -314,13 +316,6 @@
   <h2>9. Milestone</h2>
   <p><img src="timeline.png" alt="milestone"></p>
 
-  <br/>
-</div>
-
-<div id = "10. References">
-  <br/>
-  <h2>10. References</h2>
-  
   <br/>
 </div>
 

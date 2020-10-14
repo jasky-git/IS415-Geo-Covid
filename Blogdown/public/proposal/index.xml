@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on Hugo Whisper Theme</title>
+    <title>Overview on GEOVID</title>
     <link>/proposal/</link>
-    <description>Recent content in Overview on Hugo Whisper Theme</description>
+    <description>Recent content in Overview on GEOVID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/proposal/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1. Project Motivation</title>
+      <title>Project Motivation</title>
       <link>/proposal/problem-motivation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -17,17 +17,17 @@
     </item>
     
     <item>
-      <title>2. Objectives</title>
+      <title>Objectives</title>
       <link>/proposal/objectives/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/proposal/objectives/</guid>
       <description>Our group will focus on the following objectives:
- Visualise density / intensity (?) of covid cases. Conduct spatial analysis to find out spatial correlation patterns and influencing factors. Web-based interface with relevant filters  </description>
+ Visualize density of the COVID-19 cases in Hong Kong by performing relevant exploratory data analysis. intensity(?) Conduct spatial analysis to find out spatial correlation patterns and influencing factors.</description>
     </item>
     
     <item>
-      <title>3. Data Source</title>
+      <title>Data Source(s)</title>
       <link>/proposal/dataset/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
@@ -36,7 +36,7 @@
     </item>
     
     <item>
-      <title>4. Data Preperation</title>
+      <title>Data Preparation</title>
       <link>/proposal/data-prep/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
@@ -53,7 +53,7 @@ Data of the cases of coronavirus in Hong Kong, the quarantine building list, mea
       <guid>/proposal/literature-review/</guid>
       <description>4.1 Spatial statistics and influencing factors of the novel coronavirus Taken from: (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)
    Aim of study
-  To understand spatio-temporal dynamic characteristics of COVID-19</description>
+To understand spatio-temporal dynamic characteristics of COVID-19 to help with the prevention and control of the disease.</description>
     </item>
     
     <item>
@@ -66,12 +66,13 @@ Data of the cases of coronavirus in Hong Kong, the quarantine building list, mea
     </item>
     
     <item>
-      <title>7. Approach</title>
+      <title>Methodology</title>
       <link>/proposal/approach/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/proposal/approach/</guid>
-      <description></description>
+      <description>a. Data collection
+Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government&amp;rsquo;s open data source.</description>
     </item>
     
     <item>
@@ -89,15 +90,6 @@ Data of the cases of coronavirus in Hong Kong, the quarantine building list, mea
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/proposal/milestone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>10. References</title>
-      <link>/proposal/reference/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/proposal/reference/</guid>
       <description></description>
     </item>
     

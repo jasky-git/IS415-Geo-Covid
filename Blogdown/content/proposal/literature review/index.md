@@ -12,17 +12,27 @@ Taken from:
 
 *   
 **Aim of study**
-* To understand spatio-temporal dynamic characteristics of COVID-19
+
+To understand spatio-temporal dynamic characteristics of COVID-19 to help with the prevention and control of the disease. 
 
 *   
 **Methodology**
-* Spatial autocorrelation (Moran’s I)
-* Find out if study area and its neighbors had significant global and local spatial autocorrelation characteristics
-* Statistical correlation
-* Find out correlation between cases at prefecture level and county level, plus other indication (population, economy, environmental, etc)
+
+* i. Spatial autocorrelation (Moran’s I)
+
+Global spatial autocorrelation is used to measure the spatial characteristics in cases the entire region. Analysis is also done on the overall spatial correlation and spatial differences within the region. To compute the global spatial autocorrelation, Global Moran's I is used.
+
+Local Spatial aurocorrelation analysis such as Local Moran I is also done to indentify regions with high or low clustering significance.Getis-Ord Gi is later then used to identify the association between hotspots adn coldspots/
+
+* ii. Statistical correlation
+
+Pearson statistical correaltion was used to find out correlation between cases at prefecture level and county level, plus other indication (population, economy, environmental, etc).
   
 *    
 **Learning Points**
+
+![cluster](litreview_cluster.png)
+
 * Spatial scale significantly affected global spatial autocorrelation of NCP epidemic
 * Cases at provincial level, prefecture and county level has significant local spatial autocorrelation and clustering characteristics
 * No global spatial autocorrelation at provincial level
