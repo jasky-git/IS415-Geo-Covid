@@ -1,5 +1,5 @@
 ---
-title: '7. Approach'
+title: 'Methodology'
 date: 2019-02-11T19:27:37+10:00
 weight: 8
 ---
@@ -11,5 +11,6 @@ Data of the cases of coronavirus in Hong Kong, the quarantine building list, mea
 **b. Data Cleaning**
 
 
-3. Data Wrangling
+1. Data Cleaning and Wrangling
+2. Exploratory Data Analysis
 4. Data Analysis
