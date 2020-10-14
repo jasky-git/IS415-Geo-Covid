@@ -22,6 +22,7 @@ To understand spatio-temporal dynamic characteristics of COVID-19 to help with t
 
 * i. Spatial autocorrelation (Moran’s I)
 
+
 ![cluster](litreview_cluster.png)
 
 Global spatial autocorrelation is used to measure the spatial characteristics in cases the entire region. Analysis is also done on the overall spatial correlation and spatial differences within the region. To compute the global spatial autocorrelation, Global Moran's I is used.
@@ -31,6 +32,7 @@ Global spatial autocorrelation is used to measure the spatial characteristics in
 Local Spatial aurocorrelation analysis such as Local Moran I is also done to indentify regions with high or low clustering significance.Getis-Ord Gi is later then used to identify the association between hotspots adn coldspots/
 
 * ii. Statistical correlation
+
 
 ![moran](litreview_moran_zscore.png)
 
