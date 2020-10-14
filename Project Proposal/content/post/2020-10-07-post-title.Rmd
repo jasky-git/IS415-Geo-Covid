@@ -1,8 +1,0 @@
----
-title: Covid-19
-author: IS415 Group 6 by: Ivy, Shermin, Jasky
-date: '2020-10-07'
-slug: post-title
-categories: []
-tags: []
----
