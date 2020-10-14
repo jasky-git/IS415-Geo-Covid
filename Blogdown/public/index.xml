@@ -43,7 +43,8 @@ Install theme Copy or git clone this theme into the sites themes folder mynewsit
       
       <guid>/proposal/objectives/</guid>
       <description>Our group will focus on the following objectives:
- Visualize density of the COVID-19 cases in Hong Kong by performing relevant exploratory data analysis. intensity(?) Conduct spatial analysis to find out spatial correlation patterns and influencing factors.</description>
+  Visualize density of the COVID-19 cases in Hong Kong by performing relevant exploratory data analysis.
+  Conduct global and local spatial analysis to find out spatial correlation patterns and influencing factors.</description>
     </item>
     
     <item>
@@ -93,12 +94,12 @@ Data of the cases of coronavirus in Hong Kong, the quarantine building list, mea
     </item>
     
     <item>
-      <title>5. Literature Review</title>
+      <title>Literature Review</title>
       <link>/proposal/literature-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/proposal/literature-review/</guid>
-      <description>4.1 Spatial statistics and influencing factors of the novel coronavirus Taken from: (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)
+      <description>Spatial statistics and influencing factors of the novel coronavirus Taken from: (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)
 Yongzhu Xiong, Yunpeng Wang, Feng Chen et al. Spatial statistics and influencing factors of the novel coronavirus pneumonia 2019 epidemic in Hubei Province, China, 06 April 2020, PREPRINT (Version 2) available at Research Square [+https://doi.</description>
     </item>
     
@@ -121,7 +122,7 @@ Yongzhu Xiong, Yunpeng Wang, Feng Chen et al. Spatial statistics and influencing
     </item>
     
     <item>
-      <title>8. Tools &amp; System Architecture</title>
+      <title>Tools &amp; System Architecture</title>
       <link>/proposal/tools-and-data-architecture/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
@@ -130,7 +131,7 @@ Yongzhu Xiong, Yunpeng Wang, Feng Chen et al. Spatial statistics and influencing
     </item>
     
     <item>
-      <title>9. Milestone</title>
+      <title>Milestone</title>
       <link>/proposal/milestone/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       

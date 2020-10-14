@@ -1,11 +1,11 @@
 ---
-title: '5. Literature Review'
+title: 'Literature Review'
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 draft: false
 weight: 6
 ---
 
-### 4.1 Spatial statistics and influencing factors of the novel coronavirus 
+### Spatial statistics and influencing factors of the novel coronavirus 
 
 Taken from: 
 (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)
