@@ -42,16 +42,12 @@
   </url>
   
   <url>
-    <loc>/docs/specimen/</loc>
+    <loc>/proposal/data-prep/</loc>
     <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/proposal/literature-review/</loc>
-  </url>
-  
-  <url>
-    <loc>/proposal/approach/</loc>
+    <loc>/docs/specimen/</loc>
     <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   
@@ -61,7 +57,16 @@
   </url>
   
   <url>
+    <loc>/proposal/literature-review/</loc>
+  </url>
+  
+  <url>
     <loc>/proposal/storyboard/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/proposal/approach/</loc>
     <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   

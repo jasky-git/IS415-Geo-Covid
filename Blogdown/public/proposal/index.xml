@@ -36,22 +36,23 @@
     </item>
     
     <item>
-      <title>4. Literature Review</title>
+      <title>4. Data Preperation</title>
+      <link>/proposal/data-prep/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/proposal/data-prep/</guid>
+      <description>a. Data collection
+Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government&amp;rsquo;s open data source.</description>
+    </item>
+    
+    <item>
+      <title>5. Literature Review</title>
       <link>/proposal/literature-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/proposal/literature-review/</guid>
-      <description>4.1 Spatial statistics and influencing factors of the novel coronavirus (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu) a. Aim of study
- To understand spatio-temporal dynamic characteristics of covid-19  b.</description>
-    </item>
-    
-    <item>
-      <title>5. Approach</title>
-      <link>/proposal/approach/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/proposal/approach/</guid>
-      <description> Data collection Data Cleaning Data Wrangling Data Analysis  </description>
+      <description>4.1 Spatial statistics and influencing factors of the novel coronavirus (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)    Aim of study
+  To understand spatio-temporal dynamic characteristics of covid-19</description>
     </item>
     
     <item>
@@ -64,7 +65,17 @@
     </item>
     
     <item>
-      <title>7. Tools &amp; System Architecture</title>
+      <title>7. Approach</title>
+      <link>/proposal/approach/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/proposal/approach/</guid>
+      <description>a. Data collection
+Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government&amp;rsquo;s open data source.</description>
+    </item>
+    
+    <item>
+      <title>8. Tools &amp; System Architecture</title>
       <link>/proposal/tools-and-data-architecture/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
@@ -73,7 +84,7 @@
     </item>
     
     <item>
-      <title>8. Milestone</title>
+      <title>9. Milestone</title>
       <link>/proposal/milestone/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
@@ -82,7 +93,7 @@
     </item>
     
     <item>
-      <title>9. References</title>
+      <title>10. References</title>
       <link>/proposal/reference/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
