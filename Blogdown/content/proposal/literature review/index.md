@@ -7,8 +7,7 @@ weight: 6
 
 ### Spatial statistics and influencing factors of the novel coronavirus 
 
-Taken from: 
-(By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)
+As referred from the following: 
 
 Yongzhu Xiong, Yunpeng Wang, Feng Chen et al. Spatial statistics and influencing factors of the novel coronavirus pneumonia 2019 epidemic in Hubei Province, China, 06 April 2020, PREPRINT (Version 2) available at Research Square [+https://doi.org/10.21203/rs.3.rs-16858/v2+]
 
