@@ -6,6 +6,8 @@ weight: 8
 
 ### Tools
 
+![tools](tools.png)
+
 ### Application System Architecture
 
 ![architecture](architecture.png)
