@@ -66,16 +66,6 @@ Install theme Copy or git clone this theme into the sites themes folder mynewsit
     </item>
     
     <item>
-      <title>Data Preparation</title>
-      <link>/proposal/data-prep/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/proposal/data-prep/</guid>
-      <description>a. Data collection
-Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government&amp;rsquo;s open data source.</description>
-    </item>
-    
-    <item>
       <title>Specimen</title>
       <link>/docs/specimen/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
@@ -113,12 +103,13 @@ Yongzhu Xiong, Yunpeng Wang, Feng Chen et al. Spatial statistics and influencing
     </item>
     
     <item>
-      <title>Methodology</title>
-      <link>/proposal/approach/</link>
+      <title>Data Preparation &amp; Analysis</title>
+      <link>/proposal/data-prep-and-analysis/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>/proposal/approach/</guid>
-      <description>Approach *Data Collection *Data Cleaning and Wrangling *Exploratory Data Analysis *Spatial Analysis (?) *Global/Local Moran&amp;rsquo;s I *Getis and Ord&amp;rsquo;s G-Statistics</description>
+      <guid>/proposal/data-prep-and-analysis/</guid>
+      <description>Data Preparation
+ Data Collection  Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.</description>
     </item>
     
     <item>

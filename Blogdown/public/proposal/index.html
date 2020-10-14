@@ -140,10 +140,6 @@
     </li>
     
     <li class="">
-      <a href = "#Data%20Preparation">Data Preparation </a>
-    </li>
-    
-    <li class="">
       <a href = "#Literature%20Review">Literature Review </a>
     </li>
     
@@ -152,7 +148,7 @@
     </li>
     
     <li class="">
-      <a href = "#Methodology">Methodology </a>
+      <a href = "#Data%20Preparation%20%26%20Analysis">Data Preparation &amp; Analysis </a>
     </li>
     
     <li class="">
@@ -214,19 +210,6 @@
   <br/>
 </div>
 
-<div id = "Data Preparation">
-  <br/>
-  <h2>Data Preparation</h2>
-  <p><strong>a. Data collection</strong></p>
-<p>Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government&rsquo;s open data source.</p>
-<p><strong>b. Data Cleaning and Wrangling</strong></p>
-<p>The data cases has to be clean to extract only data from January to September. Duplicates will also need to be checked to prevent skewed data analysis. Data Standardization will then ensure the same data types to ensure a fairer comparison and analysis.</p>
-<p><strong>c. Data Transformation</strong></p>
-<p>As the study analyses the intensity and relationships, the data has to be transformed to the relevant formats before more statistical analysis can be done. Such transformations are converting SpatialPointDataFrame to Point Pattern Processes. Shapefile for the geographic area will need to be converted to owin in order to analysis the points in the study area.</p>
-
-  <br/>
-</div>
-
 <div id = "Literature Review">
   <br/>
   <h2>Literature Review</h2>
@@ -277,16 +260,36 @@
   <br/>
 </div>
 
-<div id = "Methodology">
+<div id = "Data Preparation &amp; Analysis">
   <br/>
-  <h2>Methodology</h2>
-  <p><strong>Approach</strong>
-*Data Collection
-*Data Cleaning and Wrangling
-*Exploratory Data Analysis
-*Spatial Analysis (?)
-*Global/Local Moran&rsquo;s I
-*Getis and Ord&rsquo;s G-Statistics</p>
+  <h2>Data Preparation &amp; Analysis</h2>
+  <p><strong>Data Preparation</strong></p>
+<ul>
+<li>Data Collection</li>
+</ul>
+<p>Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government’s open data source.</p>
+<ul>
+<li>Data Cleaning and Wrangling</li>
+</ul>
+<p>The data cases has to be clean to extract only data from January to September. Duplicates will also need to be checked to prevent skewed data analysis. Data Standardization will then ensure the same data types to ensure a fairer comparison and analysis.</p>
+<ul>
+<li>Data Transformation</li>
+</ul>
+<p>As the study analyses the intensity and relationships, the data has to be transformed to the relevant formats before more statistical analysis can be done. Such transformations are converting SpatialPointDataFrame to Point Pattern Processes. Shapefile for the geographic area will need to be converted to owin in order to analysis the points in the study area.</p>
+<p><strong>Data Analysis</strong></p>
+<ul>
+<li>Exploratory Data Analysis</li>
+</ul>
+<p>Exploratory Data Analysis will first be used to describe the data and general observations that could be observed</p>
+<ul>
+<li>Global/Local Moran&rsquo;s I</li>
+</ul>
+<p>Global Moran I will be used to analyse the autocorrelation of objects with the global area.</p>
+<p>Local Moran&rsquo;s I will be used to analysed the autocorrelation on the local level.</p>
+<ul>
+<li>Getis and Ord&rsquo;s G-Statistics</li>
+</ul>
+<p>Getis and Ord&rsquo;s G-Statistics will be used to analyse the statistically significant hot and cold spots.</p>
 
   <br/>
 </div>
