@@ -1,7 +1,7 @@
-baseURL = "/"
+baseURL = "www.example.com"
 languageCode = "en-us"
-title = "GEOVID"
-themesDir = "/blogdown/themes"
+title = "Hugo Whisper Theme"
+themesDir = "../.."
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
@@ -13,41 +13,28 @@ pygmentsUseClasses = true
 summaryLength = 30
 
 [[menu.main]]
-    name = "Covid-19"
+    name = "Home"
     url = "/"
     weight = 1
+
 [[menu.main]]
-    name = "Proposal"
-    url = "/Proposal/"
+    name = "Docs"
+    url = "/docs/"
     weight = 2
-[[menu.main]]
-    name = "Poster"
-    url = "/poster/"
-    weight = 3
-[[menu.main]]
-    name = "Application"
-    url = "/application/"
-    weight = 4
-[[menu.main]]
-    name = "Research Paper"
-    url = "/reserach-paper/"
-    weight = 5
-    
 
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
   homepage_button_text = 'Read The Docs'
-  
-  homepage_image = '/images/logo2.jpg'
-  homepage_intro = ''
+  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
+  homepage_image = '/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
-  # enable_anchor_link = trueWS
+  # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = ""
-    meta_og_title = "Geovid"
+    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_title = "Hugo Whisper Theme"
     meta_og_type = "website"
     meta_og_url = "https://hugo-whisper.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
@@ -57,15 +44,5 @@ summaryLength = 30
     meta_twitter_creator = "@zerostaticio"
 
   [params.logo]
-      mobile = "/images/logo2.jpg"
-      standard  = "/images/logo2.jpg"
-  
-[build]
-  publish = "Blogdown/public"
-  command = "cd exampleSite && hugo --gc --themesDir ../.."
-
-[build.environment]
-  HUGO_VERSION = "0.74.3"
-  HUGO_THEME = "repo"
-  HUGO_BASEURL = "/"
-
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
