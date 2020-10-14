@@ -79,7 +79,7 @@ Install theme Copy or git clone this theme into the sites themes folder mynewsit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/proposal/literature-review/</guid>
-      <description>1. Spatial statistics and influencing factors of the novel coronavirus (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu) a. Aim of study
+      <description>4.1 Spatial statistics and influencing factors of the novel coronavirus (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu) a. Aim of study
  To understand spatio-temporal dynamic characteristics of covid-19  b.</description>
     </item>
     
@@ -116,8 +116,7 @@ Install theme Copy or git clone this theme into the sites themes folder mynewsit
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/proposal/tools-and-data-architecture/</guid>
-      <description>Tools Application System Architecture ![system architecture](/proposal/tools and data architecture/index_files/system architecture.png)
-knitr::include_graphics(rep(&amp;ldquo;public/proposal/tools and data architecture/index_files/system architecture.png&amp;rdquo;))</description>
+      <description>Tools Application System Architecture </description>
     </item>
     
     <item>

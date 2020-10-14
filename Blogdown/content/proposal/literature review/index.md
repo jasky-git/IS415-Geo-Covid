@@ -5,14 +5,14 @@ draft: false
 weight: 5
 ---
 
-###### 1. Spatial statistics and influencing factors of the novel coronavirus (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)
+#### 4.1 Spatial statistics and influencing factors of the novel coronavirus (By: Yongzhu Xiong, Yunpeng Wang, Feng Chen, Mingyong Zhu)
 
 
 a. Aim of study
 - To understand spatio-temporal dynamic characteristics of covid-19
 
 b. Methodology
-- Spatial autocorrelation (Moran’s I)
+* Spatial autocorrelation (Moran’s I)
   - Find out if study area and its neighbors had significant global and local spatial autocorrelation characteristics
 - Statistical correlation
    - Find out correlation between cases at prefecture level and county level, plus other indication (population, economy, environmental, etc)
