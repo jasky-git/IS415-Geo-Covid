@@ -148,7 +148,7 @@
     </li>
     
     <li class="">
-      <a href = "#6.%20Application%20Storyboard">6. Application Storyboard </a>
+      <a href = "#Application%20Storyboard">Application Storyboard </a>
     </li>
     
     <li class="">
@@ -192,7 +192,7 @@
 <li>Visualize density of the COVID-19 cases in Hong Kong by performing relevant exploratory data analysis.</li>
 <li>intensity(?)</li>
 <li>Conduct spatial analysis to find out spatial correlation patterns and influencing factors.</li>
-<li>Create a web-based interface with relevant filters to display relevant data analysis</li>
+<li>Create a web-based interface through R Shiny with relevant filters to display relevant data analysis.</li>
 <li>Evaluate results based on the findings to understand the spread in Hong Kong, and provide recommendations to further mitigate the situation.</li>
 </ol>
 
@@ -238,49 +238,33 @@
 <ul>
 <li>i. Spatial autocorrelation (Moran’s I)</li>
 </ul>
+<p><img src="litreview_cluster.png" alt="cluster"></p>
 <p>Global spatial autocorrelation is used to measure the spatial characteristics in cases the entire region. Analysis is also done on the overall spatial correlation and spatial differences within the region. To compute the global spatial autocorrelation, Global Moran&rsquo;s I is used.</p>
+<p><img src="litreview_getis.png" alt="getis"></p>
 <p>Local Spatial aurocorrelation analysis such as Local Moran I is also done to indentify regions with high or low clustering significance.Getis-Ord Gi is later then used to identify the association between hotspots adn coldspots/</p>
 <ul>
 <li>ii. Statistical correlation</li>
 </ul>
+<p><img src="litreview_moran_zscore.png" alt="moran"></p>
 <p>Pearson statistical correaltion was used to find out correlation between cases at prefecture level and county level, plus other indication (population, economy, environmental, etc).</p>
 <ul>
 <li></li>
 </ul>
 <p><strong>Learning Points</strong></p>
-<p><img src="litreview_cluster.png" alt="cluster"></p>
+<p>Analysis has to take into consider the prefecture compared to the nationwide level. Cases at different level, such as provincial, prefecture, county, affects the results of the analysis.</p>
+<p>Analysis was done to find out if covid-cases was significant to natural environment, population, and social and economic activities.</p>
 <ul>
-<li>
-<p>Spatial scale significantly affected global spatial autocorrelation of NCP epidemic</p>
-</li>
-<li>
-<p>Cases at provincial level, prefecture and county level has significant local spatial autocorrelation and clustering characteristics</p>
-</li>
-<li>
-<p>No global spatial autocorrelation at provincial level</p>
-</li>
-<li>
-<p>Significant local clustering characteristics</p>
-</li>
-<li>
-<p>Not related to natural environment, population and social and economic activities</p>
-</li>
-<li>
-<p>Closely related to prevention and control of epidemic</p>
-</li>
 <li></li>
 </ul>
 <p><strong>Areas of Improvement</strong></p>
-<ul>
-<li>The research only focus on mainly 1 methodology, which is autocorrelation analysis</li>
-</ul>
+<p>Perphaps there should be research done on the effects on lockdown and show it prevents the spread of covid-19. The information found will help with the planning of covid-19 measures.</p>
 
   <br/>
 </div>
 
-<div id = "6. Application Storyboard">
+<div id = "Application Storyboard">
   <br/>
-  <h2>6. Application Storyboard</h2>
+  <h2>Application Storyboard</h2>
   
   <br/>
 </div>
@@ -288,14 +272,13 @@
 <div id = "Methodology">
   <br/>
   <h2>Methodology</h2>
-  <p><strong>a. Data collection</strong></p>
-<p>Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government&rsquo;s open data source.</p>
-<p><strong>b. Data Cleaning</strong></p>
-<ol>
-<li>Data Cleaning and Wrangling</li>
-<li>Exploratory Data Analysis</li>
-<li>Data Analysis</li>
-</ol>
+  <p><strong>Approach</strong>
+*Data Collection
+*Data Cleaning and Wrangling
+*Exploratory Data Analysis
+*Spatial Analysis (?)
+*Global/Local Moran&rsquo;s I
+*Getis and Ord&rsquo;s G-Statistics</p>
 
   <br/>
 </div>

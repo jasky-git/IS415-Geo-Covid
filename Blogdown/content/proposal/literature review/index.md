@@ -20,29 +20,31 @@ To understand spatio-temporal dynamic characteristics of COVID-19 to help with t
 
 * i. Spatial autocorrelation (Moran’s I)
 
+![cluster](litreview_cluster.png)
+
 Global spatial autocorrelation is used to measure the spatial characteristics in cases the entire region. Analysis is also done on the overall spatial correlation and spatial differences within the region. To compute the global spatial autocorrelation, Global Moran's I is used.
+
+![getis](litreview_getis.png)
 
 Local Spatial aurocorrelation analysis such as Local Moran I is also done to indentify regions with high or low clustering significance.Getis-Ord Gi is later then used to identify the association between hotspots adn coldspots/
 
 * ii. Statistical correlation
+
+![moran](litreview_moran_zscore.png)
 
 Pearson statistical correaltion was used to find out correlation between cases at prefecture level and county level, plus other indication (population, economy, environmental, etc).
   
 *    
 **Learning Points**
 
-![cluster](litreview_cluster.png)
+Analysis has to take into consider the prefecture compared to the nationwide level. Cases at different level, such as provincial, prefecture, county, affects the results of the analysis.
 
-* Spatial scale significantly affected global spatial autocorrelation of NCP epidemic
-* Cases at provincial level, prefecture and county level has significant local spatial autocorrelation and clustering characteristics
-* No global spatial autocorrelation at provincial level
-* Significant local clustering characteristics
-* Not related to natural environment, population and social and economic activities
-* Closely related to prevention and control of epidemic
+Analysis was done to find out if covid-cases was significant to natural environment, population, and social and economic activities.
 
 *   
 **Areas of Improvement**
-- The research only focus on mainly 1 methodology, which is autocorrelation analysis
+
+Perphaps there should be research done on the effects on lockdown and show it prevents the spread of covid-19. The information found will help with the planning of covid-19 measures.
 
 
 

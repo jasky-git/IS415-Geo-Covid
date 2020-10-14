@@ -57,7 +57,7 @@ To understand spatio-temporal dynamic characteristics of COVID-19 to help with t
     </item>
     
     <item>
-      <title>6. Application Storyboard</title>
+      <title>Application Storyboard</title>
       <link>/proposal/storyboard/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
@@ -71,8 +71,7 @@ To understand spatio-temporal dynamic characteristics of COVID-19 to help with t
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/proposal/approach/</guid>
-      <description>a. Data collection
-Data of the cases of coronavirus in Hong Kong, the quarantine building list, means of transport, population, as well as testing, are obtained from data.gov.hk, the Hong Kong government&amp;rsquo;s open data source.</description>
+      <description>Approach *Data Collection *Data Cleaning and Wrangling *Exploratory Data Analysis *Spatial Analysis (?) *Global/Local Moran&amp;rsquo;s I *Getis and Ord&amp;rsquo;s G-Statistics</description>
     </item>
     
     <item>
