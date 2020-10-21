@@ -13,7 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Getting Started
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
-packages = c('sp', 'rgdal', 'sf', 'tidyverse', 'tmap', 'ggplot2', 'maptools', 'raster', 'spatstat', 'dplyr')
+packages = c('sp','tidyverse', 'sf',  'rgdal','spatstat', 'spatstat', 'raster', 'maptools', 'rgeos','dplyr', 'tmap', 'ggplot2', 'spdep')
+
 for(p in packages){
   if(!require(p, character.only = T)){
     install.packages(p)
@@ -54,15 +55,74 @@ pop_sex_2020 <- pop_sex %>%
 ```
 
 ## No. of Confines by Types in Quarantine Centres
-```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
-#confines_qc$`As of date` <- as.Date(confines_qc$`As of date`, "%d/%m/%y")
-#confines_qc$`As of month` <- format(confines_qc$`As of date`, "%m")
 
-
-#cumulative_confines_qc <- confines_qc %>%
-  #dplyr::select('As of month', 'Cumulative number of close contacts of confirmed cases', 'Cumulative number of non-close contacts')
-  
+### Check for duplicates
+```{r}
+duplicated(confines_qc)
 ```
+
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+confines_qc$`As of date` <- as.Date(confines_qc$`As of date`, "%d/%m/%y")
+confines_qc$`As of month` <- format(confines_qc$`As of date`, "%m")
+
+
+confines_qc_cumul_close <- confines_qc %>%
+  dplyr::select("As of date", "Cumulative number of close contacts of confirmed cases")
+  
+confines_qc_cumul_nonclose <- confines_qc %>%
+  dplyr::select("As of date", "Cumulative number of non-close contacts")
+
+confines_qc_current_close <- confines_qc %>%
+  dplyr::select("As of date", "Current number of close contacts of confirmed cases")
+
+confines_qc_cuurent_nonclose <- confines_qc %>%
+  dplyr::select("As of date", "Current number of non-close contacts")
+```
+
+
+### Line graph
+
+#### Cumulative number of close contact
+
+```{r}
+confines_cumul_close_line <- 
+  ggplot(confines_qc_cumul_close, aes(x = `As of date`, y = `Cumulative number of close contacts of confirmed cases`)) +
+  geom_line()
+
+confines_cumul_close_line
+```
+
+#### Cumulative number of non-close contact
+
+```{r}
+confines_cumul_nonclose_line <- 
+  ggplot(confines_qc_cumul_nonclose, aes(x = `As of date`, y = `Cumulative number of non-close contacts`)) +
+  geom_line()
+
+confines_cumul_nonclose_line
+```
+
+#### Current number of close contact
+
+```{r}
+confines_current_close_line <- 
+  ggplot(confines_qc_current_close, aes(x = `As of date`, y = `Current number of close contacts of confirmed cases`)) +
+  geom_line()
+
+confines_current_close_line
+```
+
+#### Current numebr of non-close contacts
+
+```{r}
+confines_current_nonclose_line <- 
+  ggplot(confines_qc_cuurent_nonclose, aes(x = `As of date`, y = `Current number of non-close contacts`)) +
+  geom_line()
+
+confines_current_nonclose_line
+
+```
+
 
 ## Total No. of Reported Cases Daily in HK
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
