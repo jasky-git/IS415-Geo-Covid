@@ -238,27 +238,61 @@ cases_date <- indv_caseinfo %>%
 ggplot(cases_date, aes(x=`Report date`, y=count)) + geom_line() + geom_point() + scale_x_date(date_labels = "%m") + geom_text(aes(label=count), vjust=-0.5)
 ```
 
+# Occupancy_qc
 
+## Get unique centres
 
+```{r}
+quarantine <- distinct(occupancy_qc, `Quarantine centres`)
+address <- distinct(occupancy_qc,`Address`)
+centre_address <- occupancy_qc %>%
+  dplyr::select(`Quarantine centres`, `Address`) %>%
+  dplyr::mutate("~name" = `Quarantine centres`, "~addr" = `Address`) %>%
+  dplyr::select("~name", "~addr")
 
-
-
-
-
-
-
-```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
-
+centre_address
 ```
 
-```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+## Only take the string before the ,
 
+```{r}
+centre_address <- distinct(centre_address)
+centre_address$`~addr` <-  gsub("\\,.*","",centre_address$`~addr`)
 ```
 
-```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+## Correct spelling or data errors
 
+```{r}
+centre_address[2,2] <- "No. 123 Fan Kam Road"
+centre_address[5,2] <- "Tui Min Hoi"
+centre_address[7,2] <- "Lantau Island"
 ```
 
+## Compute Longitude and Latitude with geocode()
+>>>>>>> ac7d409fca238c60f8c3e07b194a54de393aa98a
+
+```{r}
+lat_long <- centre_address %>%
+  geocode(street = `~addr`, country = "Hong Kong", method = 'osm', lat = latitude , long = longitude)
+```
+
+## Convert crs to 2326
+
+```{r}
+lat_long <- as.data.frame(lat_long)
+
+lat_long <- st_as_sf(lat_long, coords = c("longitude", "latitude"), crs = 2326)
+```
+
+## Plot confine centre on map
+
+```{r}
+tm_shape(hk_map_2326) + 
+  tm_fill() +
+  tm_borders(alpha = 0.3) +
+  tm_shape(lat_long) +
+    tm_dots(size = 0.1)
+```
 
 
 
