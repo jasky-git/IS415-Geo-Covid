@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Getting Started
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
-packages = c('sp','tidyverse', 'sf',  'rgdal','spatstat', 'spatstat', 'raster', 'maptools', 'rgeos','dplyr', 'tmap', 'ggplot2', 'spdep', 'lubridate')
+packages = c('sp','tidyverse', 'sf',  'rgdal','spatstat', 'spatstat', 'raster', 'maptools', 'rgeos','dplyr', 'tmap', 'ggplot2', 'spdep')
 
 for(p in packages){
   if(!require(p, character.only = T)){
