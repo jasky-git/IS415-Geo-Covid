@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Getting Started
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
-packages = c('sp','tidyverse', 'sf',  'rgdal','spatstat', 'spatstat', 'raster', 'maptools', 'rgeos','dplyr', 'tmap', 'ggplot2', 'spdep')
+packages = c('lubridate','readxl','sp','tidyverse', 'sf',  'rgdal','spatstat', 'spatstat', 'raster', 'maptools', 'rgeos','dplyr', 'tmap', 'ggplot2', 'spdep')
 
 for(p in packages){
   if(!require(p, character.only = T)){
@@ -35,6 +35,7 @@ occupancy_qc <- read_csv("data/aspatial/occupancy_of_quarantine_centres_eng.csv"
 indv_caseinfo <- read_csv("data/aspatial/enhanced_sur_covid_19_eng.csv")
 reported_cases_by_country <- read_csv("data/aspatial/countries_areas_have_reported_cases_eng.csv")
 testing_done_mth <- read_csv("data/aspatial/statistics_on_covid_19_testing_cumulative.csv")
+reported_cases <- read_csv("data/aspatial/latest_situation_of_reported_cases_covid_19_eng.csv")
 ```
 
 
@@ -124,13 +125,78 @@ confines_current_nonclose_line
 ```
 
 
+#### Filter for Monthly Number of Confirm cases and Death cases
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+reported_cases_filtered = reported_cases %>% 
+  group_by(strftime(`As of date`, "%d-%m")) %>%
+  filter(`As of date` == max(`As of date`))
+  #%>% .$`As of date`
+
+reported_cases_filtered$`As of date` <- as.Date(reported_cases_filtered$`As of date`, "%d/%m/%y")
+reported_cases_filtered$`As_of_month` <- format(reported_cases_filtered$`As of date`, "%m")
+
+reported_cases_filtered <- reported_cases_filtered %>%
+  mutate(Month = case_when(
+    between(As_of_month, 01, 01) ~ "January",
+    between(As_of_month, 02, 02) ~ "Feburary",
+    between(As_of_month, 03, 03) ~ "March",
+    between(As_of_month, 04, 04) ~ "April",
+    between(As_of_month, 05, 05) ~ "May",
+    between(As_of_month, 06, 06) ~ "June",
+    between(As_of_month, 07, 07) ~ "July",
+    between(As_of_month, 08, 08) ~ "August",
+    between(As_of_month, 09, 09) ~ "September"
+    ))
+
+reported_cases_filtered_ <- reported_cases_filtered %>%
+  dplyr::select("As of date", "Month", "Number of confirmed cases", "Number of death cases")
+  #arrange(Month)
+```
+
+#### Bar plot the Monthly Number of Confirm cases
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+reported_cases_bar_c <- barplot(reported_cases_filtered_$`Number of confirmed cases`, ylim = c(0, 5500), main = "2020 Monthly Number of Confirm Cases ", ylab="Number of Confirm Cases")
+axis(1, at=reported_cases_bar_c, labels=reported_cases_filtered_$Month, las=2, cex.lab=4)
+```
+
+#### Line plot the Monthly Number of Confirm cases
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+reported_cases_line_c <-
+  ggplot(reported_cases_filtered_, aes(x = `As of date`, y = `Number of confirmed cases`)) +
+  geom_point() +
+  geom_line() +
+  #facet_grid(facets = Month ~ .) +
+  #scale_x_date(labels = function(x) format(x, "%b")) +
+  theme_bw()
+
+reported_cases_line_c
+```
+
+#### Bar plot the Monthly Number of Death cases
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+reported_cases_bar_c <- barplot(reported_cases_filtered_$`Number of death cases`, ylim = c(0, 120), main = "2020 Monthly Number of Death Cases ", ylab="Number of Death Cases")
+axis(1, at=reported_cases_bar_c, labels=reported_cases_filtered_$Month, las=2, cex.lab=4)
+```
+
+#### Line plot the Monthly Number of Death cases
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+reported_cases_line_d <-
+  #ggplot(reported_cases_filtered_, aes(x = Month, y = `Number of death cases`)) +
+  ggplot(reported_cases_filtered_, aes(x = `As of date`, y = `Number of death cases`)) +
+  geom_point() +
+  geom_line() +
+  #facet_grid(facets = Month ~ .) +
+  #scale_x_date(labels = function(x) format(x, "%b")) +
+  theme_bw()
+
+reported_cases_line_d
+```
+
 ## Total No. of Reported Cases Daily in HK
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 hk_reported_cases <- reported_cases_by_country %>%
   filter(`Countries/areas` == 'Hong Kong Special Administrative Region')
 ```
-
-
 
 # EPSG:2326
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
@@ -140,10 +206,17 @@ hk_location_2326 <- st_set_crs(hk_location, 2326)
 
 
 
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 
+```
 
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 
+```
 
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+
+```
 
 
 
