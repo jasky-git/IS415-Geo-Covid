@@ -269,7 +269,6 @@ centre_address[7,2] <- "Lantau Island"
 ```
 
 ## Compute Longitude and Latitude with geocode()
->>>>>>> ac7d409fca238c60f8c3e07b194a54de393aa98a
 
 ```{r}
 lat_long <- centre_address %>%
