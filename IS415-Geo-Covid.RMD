@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Getting Started
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
-packages = c('sp','tidyverse', 'sf',  'rgdal','spatstat', 'spatstat', 'raster', 'maptools', 'rgeos','dplyr', 'tmap', 'ggplot2', 'spdep')
+packages = c('sp','tidyverse', 'sf',  'rgdal','spatstat', 'spatstat', 'raster', 'maptools', 'rgeos','dplyr', 'tmap', 'ggplot2', 'spdep', 'tidygeocoder', 'tibble', 'rworldmap')
 
 for(p in packages){
   if(!require(p, character.only = T)){
@@ -139,12 +139,60 @@ hk_location_2326 <- st_set_crs(hk_location, 2326)
 ```
 
 
+# Occupancy_qc
 
+## Get unique centres
 
+```{r}
+quarantine <- distinct(occupancy_qc, `Quarantine centres`)
+address <- distinct(occupancy_qc,`Address`)
+centre_address <- occupancy_qc %>%
+  dplyr::select(`Quarantine centres`, `Address`) %>%
+  dplyr::mutate("~name" = `Quarantine centres`, "~addr" = `Address`) %>%
+  dplyr::select("~name", "~addr")
 
+centre_address
+```
 
+## Only take the string before the ,
 
+```{r}
+centre_address <- distinct(centre_address)
+centre_address$`~addr` <-  gsub("\\,.*","",centre_address$`~addr`)
+```
 
+## Correct spelling or data errors
+
+```{r}
+centre_address[2,2] <- "No. 123 Fan Kam Road"
+centre_address[5,2] <- "Tui Min Hoi"
+centre_address[7,2] <- "Lantau Island"
+```
+
+## Compute Longitude and Latitude with geocode()
+
+```{r}
+lat_long <- centre_address %>%
+  geocode(street = `~addr`, country = "Hong Kong", method = 'osm', lat = latitude , long = longitude)
+```
+
+## Convert crs to 2326
+
+```{r}
+lat_long <- as.data.frame(lat_long)
+
+lat_long <- st_as_sf(lat_long, coords = c("longitude", "latitude"), crs = 2326)
+```
+
+## Plot confine centre on map
+
+```{r}
+tm_shape(hk_map_2326) + 
+  tm_fill() +
+  tm_borders(alpha = 0.3) +
+  tm_shape(lat_long) +
+    tm_dots(size = 0.1)
+```
 
 
 
