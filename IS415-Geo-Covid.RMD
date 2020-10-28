@@ -138,6 +138,47 @@ hk_map_2326 <- st_set_crs(hk_map, 2326)
 hk_location_2326 <- st_set_crs(hk_location, 2326)
 ```
 
+## indv_caseinfo
+
+###Frequency of Covid'19 Cases based on Gender
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+freq_genderM <- indv_caseinfo %>%
+  filter(Gender == 'M') %>%
+  count(Gender) %>%
+  rename(count = n)
+
+freq_genderF <- indv_caseinfo %>%
+  filter(Gender == 'F') %>%
+  count(Gender) %>%
+  rename(count = n)
+
+freq_gender <- rbind(freq_genderM, freq_genderF)
+
+ggplot(freq_gender, aes(x=Gender, y=count, fill=Gender)) + geom_bar(stat='identity', width = 0.7) + theme_minimal() + geom_text(aes(label=count), vjust=1.6, color="white", size=3.5)
+
+```
+
+
+###Confirmed Cases by Date
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+indv_caseinfo$`Report date` <- as.Date(indv_caseinfo$`Report date`, "%d/%m/%Y")
+
+cases_date <- indv_caseinfo %>%
+  mutate(count = 1) %>%
+  dplyr::select('Case no.', 'Report date', 'count') %>%
+  group_by(`Report date` = floor_date(`Report date`, "month")) %>%
+  summarise(count = sum(count)) 
+
+ggplot(cases_date, aes(x=`Report date`, y=count)) + geom_line() + geom_point() + scale_x_date(date_labels = "%m") + geom_text(aes(label=count), vjust=-0.5)
+```
+
+
+
+
+
+
+
+
 
 # Occupancy_qc
 
