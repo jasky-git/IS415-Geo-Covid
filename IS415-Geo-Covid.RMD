@@ -126,6 +126,7 @@ confines_current_nonclose_line
 
 
 #### Filter for Monthly Number of Confirm cases and Death cases
+
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 reported_cases_filtered = reported_cases %>% 
   group_by(strftime(`As of date`, "%d-%m")) %>%
