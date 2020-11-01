@@ -1,1158 +1,2097 @@
-﻿District,Building name,Last date of residence of the case(s),case_1,case_2,case_3,case_4,case_5,case_6,case_7,case_8,case_9,case_10,case_11,case_12
-Shatin,Alva Hotel by Royal,20/1/2020,,,,,,,,,,,,
-Shatin,"Tower 1A, Oceanaire",21/1/2020,,,,,,,,,,,,
-Shatin,"Tower 1, Lake Silver",23/1/2020,4,5,,,,,,,,,,
-Shatin,"Tower 1, Lake Silver",23/1/2020,,,,,,,,,,,,
-Shatin ,"Tower 1, Lake Silver",23/1/2020,,,,,,,,,,,,
-Tuen Mun,South Hillcrest,24/1/2020,3,8,,,,,,,,,,
-Kwai Tsing,"Hong Mei House, Cheung Hong Estate",24/1/2020,12,,,,,,,,,,,
-Tuen Mun,South Hillcrest,24/1/2020,,,,,,,,,,,,
-Kwai Tsing,"Hong Mei House, Cheung Hong Estate",24/1/2020,,,,,,,,,,,,
-Eastern,Universal Towers,25/1/2020,6,,,,,,,,,,,
-Eastern,Universal Towers,25/1/2020,,,,,,,,,,,,
-Sai Kung,"Tower 2, Tseung Kwan O Plaza",26/1/2020,Non local case,,,,,,,,,,,
-Sai Kung,"Tower 2, Tseung Kwan O Plaza",26/1/2020,,,,,,,,,,,,
-Sai Kung,"Tseung Kwan O Plaza, Tower 2",26/1/2020,,,,,,,,,,,,
-Yau Tsim Mong,W Hong Kong,28/1/2020,9,10,11,,,,,,,,,
-Central,Four Seasons Hotel,28/1/2020,9,10,11,,,,,,,,,
-Yau Tsim Mong,W Hong Kong,28/1/2020,,,,,,,,,,,,
-Central,Four Seasons Hotel,28/1/2020,,,,,,,,,,,,
-Central ,Four Seasons Hotel ,28/1/2020,,,,,,,,,,,,
-Yau Tsim Mong,Prudential Centre,29/1/2020,16,,,,,,,,,,,
-Yau Tsim Mong,Prudential Centre,29/1/2020,,,,,,,,,,,,
-Yau Tsim Mong,"Tower 2, The Coronation",30/1/2020,9,10,11,,,,,,,,,
-Kwai Ching,"Luk Kwai House, Kwai Chung Estate",30/1/2020,14,,,,,,,,,,,
-Yau Tsim Mong,"Tower 2, The Coronation",30/1/2020,,,,,,,,,,,,
-Kwai Ching,"Luk Kwai House, Kwai Chung Estate",30/1/2020,,,,,,,,,,,,
-Kwai Tsing,"Luk Kwai House, Kwai Chung Estate",30/1/2020,,,,,,,,,,,,
-Kwun Tong,"Yue Hong House, Hong Tin Court",31/1/2020,,,,,,,,,,,,
-Kowloon City,"Block 1, Site 11, Whampoa Garden",31/1/2020,,,,,,,,,,,,
-Kowloon City,"Block 1, Site 11, Whampoa Garden",1/2/2020,13,15,,,,,,,,,,
-Yau Tsim Mong,"58 Nathan Road, Mirador Mansion",1/2/2020,Non local case,,,,,,,,,,,
-Kowloon City,"15 Celestial Heights, 80 Sheung Shing Street",1/2/2020,16,,,,,,,,,,,
-Kwai Tsing,"Tower 1, Kowloon Commerce Centre",1/2/2020,18,,,,,,,,,,,
-Kowloon City,"Block 1, Site 11, Whampoa Garden",1/2/2020,,,,,,,,,,,,
-Yau Tsim Mong,"58 Nathan Road, Mirador Mansion",1/2/2020,,,,,,,,,,,,
-Kowloon City,"15 Celestial Heights, 80 Sheung Shing Street",1/2/2020,,,,,,,,,,,,
-Kwai Tsing,"Tower 1, Kowloon Commerce Centre ",1/2/2020,,,,,,,,,,,,
-Kowloon City,183 Ma Tau Wai Road,3/2/2020,18,,,,,,,,,,,
-Kowloon City,183 Ma Tau Wai Road,3/2/2020,,,,,,,,,,,,
-Kwai Tsing,"Block 1, Villa Esplanada",3/2/2020,,,,,,,,,,,,
-Kwun Tong,"Yue Hong House, Hong Tin Court",4/2/2020,17,19,20,,,,,,,,,
-Yau Tsim Mong,"Tower 2, Silvercord",4/2/2020,19,,,,,,,,,,,
-Kwun Tong,"Yue Hong House, Hong Tin Court",4/2/2020,,,,,,,,,,,,
-Yau Tsim Mong,"Tower 2, Silvercord",4/2/2020,,,,,,,,,,,,
-Kwai Tsing,"Block 1, Villa Esplanada",5/2/2020,21,22,,,,,,,,,,
-Eastern ,"Ko Mong building, 142 - 146 Shau Kei Wan Road",5/2/2020,23,,,,,,,,,,,
-Shatin,"Sui Shek House, Shek Mun Estate Phase II",5/2/2020,24,,,,,,,,,,,
-Eastern District,"Ko Mong building, 142 - 146 Shau Kei Wan Road",5/2/2020,23,,,,,,,,,,,
-Eastern,"Ko Mong building, 142 - 146 Shau Kei Wan Road",5/2/2020,23,,,,,,,,,,,
-North ,"Serenity Garden, Hang Tau",6/2/2020,25,,,,,,,,,,,
-Sha Tin,"Tower 10, The Palazzo",6/2/2020,26,,,,,,,,,,,
-Kowloon City,"Hospital Authority Building, 147B Argyle Street (non-residential)",6/2/2020,57,59,,,,,,,,,,
-Kowloon City,"Hospital Authority Building, 147B Argyle Street(non-residential)",6/2/2020,57,59,,,,,,,,,,
-North District,"Serenity Garden, Hang Tau",6/2/2020,25,,,,,,,,,,,
-Kowloon City,"Hospital Authority Building, 147B Argyle Street (non-residential)",7/2/2020,57,59,,,,,,,,,,
-Tuen Mun,"Hanford Plaza, 333 Castle Peak Road (non-residential)",7/2/2020,66,,,,,,,,,,,
-Tuen Mun,"Hanford Plaza, 333 Castle Peak Road(non-residential)",7/2/2020,66,,,,,,,,,,,
-Wong Tai Sin,Choi Fung Court,8/2/2020,28,,,,,,,,,,,
-Wan Chai,"Hung Fook Mansion, 356-362 Lockhart Road",8/2/2020,27,29,30,31,,,,,,,,
-Wan Chai,"Lai Chi building, 42-56 Leighton Road ",8/2/2020,32,34,35,41,,,,,,,,
-Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (non-residential)",8/2/2020,65,70,,,,,,,,,,
-Wan Chai,"Lai Chi building, 42-56 Leighton Road",8/2/2020,32,29,30,31,,,,,,,,
-Wan Chai,"Chung Wui Mansion, 110 Wan Chai Road",9/2/2020,33,34,35,41,,,,,,,,
-Shatin,"Tai Wo House, Wo Che Estate ",9/2/2020,37,34,35,,,,,,,,,
-Eastern ,"Cheung Hing Building, 110 Sai Wan Ho Street ",9/2/2020,38,36,,,,,,,,,,
-Kwai Tsing,"Hong Mei House, Cheung Hong Estate",9/2/2020,12,,,,,,,,,,,
-Yau Tsim Mong,MOKO (non-residential),9/2/2020,37,39,40,,,,,,,,,
-Eastern,"Fu Yan Court, 23 Sai Wan Ho Street (non-residential)",9/2/2020,57,42,48,49,,,,,,,,
-Yau Tsim Mong,MOKO(non-residential),9/2/2020,37,50,,,,,,,,,,
-Eastern,"Fu Yan Court, 23 Sai Wan Ho Street(non-residential)",9/2/2020,57,60,,,,,,,,,,
-Eastern District,"Cheung Hing Building, 110 Sai Wan Ho Street ",9/2/2020,38,50,,,,,,,,,,
-Yau Tsim Mong,MOKO,9/2/2020,37,60,,,,,,,,,,
-Eastern,"Cheung Hing Building, 110 Sai Wan Ho Street ",9/2/2020,38,39,40,,,,,,,,,
-Wan Chai,"Central Tower, 89 Lockhart Road",9/2/2020,33,50,,,,,,,,,,
-Eastern,"Block 3, Island Resort",10/2/2020,43,39,40,,,,,,,,,
-Southern,"Tung Ping House, Lei Tung Estate",10/2/2020,44,50,,,,,,,,,,
-Sai Kung ,"Po Yan House, Po Lam Estate",10/2/2020,45,36,,,,,,,,,,
-Southern ,"Tin Chak House, Tin Wan Estate",10/2/2020,46,42,,,,,,,,,,
-Tuen Mun,Leung Tin Village ,10/2/2020,47,,,,,,,,,,,
-Kwai Tsing,"On Tao House, Cheung On Estate ",10/2/2020,50,,,,,,,,,,,
-Wan Chai ,Kwan Chart Tower (Non residential building),10/2/2020,30,,,,,,,,,,,
-Kwun Tong,Domain (Non residential building),10/2/2020,67,,,,,,,,,,,
-Eastern,"Po Shan Mansion, Tai Koo Shing (Non residential building)",10/2/2020,60,,,,,,,,,,,
-Wan Chai ,Kwan Chart Tower (non-residential),10/2/2020,30,,,,,,,,,,,
-Kwun Tong,Domain (non-residential),10/2/2020,67,44,,,,,,,,,,
-Eastern,"Po Shan Mansion, Tai Koo Shing (non-residential)",10/2/2020,60,,,,,,,,,,,
-Wan Chai ,Kwan Chart Tower(non-residential),10/2/2020,30,,,,,,,,,,,
-Kwun Tong,Domain(non-residential),10/2/2020,67,44,,,,,,,,,,
-Eastern District,"Block 3, Island Resort",10/2/2020,43,,,,,,,,,,,
-Southern District,"Tung Ping House, Lei Tung Estate",10/2/2020,44,,,,,,,,,,,
-Southern District,"Tin Chak House, Tin Wan Estate",10/2/2020,46,44,,,,,,,,,,
-Wan Chai ,Kwan Chart Tower,10/2/2020,30,,,,,,,,,,,
-Southern District ,"Tung Ping House, Lei Tung Estate",10/2/2020,44,,,,,,,,,,,
-Southern District ,"Tin Chak House, Tin Wan Estate",10/2/2020,46,,,,,,,,,,,
-Eastern,633 King's Road (Non residential building),11/2/2020,57,,,,,,,,,,,
-Eastern,"633 King's Road, North Point (Non residential building)",11/2/2020,57,44,,,,,,,,,,
-Eastern,"633 King's Road, North Point (non-residential)",11/2/2020,57,,,,,,,,,,,
-Eastern,"633 King's Road, North Point(non-residential)",11/2/2020,57,,,,,,,,,,,
-Tuen Mun,Tze Tin Tsuen,12/2/2020,51,59,,,,,,,,,,
-Wan Chai,"Heung Hoi Mansion, 28-32 O'Brien Road",12/2/2020,52,59,,,,,,,,,,
-Kwai Tsing,"Shek Yi House, Shek Lei (II) Estate",12/2/2020,55,59,,,,,,,,,,
-Eastern ,"Block D, Mount Parker Lodge, 10 Hong Pak Path",12/2/2020,52,59,,,,,,,,,,
-Eastern District,"Block D, Mount Parker Lodge, 10 Hong Pak Path",12/2/2020,52,,,,,,,,,,,
-Eastern,"Mount Parker Lodge, 10 Hong Pak Path",12/2/2020,52,53,,,,,,,,,,
-Southern ,Tai Long Wan Village ,13/2/2020,54,,,,,,,,,,,
-Central and Western ,233 Wing Lok Street ,13/2/2020,56,,,,,,,,,,,
-Wong Tai Sin,"42 Yuk Wah Street, Tsz Wan Shan (Non residential building)",13/2/2020,59,,,,,,,,,,,
-Kwun Tong,"Lok Wah Shopping Centre, Lok Wah North Estate (Non residential building)",13/2/2020,62,,,,,,,,,,,
-Eastern,Goldfield Mansion (Non residential building),13/2/2020,74,,,,,,,,,,,
-Kwun Tong,Kai Tin Shopping Centre (Non residential building),13/2/2020,72,,,,,,,,,,,
-Eastern,"Workingberg Commercial Building, Marble Road (Non residential building)",13/2/2020,85,,,,,,,,,,,
-Eastern,"Workingberg Commercial Building, Marble Road (Non residential building) ",13/2/2020,85,,,,,,,,,,,
-Eastern,"Workingberg Commercial Building, Marble Road  (Non residential building)",13/2/2020,85,,,,,,,,,,,
-Wong Tai Sin,"42 Yuk Wah Street, Tsz Wan Shan (non-residential)",13/2/2020,59,,,,,,,,,,,
-Kwun Tong,"Lok Wah Shopping Centre, Lok Wah North Estate (non-residential)",13/2/2020,62,,,,,,,,,,,
-Kwun Tong,"Lok Wah Shopping Centre, Lok Wah North Estate(non-residential)",13/2/2020,62,,,,,,,,,,,
-Southern District,Tai Long Wan Village ,13/2/2020,54,,,,,,,,,,,
-Central and Western District ,233 Wing Lok Street ,13/2/2020,56,,,,,,,,,,,
-Eastern ,"Block D, Mount Parker Lodge, 10 Hong Pak Path",14/2/2020,52,,,,,,,,,,,
-Wan Chai,The Hong Kong Jockey Club Happy Valley Clubhouse (Non residential building),14/2/2020,85,,,,,,,,,,,
-Kwun Tong,Hiu Lai Court Shopping Centre (Non residential building),14/2/2020,67,,,,,,,,,,,
-Kwun Tong,Hiu Lai Court Shopping Centre (non-residential),14/2/2020,67,,,,,,,,,,,
-Tuen Mun,5 Sam Shing Street (non-residential),14/2/2020,63,61,,,,,,,,,,
-Kwun Tong,Hiu Lai Court Shopping Centre(non-residential),14/2/2020,67,,,,,,,,,,,
-Eastern,"Yuan Kung Mansion, Tai Koo Shing (Non residential building)",15/2/2020,57,,,,,,,,,,,
-Sham Shui Po,Cheung Sha Wan Jockey Club Clinic (Non residential building),15/2/2020,58,,,,,,,,,,,
-Eastern,"Yuan Kung Mansion, Tai Koo Shing (non-residential)",15/2/2020,57,,,,,,,,,,,
-Sham Shui Po,Cheung Sha Wan Jockey Club Clinic (non-residential),15/2/2020,58,,,,,,,,,,,
-Tuen Mun,"Block 1, Seaview Garden",15/2/2020,63,,,,,,,,,,,
-Eastern,"Yuan Kung Mansion, Tai Koo Shing(non-residential)",15/2/2020,57,,,,,,,,,,,
-Sham Shui Po,Cheung Sha Wan Jockey Club Clinic(non-residential),15/2/2020,58,,,,,,,,,,,
-Eastern,"Ming Kung Mansion, Taikoo Shing, 22 Taikoo Shing Road",15/2/2020,57,,,,,,,,,,,
-Eastern,"Ming Kung Mansion, Taikoo Shing, 22 Taikoo Shing Road",16/2/2020,57,,,,,,,,,,,
-Sai Kung,Yee Ching House Yee Ming Estate,16/2/2020,58,,,,,,,,,,,
-Wong Tai Sin,"Oi Wah House, Tsz Oi Court, Tsz Wan Shan",16/2/2020,59,,,,,,,,,,,
-Sham Shui Po,298D Un Chau Street (Non residential building),16/2/2020,58,,,,,,,,,,,
-Wan Chai,35-45 Johnston Road  (Non residential building),16/2/2020,85,60,,,,,,,,,,
-Wan Chai,35-45 Johnston Road (Non residential building),16/2/2020,85,,,,,,,,,,,
-Wan Chai,35-45 Johnston Road (Non residential building) ,16/2/2020,85,,,,,,,,,,,
-Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (Non residential building)",16/2/2020,65,,,,,,,,,,,
-Wan Chai,"35-45, Johnston Road  (Non residential building)",16/2/2020,85,,,,,,,,,,,
-Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (non-residential)",16/2/2020,65,,,,,,,,,,,
-Sham Shui Po,298D Un Chau Street (non-residential),16/2/2020,58,,,,,,,,,,,
-Sham Shui Po,298D Un Chau Street(non-residential),16/2/2020,58,70,73,74,76,77,83,,,,,
-Kwun Tong,"Cambridge Building, 25-41 Hong Ning Road",17/2/2020,62,,,,,,,,,,,
-Tai Po,"Fortune Plaza Arcade, 4 On Chee Road (Non residential building)",17/2/2020,68,70,73,74,76,77,,,,,,
-Wan Chai ,World Trade Centre  (Non residential building),17/2/2020,85,70,73,74,,,,,,,,
-Wan Chai ,World Trade Centre (Non residential building),17/2/2020,85,,,,,,,,,,,
-Wan Chai ,World Trade Centre (Non residential building) ,17/2/2020,85,,,,,,,,,,,
-Tai Po,"Fortune Plaza Arcade, 4 On Chee Road (non-residential)",17/2/2020,68,,,,,,,,,,,
-Tai Po,"Fortune Plaza Arcade, 4 On Chee Road(non-residential)",17/2/2020,68,,,,,,,,,,,
-Eastern,"Sui Moon House, Siu Sai Wan Estate",18/2/2020,64,,,,,,,,,,,
-Tuen Mun,"Block 1, Seaview Garden",18/2/2020,63,,,,,,,,,,,
-Eastern,"Coronet Court, 1-9A North Point Road (Non-residential)",18/2/2020,64,,,,,,,,,,,
-Tuen Mun,5 Sam Shing Street (Non-residential),18/2/2020,63,,,,,,,,,,,
-Central and Western,271-285 Des Voeux Road West (Non-residential),18/2/2020,69,,,,,,,,,,,
-Wan Chai,310 Gloucester Road (Non-residential),18/2/2020,85,65,,,,,,,,,,
-Eastern,"Coronet Court, 1-9A North Point Road (Non residential building)",18/2/2020,64,66,,,,,,,,,,
-Tuen Mun,5 Sam Shing Street (Non residential building),18/2/2020,63,65,,,,,,,,,,
-Central and Western,271-285 Des Voeux Road West (Non residential building),18/2/2020,69,66,,,,,,,,,,
-Wan Chai,310 Gloucester Road (Non residential building),18/2/2020,85,,,,,,,,,,,
-Eastern,"Coronet Court, 1-9A North Point Road(non-residential)",18/2/2020,64,,,,,,,,,,,
-Tuen Mun,5 Sam Shing Street(non-residential),18/2/2020,63,65,,,,,,,,,,
-Central and Western,271-285 Des Voeux Road West(non-residential),18/2/2020,69,66,,,,,,,,,,
-Kwun Tong,"Hiu Fai House, Hiu Lai Court",19/2/2020,67,,,,,,,,,,,
-Yuen Long,"Shek Wu Wai, San Tin",19/2/2020,68,,,,,,,,,,,
-Central and Western ,Man Mo Temple (non-residential),19/2/2020,85,65,,,,,,,,,,
-Wan Chai,Hang Wai Commercial Building (non-residential),19/2/2020,85,66,,,,,,,,,,
-Kwun Tong,Kwun Tong Community Health Centre (non-residential),19/2/2020,69,,,,,,,,,,,
-Eastern,Cheong Yuen Building (non-residential),19/2/2020,74,,,,,,,,,,,
-Central and Western,Yardley Commercial Building  (non-residential),19/2/2020,85,,,,,,,,,,,
-Central and Western,Yardley Commercial Building (Non-residential),19/2/2020,85,,,,,,,,,,,
-Central and Western ,Man Mo Temple (Non residential building),19/2/2020,85,,,,,,,,,,,
-Wan Chai,Hang Wai Commercial Building (Non residential building),19/2/2020,85,,,,,,,,,,,
-Kwun Tong,Kwun Tong Community Health Centre (Non residential building),19/2/2020,69,,,,,,,,,,,
-Eastern,Cheong Yuen Building (Non residential building),19/2/2020,74,,,,,,,,,,,
-Central and Western,Yardley Commercial Building  (Non residential building),19/2/2020,85,,,,,,,,,,,
-Central and Western,Yardley Commercial Building B23 (Non residential building),19/2/2020,85,,,,,,,,,,,
-Central and Western,Yardley Commercial Building (Non residential building),19/2/2020,85,,,,,,,,,,,
-Central and Western,Yardley Commercial Building (Non residential building) ,19/2/2020,85,,,,,,,,,,,
-Kwun Tong,Kwun Tong Community Health Centre(non-residential),19/2/2020,69,,,,,,,,,,,
-Kwun Tong,"Yun Mei House, Yau Mei Court",20/2/2020,69,,,,,,,,,,,
-Kwun Tong ,Kwong Tin Shopping Centre (non-residential),20/2/2020,72,,,,,,,,,,,
-Yau Tsim Mong ,Mong Kok East station (non-residential),20/2/2020,82,,,,,,,,,,,
-Kwun Tong ,Kwong Tin Shopping Centre (Non residential building),20/2/2020,72,,,,,,,,,,,
-Yau Tsim Mong ,Mong Kok East station (Non residential building),20/2/2020,82,,,,,,,,,,,
-Wan Chai,"Fly Dragon Terrace, 26-32 Tin Hau Temple Road",22/2/2020,70,,,,,,,,,,,
-Eastern,"Chin Hing House, Hing Wah (II) Estate",22/2/2020,73,,,,,,,,,,,
-Yuen Long ,"Block 3, Grand Yoho",22/2/2020,75,,,,,,,,,,,
-Eastern,"Block B, Healthy Gardens",22/2/2020,86,,,,,,,,,,,
-Kwun Tong,Sceneway Plaza (non-residential),22/2/2020,82,,,,,,,,,,,
-Eastern,Ming Yuen Centre (non-residential),22/2/2020,83,,,,,,,,,,,
-Central and Western,JW Marriott Hotel (non-residential),22/2/2020,85,,,,,,,,,,,
-Eastern,"Tower 1, Fleur Pavilia (non-residential)",22/2/2020,85,,,,,,,,,,,
-Wan Chai ,Jolly Villa  (non-residential),22/2/2020,85,,,,,,,,,,,
-Eastern,Chun Yeung Street Market  (non-residential),22/2/2020,86,,,,,,,,,,,
-Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (non-residential)",22/2/2020,65,,,,,,,,,,,
-Wan Chai ,6 Cheong Ming Street (non-residential),22/2/2020,85,101,104,,,,,,,,,
-Wan Chai ,Jolly Villa (non-residential),22/2/2020,85,101,104,,,,,,,,,
-Eastern,Chun Yeung Street Market (non-residential),22/2/2020,86,,,,,,,,,,,
-Wan Chai,The Hong Kong Jockey Club Happy Valley Clubhouse (non-residential),22/2/2020,85,,,,,,,,,,,
-Kwun Tong,Sceneway Plaza (Non residential building),22/2/2020,82,70,73,74,76,77,83,86,92,93,98,102
-Eastern,Ming Yuen Centre (Non residential building),22/2/2020,83,,,,,,,,,,,
-Central and Western,JW Marriott Hotel (Non residential building),22/2/2020,85,,,,,,,,,,,
-Eastern,"Tower 1, Fleur Pavilia (Non residential building)",22/2/2020,85,,,,,,,,,,,
-Wan Chai ,Jolly Villa  (Non residential building),22/2/2020,85,101,104,,,,,,,,,
-Eastern,Chun Yeung Street Market  (Non residential building),22/2/2020,86,101,,,,,,,,,,
-Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (Non residential building)",22/2/2020,65,,,,,,,,,,,
-Wan Chai ,6 Cheong Ming Street (Non residential building),22/2/2020,85,70,73,74,76,77,83,86,92,93,98,
-Wan Chai ,Jolly Villa (Non residential building) ,22/2/2020,85,,,,,,,,,,,
-Eastern,Chun Yeung Street Market (Non residential building) ,22/2/2020,86,,,,,,,,,,,
-Wan Chai ,Jolly Villa (Non residential building),22/2/2020,85,,,,,,,,,,,
-Eastern,Chun Yeung Street Market (Non residential building),22/2/2020,86,,,,,,,,,,,
-Eastern,"Maylun Apartments, 1-25 Shu Kuk Street",22/2/2020,74,,,,,,,,,,,
-Kwun Tong,"Choi Tin House, Hing Tin Estate",22/2/2020,72,,,,,,,,,,,
-Eastern,Majestic Apartments,23/2/2020,77,70,73,74,76,77,83,86,92,93,,
-Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (non-residential)",23/2/2020,65,,,,,,,,,,,
-Wan Chai,The Hong Kong Jockey Club Happy Valley Clubhouse (non-residential),23/2/2020,85,,,,,,,,,,,
-Wan Chai,Royal Hong Kong Yacht Club (non-residential),23/2/2020,85,,,,,,,,,,,
-Islands,23-27 Sok Kwu Wan First Street (non-residential),23/2/2020,85,70,73,74,76,77,83,86,92,93,98,
-Sai Kung,Bauhinia Garden (non-residential),23/2/2020,92,,,,,,,,,,,
-Wan Chai,Royal Hong Kong Yacht Club (Non residential building),23/2/2020,85,,,,,,,,,,,
-Islands,23-27 Sok Kwu Wan First Street (Non residential building),23/2/2020,85,70,73,74,76,77,83,86,,,,
-Sai Kung,Bauhinia Garden (Non residential building),23/2/2020,92,,,,,,,,,,,
-Southern,"Phase 1, The Redhill Peninsula",23/2/2020,76,,,,,,,,,,,
-Wan Chai,2 Village Road (Non residential building),23/2/2020,76,,,,,,,,,,,
-Kwun Tong,"Choi Tin House, Hing Tin Estate",24/2/2020,72,70,73,74,76,77,83,86,92,93,98,102
-Central and Western,Crawford House (non-residential),24/2/2020,85,101,104,,,,,,,,,
-Eastern,"Hong Fook Court, Bedford Gardens",24/2/2020,83,,,,,,,,,,,
-Southern,"Phase 1, The Redhill Peninsula",24/2/2020,76,,,,,,,,,,,
-Central and Western,Crawford House (Non residential building),24/2/2020,85,,,,,,,,,,,
-Wan Chai,"Block 4, Swiss Towers",24/2/2020,85,,,,,,,,,,,
-Eastern,"Maylun Apartments, 1-25 Shu Kuk Street",25/2/2020,74,,,,,,,,,,,
-Southern,"Phase 1, The Redhill Peninsula",25/2/2020,76,,,,,,,,,,,
-Wan Chai,25-29 Great George Street (non-residential),25/2/2020,105,,,,,,,,,,,
-Central and Western,29 Queen's Road Central (non-residential),25/2/2020,105,,,,,,,,,,,
-Wan Chai,"Block 4, Swiss Towers",25/2/2020,85,82,,,,,,,,,,
-Wan Chai,Hong Kong Sanatorium & Hospital (non-residential),25/2/2020,76,90,,,,,,,,,,
-Wan Chai,Hong Kong Sanatorium & Hospital (Non residential building),25/2/2020,76,84,,,,,,,,,,
-Wan Chai,Jolly Villa,26/2/2020,101,91,,,,,,,,,,
-Eastern,"Hong Fook Court, Bedford Gardens",26/2/2020,83,90,,,,,,,,,,
-Wan Chai,"Block 4, Swiss Towers",26/2/2020,85,,,,,,,,,,,
-Eastern,Anne Black General Out-patient Clinic (non-residential),26/2/2020,93,89,102,,,,,,,,,
-Kwun Tong ,11 Mut Wah Street (non-residential),26/2/2020,98,91,103,,,,,,,,,
-Central and Western,Smithfield Municipal Services Building (non-residential),26/2/2020,105,,,,,,,,,,,
-Central and Western,"South China Building, 1 Wyndham Street (non-residential)",26/2/2020,notified by the health authority of Canada,,,,,,,,,,,
-Wan Chai,"Jolly Villa, 8 Tai Hang Road",26/2/2020,101,90,,,,,,,,,,
-Eastern,Anne Black General Out-patient Clinic (Non residential building),26/2/2020,93,85,91,,,,,,,,,
-Kwun Tong ,11 Mut Wah Street (Non residential building),26/2/2020,98,89,,,,,,,,,,
-Sai Kung,"Block 4, Bauhinia Garden",26/2/2020,92,85,91,,,,,,,,,
-Sai Kung,"Block 4, Bauhinia Garden",27/2/2020,92,85,,,,,,,,,,
-Eastern,Hung Fuk Building,27/2/2020,93,104,,,,,,,,,,
-Central and Western,10 Des Voeux Road Central (non-residential),27/2/2020,105,84,112,,,,,,,,,
-Central and Western,10 Des Voeux Road Central  (non-residential),27/2/2020,105,90,113,,,,,,,,,
-Kwun Tong,Hong Shui Court,29/2/2020,98,,,,,,,,,,,
-Sham Shui Po,"Un Lok House, Un Chau Estate",29/2/2020,99,,,,,,,,,,,
-Southern,Meng Wah Complex  (non-residential),29/2/2020,107,,,,,,,,,,,
-Kwun Tong ,Hong Shui Court,29/2/2020,98,,,,,,,,,,,
-Southern,Meng Wah Complex (non-residential),29/2/2020,107,,,,,,,,,,,
-Southern,"Block 28, Baguio Villa ",29/2/2020,notified by the health authority of Canada,,,,,,,,,,,
-Central and Western,"Block F, Greenview Gardens (non-residential)",29/2/2020,notified by the health authority of Thailand,,,,,,,,,,,
-Southern,"Block 28, Baguio Villa (non-residential)",29/2/2020,105 related contact tracing,,,,,,,,,,,
-Southern,"Block 28, Baguio Villa  (non-residential)",29/2/2020,105 related contact tracing,95,,,,,,,,,,
-Kowloon CityÂ ,5 Kent Road  (non-residential),1/3/2020,105,,,,,,,,,,,
-Yau Tsim Mong,Sheraton Hong Kong Hotel & Towers  (non-residential),1/3/2020,105,,,,,,,,,,,
-Kwai Tsing ,Metroplaza  (non-residential),1/3/2020,130,,,,,,,,,,,
-Kowloon City,5 Kent Road  (non-residential),1/3/2020,105,,,,,,,,,,,
-Kwai Tsing,Metroplaza  (non-residential),1/3/2020,130,100,,,,,,,,,,
-Kowloon CityÂ ,5 Kent Road (non-residential),1/3/2020,105,,,,,,,,,,,
-Yau Tsim Mong,Sheraton Hong Kong Hotel & Towers (non-residential),1/3/2020,105,,,,,,,,,,,
-Kowloon City?,5 Kent Road  (non-residential),1/3/2020,105,,,,,,,,,,,
-Kowloon City,5 Kent Road (non-residential),1/3/2020,105,,,,,,,,,,,
-Kowloon City?,5 Kent Road (non-residential),1/3/2020,105,,,,,,,,,,,
-Wan Chai,Tung Fong Building  (non-residential),2/3/2020,105,,,,,,,,,,,
-Central and Western,Tung Wah Hospital  (non-residential),2/3/2020,105,,,,,,,,,,,
-Yau Tsim Mong,Bank of China Centre   (non-residential),2/3/2020,105,108,,,,,,,,,,
-Central and Western,United Centre  (non-residential),2/3/2020,105,108,,,,,,,,,,
-Yau Tsim Mong,Sincere Podium  (non-residential),2/3/2020,130 and 131,131,,,,,,,,,,
-Yau Tsim Mong,Sincere Podium  (non-residential),2/3/2020,130,108,,,,,,,,,,
-Wan Chai,Tung Fong Building (non-residential),2/3/2020,105,131,,,,,,,,,,
-Central and Western,Tung Wah Hospital (non-residential),2/3/2020,105,108,,,,,,,,,,
-Yau Tsim Mong,Bank of China Centre (non-residential),2/3/2020,105,108,,,,,,,,,,
-Central and Western,United Centre (non-residential),2/3/2020,105,108,,,,,,,,,,
-Yau Tsim Mong,Sincere Podium (non-residential),2/3/2020,130,108,,,,,,,,,,
-Yau Tsim Mong,Bank of China Centre  (non-residential),2/3/2020,105,108,,,,,,,,,,
-Central and Western,Wellington Place (non-residential),2/3/2020,105,,,,,,,,,,,
-Central and Western,Wellington Place (non-residential),3/3/2020,105 and 108,,,,,,,,,,,
-Central and Western,"South China Building, 1 Wyndham Street (non-residential)",3/3/2020,notified by the health authority of Canada and 117,,,,,,,,,,,
-Central and Western,Wellington Place  (non-residential),3/3/2020,105 and 108,,,,,,,,,,,
-Central and Western,"South China Building, 1 Wyndham Street  (non-residential)",3/3/2020,notified by the health authority of Canada and 117,,,,,,,,,,,
-Central and Western,Wellington Place  (non-residential),3/3/2020,105,,,,,,,,,,,
-Central and Western,Wellington Place (non-residential),3/3/2020,105,131,,,,,,,,,,
-Islands,"Lot No. 1116, Praya South, Cheung Chau (non-residential)",4/3/2020,107,,,,,,,,,,,
-Islands,111D Tai Sun Back Street  (non-residential),4/3/2020,107,,,,,,,,,,,
-Islands,101-103 San Hing Street (non-residential),4/3/2020,107,,,,,,,,,,,
-Wan Chai,Tang Shiu Kin Hospital  (non-residential),4/3/2020,105,,,,,,,,,,,
-Islands,"Lot No. 1116, Praya South, Cheung Chau  (non-residential)",4/3/2020,107,,,,,,,,,,,
-Islands,111D Tai Sun Back Street   (non-residential),4/3/2020,107,,,,,,,,,,,
-Islands,101-103 San Hing Street  (non-residential),4/3/2020,107,,,,,,,,,,,
-Wan Chai,Tang Shiu Kin Hospital (non-residential),4/3/2020,105,,,,,,,,,,,
-Islands,111D Tai Sun Back Street (non-residential),4/3/2020,107,,,,,,,,,,,
-Wan Chai ,"Block C, Villa Lotto",4/3/2020,105,,,,,,,,,,,
-Wan Chai ,"Block C, Villa Lotto",5/3/2020,105,,,,,,,,,,,
-Central and Western,"Block A, Po Shan Mansion",5/3/2020,106,108,,,,,,,,,,
-Southern,"Scenic Villa, Scenic Villa Drive",5/3/2020,107,108,,,,,,,,,,
-Southern,"Block 31, Baguio Villa",5/3/2020,111,,,,,,,,,,,
-Central and Western,Canossa Hospital (non-residential),5/3/2020,106,,,,,,,,,,,
-Central and Western,Hong Kong Museum of Medical Sciences (non-residential),5/3/2020,110,,,,,,,,,,,
-Central and Western,Hong Kong Industrial Building (non-residential),5/3/2020,116,,,,,,,,,,,
-Southern,Aberdeen Municipal Services Building (non-residential),5/3/2020,118,,,,,,,,,,,
-Central and Western,Canossa Hospital  (non-residential),5/3/2020,106,,,,,,,,,,,
-Central and Western,Hong Kong Museum of Medical Sciences  (non-residential),5/3/2020,110,,,,,,,,,,,
-Central and Western,Hong Kong Industrial Building  (non-residential),5/3/2020,116,,,,,,,,,,,
-Southern,Aberdeen Municipal Services Building  (non-residential),5/3/2020,118,,,,,,,,,,,
-Wan Chai,"Block C, Villa Lotto",5/3/2020,105,,,,,,,,,,,
-Southern,Queen Mary Hospital (non-residential),5/3/2020,118,108,,,,,,,,,,
-Southern,Queen Mary Hospital  (non-residential),5/3/2020,118,116,,,,,,,,,,
-Wan Chai,"Block 1, Swiss Towers",6/3/2020,110,,,,,,,,,,,
-Central and Western,341 Des Voeux Road West,6/3/2020,116,,,,,,,,,,,
-Wan Chai,Lee Garden One (non-residential),6/3/2020,114,,,,,,,,,,,
-Southern,550 Victoria Road (non-residential),6/3/2020,118,,,,,,,,,,,
-Wan Chai,Lee Garden One  (non-residential),6/3/2020,114,,,,,,,,,,,
-Southern,550 Victoria Road  (non-residential),6/3/2020,118,,,,,,,,,,,
-Wan Chai,Hong Kong Sanatorium & Hospital  (non-residential),6/3/2020,76,,,,,,,,,,,
-Wan Chai,Hong Kong Sanatorium & Hospital (non-residential),6/3/2020,76,,,,,,,,,,,
-Yuen Long,"Tower 1, La Grove",7/3/2020,115,,,,,,,,,,,
-Tai Po,Tai Po Mega Mall (non-residential),7/3/2020,124,,,,,,,,,,,
-Tsuen Wan,Bellagio Mall (non-residential),7/3/2020,123,108,,,,,,,,,,
-Central & Western,73 Wyndham Street  (non-residential),7/3/2020,182,,,,,,,,,,,
-Tsuen Wan,Bellagio Mall (non-residential),7/3/2020,123 and 129,,,,,,,,,,,
-Central & Western,73 Wyndham Street  (non-residential),7/3/2020,182 and 192,,,,,,,,,,,
-Wan Chai,Envoy Garden,7/3/2020,114,,,,,,,,,,,
-Tsuen Wan,Bellagio Mall  (non-residential),7/3/2020,123 and 129,,,,,,,,,,,
-Tai Po,Tai Po Mega Mall  (non-residential),7/3/2020,124,154,,,,,,,,,,
-Tsuen Wan,Bellagio Mall  (non-residential),7/3/2020,123,,,,,,,,,,,
-Tai Po,Tai Po Centre (non-residential),7/3/2020,124,,,,,,,,,,,
-Tai Po,Tai Po Centre  (non-residential),7/3/2020,124,,,,,,,,,,,
-Tsuen Wan,Tower 1 Vision City,8/3/2020,220,85,91,110,,,,,,,,
-Wan Chai,Envoy Garden,8/3/2020,114,85,91,110,,,,,,,,
-Yau Tsim Mong,Sunbeam Commercial Building (non-residential),8/3/2020,125,,,,,,,,,,,
-Sha Tin ,Po Fook Memorial Hall  (non-residential),8/3/2020,125,,,,,,,,,,,
-Yau Tsim Mong,Mongkok Metro (non-residential),8/3/2020,125,,,,,,,,,,,
-Yau Tsim Mon,182 Reclamation Street (non-residential),8/3/2020,125,129,,,,,,,,,,
-Wan Chai,48 Percival Street (non-residential),8/3/2020,134,192,,,,,,,,,,
-Tuen Mun,"Shopping Centre, Melody Garden (non-residential)",8/3/2020,120,,,,,,,,,,,
-Tuen Mun,"Shopping Centre, Melody Garden (non-residential)",8/3/2020,120 and 121,,,,,,,,,,,
-Tuen Mun,"Shopping Centre, Melody Garden  (non-residential)",8/3/2020,120 and 121,,,,,,,,,,,
-Sha Tin ,Po Fook Memorial Hall   (non-residential),8/3/2020,125,,,,,,,,,,,
-Yau Tsim Mong,Mongkok Metro  (non-residential),8/3/2020,125,,,,,,,,,,,
-Yau Tsim Mon,182 Reclamation Street  (non-residential),8/3/2020,125,,,,,,,,,,,
-Yau Tsim Mong,Sunbeam Commercial Building  (non-residential),8/3/2020,125,,,,,,,,,,,
-Wan Chai,48 Percival Street  (non-residential),8/3/2020,134,129,,,,,,,,,,
-Tuen Mun,"Shopping Centre, Melody Garden  (non-residential)",8/3/2020,120,129,,,,,,,,,,
-Sha Tin,Po Fook Memorial Hall   (non-residential),8/3/2020,125,,,,,,,,,,,
-Wan Chai,458 Percival Street  (non-residential),8/3/2020,134,,,,,,,,,,,
-Sha Tin ,Po Fook Memorial Hall (non-residential),8/3/2020,125,,,,,,,,,,,
-Kwun Tong,Domain (non-residential),9/3/2020,67,213,,,,,,,,,,
-Tuen Mun,Richland Garden Shopping Arcade (non-residential),9/3/2020,120,,,,,,,,,,,
-Tsuen Wan,61 Sham Tseng Village (non-residential),9/3/2020,123,,,,,,,,,,,
-Tsuen Wan,Chan Kee Commercial Centre (non-residential),9/3/2020,123,,,,,,,,,,,
-Yau Tsim Mong,CMB Wing Lung Bank Centre (non-residential),9/3/2020,125,,,,,,,,,,,
-Yau Tsim Mong,Good Hope Building (non-residential),9/3/2020,125,,,,,,,,,,,
-Kwun Tong,Sing Win Factory Building (non-residential),9/3/2020,125,121,,,,,,,,,,
-Kwun Tong,Kwun Tong Plaza (non-residential),9/3/2020,125,213,,,,,,,,,,
-Kwun Tong,Laguna Plaza (non-residential),9/3/2020,126,,,,,,,,,,,
-Eastern,625 King's Road (non-residential),9/3/2020,134,,,,,,,,,,,
-Yau Tsim Mong,14 Granville Road (non-residential),9/3/2020,174,,,,,,,,,,,
-Wan Chai,Central Plaza (non-residential),9/3/2020,192,,,,,,,,,,,
-Southern,"Block 28, Baguio Villa",9/3/2020,notified by the health authority of Canada and 117,,,,,,,,,,,
-Tsuen Wan, 61 Sham Tseng Village (non-residential),9/3/2020,123,,,,,,,,,,,
-Kwun Tong ,Sing Win Factory Building  (non-residential),9/3/2020,125,,,,,,,,,,,
-Kwun Tong ,Kwun Tong Plaza (non-residential),9/3/2020,125,,,,,,,,,,,
-Tuen Mun,Richland Garden Shopping Arcade (non-residential),9/3/2020,120 and 121,,,,,,,,,,,
-Kwun Tong,Domain (non-residential),9/3/2020,67 and 125,,,,,,,,,,,
-Kwun Tong,Laguna Plaza (non-residential),9/3/2020,126 and 127,,,,,,,,,,,
-Tuen Mun,Richland Garden Shopping Arcade  (non-residential),9/3/2020,120 and 121,,,,,,,,,,,
-Tsuen Wan,Chan Kee Commercial Centre  (non-residential),9/3/2020,123,121,,,,,,,,,,
-Tsuen Wan, 61 Sham Tseng Village  (non-residential),9/3/2020,123,,,,,,,,,,,
-Kwun Tong ,Kwun Tong Plaza  (non-residential),9/3/2020,125,,,,,,,,,,,
-Kwun Tong ,Sing Win Factory Building   (non-residential),9/3/2020,125,121,,,,,,,,,,
-Kwun Tong,Domain  (non-residential),9/3/2020,67 and 125,,,,,,,,,,,
-Yau Tsim Mong,Good Hope Building  (non-residential),9/3/2020,125,125,,,,,,,,,,
-Yau Tsim Mong,CMB Wing Lung Bank Centre  (non-residential),9/3/2020,125,121,,,,,,,,,,
-Kwun Tong,Laguna Plaza  (non-residential),9/3/2020,126 and 127,,,,,,,,,,,
-Eastern,625 King's Road  (non-residential),9/3/2020,134,,,,,,,,,,,
-Tuen Mun,Richland Garden Shopping Arcade  (non-residential),9/3/2020,120,,,,,,,,,,,
-Kwun Tong ,Sing Win Factory Building (non-residential),9/3/2020,125,,,,,,,,,,,
-Kwun Tong,Domain  (non-residential),9/3/2020,67,,,,,,,,,,,
-Kwun Tong,Laguna Plaza  (non-residential),9/3/2020,126,,,,,,,,,,,
-Kwun Tong,Kwun Tong Plaza  (non-residential),9/3/2020,125,127,,,,,,,,,,
-Kwun Tong,Sing Win Factory Building   (non-residential),9/3/2020,125,,,,,,,,,,,
-Kwun Tong,Domain (non-residential),9/3/2020,"67,125",222,,,,,,,,,,
-Tai Po,Fu Heng Shopping Centre (non-residential),9/3/2020,119,,,,,,,,,,,
-Islands,Cheung Chau Municipal Services Building (non-residential),10/3/2020,123,118,,,,,,,,,,
-Islands,1-2 Kin Sun Lane (non-residential),10/3/2020,123,,,,,,,,,,,
-Yuen Long,Kingswood Richly Plaza (non-residential),10/3/2020,125,,,,,,,,,,,
-Kwai Tsing,Tsing Yi Square (non-residential),10/3/2020,142,,,,,,,,,,,
-Southern,One Island South (non-residential),10/3/2020,163,,,,,,,,,,,
-Southern,41 Heung Yip Road (non-residential),10/3/2020,163,,,,,,,,,,,
-Southern,Canadian International School (non-residential),10/3/2020,182,,,,,,,,,,,
-Wan Chai,Times Square (non-residential),10/3/2020,183,,,,,,,,,,,
-Tuen Mun,"On Hei House, Siu Hei Court",10/3/2020,120,,,,,,,,,,,
-Sai Kung,Yee Ching House Yee Ming Estate,10/3/2020,"58,128",,,,,,,,,,,
-Sha Tin,"Mau Lam House, Kwong Lam Court",10/3/2020,122,121,,,,,,,,,,
-Tsuen Wan ,"Tower 7, Bellagio",10/3/2020,123,127,,,,,,,,,,
-Kwun Tong,"Block T, Telford Gardens",10/3/2020,125,125,,,,,,,,,,
-Kwun Tong,"Block 26, Phase 2, Laguna City",10/3/2020,126,,,,,,,,,,,
-Kwai Tsing ,Tsing Yi Square  (non-residential),10/3/2020,142,,,,,,,,,,,
-Southern ,41 Heung Yip Road  (non-residential),10/3/2020,163,,,,,,,,,,,
-Southern ,One Island South  (non-residential),10/3/2020,163,,,,,,,,,,,
-Kwun Tong,"Block 26, Phase 2, Laguna City",10/3/2020,"126,127",,,,,,,,,,,
-Yuen Long District,Kingswood Richly Plaza (non-residential),10/3/2020,125,,,,,,,,,,,
-Islands,Cheung Chau Municipal Services Building  (non-residential),10/3/2020,123,,,,,,,,,,,
-Islands,1-2 Kin Sun Lane  (non-residential),10/3/2020,123,,,,,,,,,,,
-Yuen Long District,Kingswood Richly Plaza  (non-residential),10/3/2020,125,,,,,,,,,,,
-Kwai Tsing ,Tsing Yi Square   (non-residential),10/3/2020,142,,,,,,,,,,,
-Tsuen Wan,"Tower 7, Bellagio",10/3/2020,123,,,,,,,,,,,
-Kwai Tsing,Tsing Yi Square   (non-residential),10/3/2020,142,,,,,,,,,,,
-Tai Po,"Heng Tai House, Fu Heng Estate",10/3/2020,119,,,,,,,,,,,
-Tai Po,Fu Heng Shopping Centre  (non-residential),10/3/2020,119,,,,,,,,,,,
-Kwai Tsing,iPlace,10/3/2020,130,,,,,,,,,,,
-Tai Po,Fu Heng Shopping Centre (non-residential),10/3/2020,119,,,,,,,,,,,
-Tai Po,Fu Heng Shopping Centre (non-residential),11/3/2020,119,,,,,,,,,,,
-Central & Western,"Meng Wah Complex, University of Hong Kong (non-residential)",11/3/2020,132,121,,,,,,,,,,
-Wan Chai,"Block 2, Cavendish Heights, 33 Perkins Road (non-residential)",11/3/2020,137,,,,,,,,,,,
-Wan Chai,5 Perkins Road (non-residential),11/3/2020,137,125,,,,,,,,,,
-Yau Tsim Mong,Argyle Centre Phase (non-residential),11/3/2020,142,127,,,,,,,,,,
-Wan Chai,Hong Kong Adventist Hospital (non-residential),11/3/2020,147,,,,,,,,,,,
-Sham Shui Po,Festival Walk (non-residential),11/3/2020,183,,,,,,,,,,,
-Yau Tsim Mong,Argyle Centre Phase  (non-residential),11/3/2020,142,,,,,,,,,,,
-Central and Western,"Meng Wah Complex, University of Hong Kong (non-residential)",11/3/2020,132,,,,,,,,,,,
-Wan Chai,Hong Kong Adventist Hospital Stubbs Road (non-residential),11/3/2020,147 and 148,,,,,,,,,,,
-Central and Western,"Meng Wah Complex, University of Hong Kong  (non-residential)",11/3/2020,132,,,,,,,,,,,
-Wan Chai,"Block 2, Cavendish Heights, 33 Perkins Road  (non-residential)",11/3/2020,137,,,,,,,,,,,
-Wan Chai,5 Perkins Road  (non-residential),11/3/2020,137,,,,,,,,,,,
-Tai Po,Fu Heng Shopping Centre  (non-residential),11/3/2020,119,,,,,,,,,,,
-Yau Tsim Mong,Argyle Centre Phase   (non-residential),11/3/2020,142,,,,,,,,,,,
-Wan Chai,Hong Kong Adventist Hospital Stubbs Road  (non-residential),11/3/2020,147 and 148,,,,,,,,,,,
-Wan Chai,Hong Kong Adventist Hospital Stubbs Road  (non-residential),11/3/2020,147,,,,,,,,,,,
-Kwai Tsing,iPlace,11/3/2020,130,121,,,,,,,,,,
-Yau Tsim Mong,Grand Centre (non-residential),12/3/2020,142,,,,,,,,,,,
-Wong Tai Sin,Mikiki (non-residential),12/3/2020,155,,,,,,,,,,,
-Tuen Mun,Siu Lun Shopping Centre (non-residential),12/3/2020,161,129,,,,,,,,,,
-Kwai Tsing,Florentia Village (non-residential),12/3/2020,163,,,,,,,,,,,
-Central & Western,"Serene Court, 35 Sai Ning Street ",12/3/2020,132,127,,,,,,,,,,
-Kwai Tsing,iPlace,12/3/2020,130,,,,,,,,,,,
-Kwai Tsing ,Florentia Village (non-residential),12/3/2020,163,,,,,,,,,,,
-Yau Tsim Mong,Grand Centre  (non-residential),12/3/2020,142,,,,,,,,,,,
-Central and Western,"Serene Court, 35 Sai Ning Street ",12/3/2020,132,,,,,,,,,,,
-Yau Tsim Mong,Grand Centre  (non-residential),12/3/2020,142 and 195,,,,,,,,,,,
-Wan Chai,Hopewell Centre (non-residential),12/3/2020,168,,,,,,,,,,,
-Yau Tsim Mong,Grand Centre   (non-residential),12/3/2020,142,,,,,,,,,,,
-Wong Tai Sin,Mikiki  (non-residential),12/3/2020,155,,,,,,,,,,,
-Wan Chai,Hong Kong Sanatorium & Hospital (non-residential),13/3/2020,76,121,,,,,,,,,,
-Wan Chai,Hopewell Centre (non-residential),13/3/2020,101,,,,,,,,,,,
-Kwai Tsing,Greenfield Shopping Arcade (non-residential),13/3/2020,142,129,,,,,,,,,,
-Central & Western,Kwong Ga Factory Building (non-residential),13/3/2020,146,,,,,,,,,,,
-Yau Tsim Mong,Kowloon Mosque And Islamic Centre (non-residential),13/3/2020,151,,,,,,,,,,,
-Sham Shui Po,Kimberland Center (non-residential),13/3/2020,153,,,,,,,,,,,
-Kowloon City,Celestial Place (non-residential),13/3/2020,155,,,,,,,,,,,
-Yau Tsim Mong,"MTR Kowloon Station, Airport Express Line Arrival Concourse (non-residential)",13/3/2020,162,,,,,,,,,,,
-Central & Western,Pacific Place (non-residential),13/3/2020,182,,,,,,,,,,,
-Sai Kung,13 Sha Tsui Path (non-residential),13/3/2020,182,,,,,,,,,,,
-Wan Chai,Starcrest (non-residential),13/3/2020,182,,,,,,,,,,,
-Wan Chai,12 St. Francis Street (non-residential),13/3/2020,183,,,,,,,,,,,
-Central & Western,63 Wyndham Street (non-residential),13/3/2020,191,,,,,,,,,,,
-Central & Western,2-4 Shelley Street (non-residential),13/3/2020,191,,,,,,,,,,,
-Central & Western,44 D'Aguilar Street (non-residential),13/3/2020,191,129,,,,,,,,,,
-Wan Chai,Immigration Tower (non-residential),13/3/2020,211,,,,,,,,,,,
-Central & Western,15 Queen's Road Central (non-residential),13/3/2020,211,124,,,,,,,,,,
-Wan Chai,183 Queen's Road East (non-residential),13/3/2020,211,124,,,,,,,,,,
-Wan Chai,200 Queen's Road East (non-residential),13/3/2020,211,,,,,,,,,,,
-Sai Kung,Razor Hill Dairy Farm Shopping Centre (non-residential),13/3/2020,239,124,,,,,,,,,,
-Central & Western,45 Pottinger Street (non-residential),13/3/2020,217,,,,,,,,,,,
-Kwai Tsing,"Block 2, Kwai Fong Terrace (non-residential)",13/3/2020,337,124,140,,,,,,,,,
-Tai Po,"Ng Tung Chai, Lam Tsuen",13/3/2020,134,,,,,,,,,,,
-Tai Po,"Heng Tai House, Fu Heng Estate",13/3/2020,119,,,,,,,,,,,
-Central & Western,View Villa,13/3/2020,135,,,,,,,,,,,
-Sai Kung ,684 Clear Water Bay Road ,13/3/2020,141,,,,,,,,,,,
-Eastern,Cornell Centre ,13/3/2020,139,148,,,,,,,,,,
-Southern,18 Stanley Main Street,13/3/2020,136,,,,,,,,,,,
-Kwai Tsing ,Tivoli Garden,13/3/2020,142,,,,,,,,,,,
-Wan Chai,"Block A, Tai Hang Terrace",13/3/2020,137,,,,,,,,,,,
-Kwai Tsing ,Greenfield Shopping Arcade (non-residential),13/3/2020,142,,,,,,,,,,,
-Yau Tsim Mong,"MTR Kowloon Station, Airport Express Line Arrival Concourse  (non-residential)",13/3/2020,162,,,,,,,,,,,
-Sai Kung ,13 Sha Tsui Path  (non-residential),13/3/2020,182,,,,,,,,,,,
-Central and Western,View Villa,13/3/2020,135,124,140,,,,,,,,,
-Wan Chai,"Block A, Tai Hang Terrace, 5 Chun Fai Road",13/3/2020,137,148,,,,,,,,,,
-Sham Shui Po,"Kimberland Center, 55 Wing Hong Street (non-residential)",13/3/2020,153,,,,,,,,,,,
-Central and Western,15 Queen's Road Central (non-residential),13/3/2020,211, 124 and 140,,,,,,,,,,
-Central and Western,63 Wyndham Street (non-residential),13/3/2020,217,,,,,,,,,,,
-Central and Western,2-4 Shelley Street (non-residential),13/3/2020,217,,,,,,,,,,,
-Central and Western,45 Pottinger Street (non-residential),13/3/2020,217,,,,,,,,,,,
-Wan Chai,Hopewell Centre (non-residential),13/3/2020,101 and 156,,,,,,,,,,,
-Wan Chai,Hong Kong Sanatorium & Hospital  (non-residential),13/3/2020,76,,,,,,,,,,,
-Kwai Tsing ,Greenfield Shopping Arcade  (non-residential),13/3/2020,142, 124 and 140,,,,,,,,,,
-Central & Western,Kwong Ga Factory Building  (non-residential),13/3/2020,146,,,,,,,,,,,
-Yau Tsim Mong,Kowloon Mosque And Islamic Centre  (non-residential),13/3/2020,151,,,,,,,,,,,
-Sham Shui Po,"Kimberland Center, 55 Wing Hong Street  (non-residential)",13/3/2020,153,124,140,,,,,,,,,
-Kowloon City,Celestial Place  (non-residential),13/3/2020,155,148,,,,,,,,,,
-Wan Chai,Hopewell Centre  (non-residential),13/3/2020,101 and 156,131,,,,,,,,,,
-Eastern,Cornell Centre,13/3/2020,139,195,,,,,,,,,,
-Sai Kung,684 Clear Water Bay Road,13/3/2020,141,,,,,,,,,,,
-Kwai Tsing,Tivoli Garden,13/3/2020,142,,,,,,,,,,,
-Kwai Tsing,Greenfield Shopping Arcade  (non-residential),13/3/2020,142,,,,,,,,,,,
-Wan Chai,The Harbourview (non-residential),14/3/2020,144,,,,,,,,,,,
-Southern,"Ping On House, 2 Chengtu Road (non-residential)",14/3/2020,149,131,133,138,,,,,,,,
-Kowloon City,In House (non-residential),14/3/2020,154,,,,,,,,,,,
-Wan Chai,Pinnacle Building (non-residential),14/3/2020,169,,,,,,,,,,,
-Central & Western,Scenic Rise (non-residential),14/3/2020,169,,,,,,,,,,,
-Central & Western,The Grand Stage (non-residential),14/3/2020,170,195,,,,,,,,,,
-Tuen Mun,Kam Men Mansion (non-residential),14/3/2020,170,131,133 and 138,,,,,,,,,
-Tsuen Wan,Royal View Hotel (non-residential),14/3/2020,170,,,,,,,,,,,
-Tuen Mun,The Sherwood (non-residential),14/3/2020,170,,,,,,,,,,,
-Tuen Mun,1 Lam Tei Main Street (non-residential),14/3/2020,170,,,,,,,,,,,
-Sai Kung,10A-C Po Tung Rd (non-residential),14/3/2020,182,,,,,,,,,,,
-Islands,Auberge Discovery Bay Hong Kong (non-residential),14/3/2020,191,,,,,,,,,,,
-Central & Western,Standard Chartered Bank Building (non-residential),14/3/2020,194,,,,,,,,,,,
-Central & Western,37-44 Cochrane Street (non-residential),14/3/2020,217,,,,,,,,,,,
-Central & Western,20A D'Aguilar Street (non-residential),14/3/2020,217,85,91,110,139,147,148,,,,,
-Yau Tsim Mong,Harbour Crystal Centre (non-residential),14/3/2020,233,156,168,,,,,,,,,
-Yau Tsim Mong,Harilela Mansion (non-residential),14/3/2020,250,,,,,,,,,,,
-Yau Tsim Mong,23 Lock Road (non-residential),14/3/2020,250,,,,,,,,,,,
-Central & Western,83 Catchick Street (non-residential),14/3/2020,318,,,,,,,,,,,
-Wan Chai,South China Athletic Association (non-residential),14/3/2020,318,,,,,,,,,,,
-Kwai Tsing,Kwai Chung Plaza (non-residential),14/3/2020,337,,,,,,,,,,,
-Central & Western,"Kellett View Town Houses, 65 Mount Kellett Road",14/3/2020,147,,,,,,,,,,,
-North,"Lai Ming House, Wah Ming Estate",14/3/2020,143,,,,,,,,,,,
-Sai Kung,The Palisades,14/3/2020,145,,,,,,,,,,,
-Eastern,Fort Mansion,14/3/2020,146,,,,,,,,,,,
-Sai Kung ,10A-C Po Tung Rd (non-residential),14/3/2020,182,,,,,,,,,,,
-Eastern,"Fort Mansion, 25-27 Fort Street",14/3/2020,146,217,,,,,,,,,,
-Central & Western,44 D'Aguilar Street (non-residential),14/3/2020,217,217,250,332,,,,,,,,
-Central & Western,Bank of China Building (non-residential),14/3/2020,183,217,250,332,,,,,,,,
-Sai Kung,"Pak Sha Wan, Sai Kung",14/3/2020,145,,,,,,,,,,,
-Southern,"Kellett View Town Houses, 65 Mount Kellett Road",14/3/2020,147,,,,,,,,,,,
-Wan Chai,The Harbourview  (non-residential),14/3/2020,144,,,,,,,,,,,
-Kowloon City,In House  (non-residential),14/3/2020,154,,,,,,,,,,,
-Central & Western,JW Marriott Hotel Hong Kong (non-residential),15/3/2020,85,,,,,,,,,,,
-Tuen Mun,2 Hoi Chu Road (non-residential),15/3/2020,152,275,278,284,332,,,,,,,
-North,"Lai Ming House, Wah Ming Estate (non-residential)",15/3/2020,155,,,,,,,,,,,
-Yau Tsim Mong,Kam San Building 78-86 Reclamation Street (non-residential),15/3/2020,159,,,,,,,,,,,
-Tuen Mun,Tuen Mun Town Plaza (non-residential),15/3/2020,161,124,140,,,,,,,,,
-Tuen Mun,Tuen Mun Trend Plaza (non-residential),15/3/2020,161,,,,,,,,,,,
-Southern,Union Industrial Building (non-residential),15/3/2020,169,,,,,,,,,,,
-Wan Chai,14 Tai Wong Street East (non-residential),15/3/2020,169,,,,,,,,,,,
-Eastern,Cheerful Garden (non-residential),15/3/2020,170,,,,,,,,,,,
-Shatin,Courtyard by Marriott Hong Kong (non-residential),15/3/2020,171,,,,,,,,,,,
-Shatin,Jubilee Square (non-residential),15/3/2020,172,,,,,,,,,,,
-Sham Shui Po,323 Lai Chi Kok Rd (non-residential),15/3/2020,191,,,,,,,,,,,
-Sham Shui Po,225 Ki Lung Street (non-residential),15/3/2020,191,,,,,,,,,,,
-Central & Western,Printing House (non-residential),15/3/2020,194,,,,,,,,,,,
-Wan Chai,9 Star Street (non-residential),15/3/2020,195,,,,,,,,,,,
-Yau Tsim Mong,Langham Hotel Hong Kong (non-residential),15/3/2020,195,,,,,,,,,,,
-Wan Chai,Sun Fung Mansion (non-residential),15/3/2020,195,,,,,,,,,,,
-Central & Western,46 Wyndham Street (non-residential),15/3/2020,217,,,,,,,,,,,
-Central & Western,60 Wyndham Street (non-residential),15/3/2020,217,,,,,,,,,,,
-Central & Western,5 Lan Kwai Fong (non-residential),15/3/2020,217,,,,,,,,,,,
-Central & Western,Hong Kong Plaza (non-residential),15/3/2020,250,,,,,,,,,,,
-Kowloon City,8 Hok Ling Street,15/3/2020,154,,,,,,,,,,,
-Central & Western,Island Shangri-La,15/3/2020,156,,,,,,,,,,,
-Tuen Mun,"Tower 1, Oceania Heights",15/3/2020,152,,,,,,,,,,,
-Shatin,"Block 10, Pristine Villa",15/3/2020,153,,,,,,,,,,,
-Yau Tsim Mong,"Block A, Chungking Mansions",15/3/2020,151,,,,,,,,,,,
-Yau Tsim Mong,Hotel ICON,15/3/2020,150,,,,,,,,,,,
-Southern,"Wah Cheong House, Wah Fu 2 Estate",15/3/2020,149,156,168,,,,,,,,,
-Wong Tai Sin,"Lung Chu House, Lung Poon Court",15/3/2020,155,217,,,,,,,,,,
-Tuen Mun,2 Hoi Chu Road  (non-residential),15/3/2020,152,217,250,,,,,,,,,
-Eastern ,Cheerful Garden (non-residential),15/3/2020,170,217,250,,,,,,,,,
-Sham Shui Po,225 Ki Lung Street  (non-residential),15/3/2020,191,85,91,110,139,147,148,,,,,
-Central & Western,ICBC Tower (non-residential),15/3/2020,195,,,,,,,,,,,
-Shatin,Courtyard by Marriott Hong Kong Sha Tin (non-residential),15/3/2020,171,,,,,,,,,,,
-Central and Western,Printing House (non-residential),15/3/2020,194,,,,,,,,,,,
-Central and Western,ICBC Tower (non-residential),15/3/2020,195,,,,,,,,,,,
-Central and Western,46 Wyndham Street (non-residential),15/3/2020,217,,,,,,,,,,,
-Central and Western,60 Wyndham Street (non-residential),15/3/2020,217,124,140,,,,,,,,,
-Central and Western,5 Lan Kwai Fong (non-residential),15/3/2020,217,,,,,,,,,,,
-Yau Tsim Mong,Yau Ma Tei Jockey Club General Out-patient Clinic (non-residential),15/3/2020,150,,,,,,,,,,,
-Wan Chai,Island Shangri-La,15/3/2020,156,85,91,110,139, 147 and 148,,,,,,
-Yau Tsim Mong,Yau Ma Tei Jockey Club General Out-patient Clinic  (non-residential),15/3/2020,150,,,,,,,,,,,
-North,"Lai Ming House, Wah Ming Estate  (non-residential)",15/3/2020,155,,,,,,,,,,,
-Wan Chai,JW Marriott Hotel Hong Kong  (non-residential),15/3/2020,85,156 and 168,,,,,,,,,,
-Yau Tsim Mong,Sino Cheer Plaza (non-residential),16/3/2020,159,,,,,,,,,,,
-Yau Tsim Mong,"Harvest Moon House, 337 - 339 Nathan Road (non-residential)",16/3/2020,159,,,,,,,,,,,
-Yau Tsim Mong,"Hang Shing Building, 363 Nathan Road (non-residential)",16/3/2020,159,,,,,,,,,,,
-Southern,Stanley Plaza (non-residential),16/3/2020,160,,,,,,,,,,,
-Central & Western,Admiralty Centre Tower 1 (non-residential),16/3/2020,161,,,,,,,,,,,
-Wan Chai,Win Fung Building (non-residential),16/3/2020,169,,,,,,,,,,,
-Shatin,The Palazzo Shopping Centre (non-residential),16/3/2020,172,,,,,,,,,,,
-Yau Tsim Mong,"152 Austin Road, Tsim Sha Tsui, Kowloon (non-residential)",16/3/2020,174,85,91,110,139, 147 and 148,,,,,,
-Central & Western,Nan Dao Commercial Building (non-residential),16/3/2020,177,,,,,,,,,,,
-Central & Western,Silver Jubilee Mansion (non-residential),16/3/2020,177,,,,,,,,,,,
-Central & Western,Century Square (non-residential),16/3/2020,184,,,,,,,,,,,
-Central & Western,California Tower (non-residential),16/3/2020,195,,,,,,,,,,,
-Central & Western,The Centrium (non-residential),16/3/2020,195,,,,,,,,,,,
-Central & Western,Kinwick Centre (non-residential),16/3/2020,195,,,,,,,,,,,
-Central & Western,21 Gough Street (non-residential),16/3/2020,195,85,91,110,139,147,148,,,,,
-Central & Western,Wing Tuck Commercial Centre (non-residential),16/3/2020,208,,,,,,,,,,,
-Eastern,AIA Tower (non-residential),16/3/2020,250,,,,,,,,,,,
-Eastern,"Phase II, Healthy Village (non-residential)",16/3/2020,250,,,,,,,,,,,
-Central & Western,Wah Ming Centre (non-residential),16/3/2020,251,85,91,110,139,,,,,,,
-Tuen Mun,Hong Kong Gold Coast Hotel (non-residential),16/3/2020,253,,,,,,,,,,,
-Central & Western,Hang Fai Building (non-residential),16/3/2020,261,,,,,,,,,,,
-Kwun Tong,Draco Industrial Building (non-residential),16/3/2020,262,,,,,,,,,,,
-Tsuen Wan,Wing Fung Industrial Building (non-residential),16/3/2020,263,,,,,,,,,,,
-Wan Chai,82 Jaffe Road (non-residential),16/3/2020,276,208,,,,,,,,,,
-Eastern,Hing Tung Shopping Centre (non-residential),16/3/2020,304,208,315,222,,,,,,,,
-Central & Western,The Centrium (non-residential),16/3/2020,318,,,,,,,,,,,
-Yau Tsim Mong,Sun Ming Building (non-residential),16/3/2020,337,,,,,,,,,,,
-Kowloon City ,8 Hok Ling Street,16/3/2020,228,,,,,,,,,,,
-Tai Po,"Block 16, Mayfair By The Sea",16/3/2020,157,,,,,,,,,,,
-Central & Western,"Emerald Garden, 86 Pok Fu Lam Road",16/3/2020,163,,,,,,,,,,,
-Tuen Mun,"Block 4, Tuen Mun Town Plaza",16/3/2020,161,,,,,,,,,,,
-Southern,The Redhill Peninsula,16/3/2020,160,233,237,253,258,259,,,,,,
-Yau Tsim Mong,Sino Cheer Plaza  (non-residential),16/3/2020,159,,,,,,,,,,,
-Yau Tsim Mong,Mount Kelly School Hong Kong (non-residential),16/3/2020,174,,,,,,,,,,,
-Central & Western, Wing Tuck Commercial Centre (non-residential),16/3/2020,208,,,,,,,,,,,
-Yau Tsim Mong,Mount Kelly School Hong Kong (non-residential),16/3/2020,243,253,295,,,,,,,,,
-Kwun Tong ,Draco Industrial Building  (non-residential),16/3/2020,262,,,,,,,,,,,
-Central & Western,Silver Jubilee Mansion (non-residential),16/3/2020,177 and 178,,,,,,,,,,,
-Central & Western,Nan Dao Commercial Building (non-residential),16/3/2020,177 and 178,,,,,,,,,,,
-Central & Western,Century Square (non-residential),16/3/2020,184 and 195,,,,,,,,,,,
-Central & Western,California Tower (non-residential),16/3/2020,195 and 199,,,,,,,,,,,
-Central and Western, Wing Tuck Commercial Centre (non-residential),16/3/2020,208,148,,,,,,,,,,
-Central and Western,Wah Ming Centre (non-residential),16/3/2020,251,,,,,,,,,,,
-Shatin,CCT Telecom Building  (non-residential),16/3/2020,191,,,,,,,,,,,
-Tuen Mun,"Shopping Centre, Melody Garden (non-residential)",17/3/2020,120,,,,,,,,,,,
-Shatin,Hilton Plaza (non-residential),17/3/2020,172,,,,,,,,,,,
-Shatin,CCT Telecom Building (non-residential),17/3/2020,191,,,,,,,,,,,
-Kowloon City,Hong Kong Baptist Hospital (non-residential),17/3/2020,195,,,,,,,,,,,
-Kwun Tong,Lam Tin South Sports Centre (non-residential),17/3/2020,200,,,,,,,,,,,
-Sai Kung,Park Central Shopping Centre (non-residential),17/3/2020,205,,,,,,,,,,,
-Central & Western,Princeâ€™s Building (non-residential),17/3/2020,206,,,,,,,,,,,
-Central & Western,33 Des Voeux Rd West (non-residential),17/3/2020,208,,,,,,,,,,,
-Kwai Tsing,"Block 1, Kwai Tak Industrial Centre (non-residential)",17/3/2020,229,,,,,,,,,,,
-Tsuen Wan,Carson Mansion (non-residential),17/3/2020,229,,,,,,,,,,,
-Kwun Tong,C-BONS International Tower (non-residential),17/3/2020,233,,,,,,,,,,,
-Eastern,Sai Wan Ho Market (non-residential),17/3/2020,237,,,,,,,,,,,
-Wan Chai,Vocational Training Council (non-residential),17/3/2020,237,,,,,,,,,,,
-Tsuen Wan,8 Chung On Street (non-residential),17/3/2020,253,,,,,,,,,,,
-Central & Western,Ho Lee Commercial Building (non-residential),17/3/2020,276,,,,,,,,,,,
-Wan Chai,76-84 Jaffe Road (non-residential),17/3/2020,276,,,,,,,,,,,
-Kowloon City,Hang Tak Yuen,17/3/2020,195,233,237,253,258,259,,,,,,
-Central & Western,Rich View Terrace,17/3/2020,177,,,,,,,,,,,
-Central & Western,3A Tregunter Path,17/3/2020,180,,,,,,,,,,,
-Central & Western,"Seymour Place,60 Robinson Road",17/3/2020,183,,,,,,,,,,,
-Shatin,Hong Kong Sports Institute Athletes' Hostel,17/3/2020,172,148,,,,,,,,,,
-Shatin,"Block 8, Saddle Ridge Garden ",17/3/2020,171,,,,,,,,,,,
-Eastern,Hyatt Centric Victoria Harbour Hong Kong,17/3/2020,169,,,,,,,,,,,
-Eastern,"Block 1, Island Resort",17/3/2020,186,,,,,,,,,,,
-Yau Tsim Mong,"Tower 7, the Coronation",17/3/2020,162,,,,,,,,,,,
-Southern,"Block 47, Baguio Villa",17/3/2020,184,,,,,,,,,,,
-Southern,"Tower 3, The Repulse Bay",17/3/2020,226,148,,,,,,,,,,
-Wong Tai Sin,"Oi Wai House, Tsz Oi Court",17/3/2020,173,,,,,,,,,,,
-Wong Tai Sin,"Choi Wah House, Choi Fai Estate",17/3/2020,167,,,,,,,,,,,
-Wan Chai,"Tower 2, the Zenith",17/3/2020,168,101,104,156,,,,,,,,
-Wan Chai,"King Cheung Mansion, 5 King Kwong Street",17/3/2020,185,,,,,,,,,,,
-Kwun Tong,"Ying Lai House, Yau Lai Estate",17/3/2020,175,,,,,,,,,,,
-Kwun Tong , Lam Tin South Sports Centre  (non-residential),17/3/2020,200,,,,,,,,,,,
-Sai Kung, Park Central (non-residential),17/3/2020,205,,,,,,,,,,,
-Kwai Tsing ,"Block 1, Kwai Tak Industrial Centre (non-residential)",17/3/2020,229,,,,,,,,,,,
-Shatin,CCT Telecom Building  (non-residential),17/3/2020,191,208,277,315,,,,,,,,
-Eastern,"Block 2, Island Resort",17/3/2020,170,,,,,,,,,,,
-Kwun Tong,"Ying Lai House, Yau Lai Estate",17/3/2020,175 and 176,,,,,,,,,,,
-Central & Western,"Rich View Terrace, 26 Square Street",17/3/2020,177 and 178,,,,,,,,,,,
-Central and Western,Princeâ€™s Building (non-residential),17/3/2020,206,,,,,,,,,,,
-Central and Western,33 Des Voeux Rd West (non-residential),17/3/2020,208,,,,,,,,,,,
-Shatin,CCT Telecom Building  (non-residential),17/3/2020,191 and 217,,,,,,,,,,,
-Yau Tsim Mong,"Tower 3, Hampton Place",17/3/2020,174,,,,,,,,,,,
-Wan Chai ,Sakura Court ,17/3/2020,181,,,,,,,,,,,
-Central & Western,"Seymour Place, 60 Robinson Road",17/3/2020,183,,,,,,,,,,,
-Central & Western,"ICBC Tower, Garden Road (non-residential)",18/3/2020,195,,,,,,,,,,,
-Central & Western,Bank of China building (non-residential),18/3/2020,106,,,,,,,,,,,
-Tuen Mun,V city (non-residential),18/3/2020,193,,,,,,,,,,,
-Yau Tsim Mong,Boundary Street Sports Centre No. 2 (non-residential),18/3/2020,200,,,,,,,,,,,
-Yuen Long,Yuen Long DivisionÂ Police Station (non-residential),18/3/2020,201,,,,,,,,,,,
-Central & Western,Gloucester Tower (non-residential),18/3/2020,206,,,,,,,,,,,
-Shatin,89 Chik Fu Street (non-residential),18/3/2020,253,,,,,,,,,,,
-Central & Western,Nan Fung Place (non-residential),18/3/2020,270,,,,,,,,,,,
-Central & Western,120 Connaught Road West (non-residential),18/3/2020,281,,,,,,,,,,,
-Kowloon City,"Hibiscus House, Ma Tau Wai Estate",18/3/2020,242,,,,,,,,,,,
-Central & Western,20 Square Street,18/3/2020,208,,,,,,,,,,,
-Central & Western,The Nova,18/3/2020,251,,,,,,,,,,,
-Central & Western,1 High Street,18/3/2020,217,,,,,,,,,,,
-Central & Western,"Tower 1, Hillsborough Court",18/3/2020,207,,,,,,,,,,,
-Yuen Long,Pak Sha Tsuen,18/3/2020,201,,,,,,,,,,,
-Tuen Mun,Pentahotel Hong Kong,18/3/2020,193,,,,,,,,,,,
-Sai Kung ,Tai Mong Tsai Road ,18/3/2020,182,,,,,,,,,,,
-Sai Kung,"Tower 2, The Capitol, Lohas Park",18/3/2020,205,,,,,,,,,,,
-Sai Kung ,"Kwong Ning House, Kwong Ming Court",18/3/2020,198,,,,,,,,,,,
-Shatin,"Court B, Tower 3, Dragons Range",18/3/2020,204,,,,,,,,,,,
-Shatin,"Tower 1, BayshoreTowers",18/3/2020,240,,,,,,,,,,,
-Shatin,"Block C, Sunshine City",18/3/2020,191,,,,,,,,,,,
-Yau Tsim Mong,K11 ARTUS,18/3/2020,209,,,,,,,,,,,
-Yau Tsim Mong,26 Kimberley Road,18/3/2020,199,,,,,,,,,,,
-Yau Tsim Mong,Imperial Hotel ,18/3/2020,200,,,,,,,,,,,
-Yau Tsim Mong,Hang Yue Court ,18/3/2020,192,,,,,,,,,,,
-Yau Tsim Mong,"Tower 3, Hampton Place",18/3/2020,174,,,,,,,,,,,
-Southern,46 Island Road,18/3/2020,206,,,,,,,,,,,
-Tsuen Wan,"Block 5, The Summit Terrace",18/3/2020,219,,,,,,,,,,,
-Sham Shui Po,E hotel Hong Kong ,18/3/2020,190,,,,,,,,,,,
-Sham Shui Po,"Yee Kok Court, Yee Tai House",18/3/2020,221,,,,,,,,,,,
-Kwai Tsing ,"Kwai On House, Kwai Fong Estate ",18/3/2020,196,,,,,,,,,,,
-Wan Chai,Villa Monte Rosa,18/3/2020,216,,,,,,,,,,,
-Wan Chai,70 Tin Hau Temple Road,18/3/2020,218,101,104,156,,,,,,,,
-Wan Chai,St. Regis Hong Kong,18/3/2020,230,,,,,,,,,,,
-Tuen Mun,V city  (non-residential),18/3/2020,193,,,,,,,,,,,
-Yau Tsim Mong ,Boundary Street Sports Centre No. 2 (non-residential),18/3/2020,200,,,,,,,,,,,
-Central & Western, Gloucester Tower (non-residential),18/3/2020,206,,,,,,,,,,,
-Central & Western,Bank of China building  (non-residential),18/3/2020,106,,,,,,,,,,,
-Yau Tsim Mong,"Tower 3, Hampton Place",18/3/2020,174 and 222,,,,,,,,,,,
-Tuen Mun,Pentahotel Hong Kong Tuen Mun,18/3/2020,193,,,,,,,,,,,
-Central & Western,Conway Mansion,18/3/2020,194,,,,,,,,,,,
-Sai Kung,"Tower 2, The Capitol",18/3/2020,205,101,104 and 156,,,,,,,,,
-Tai Hang,70 Tin Hau Temple Road,18/3/2020,218,,,,,,,,,,,
-Central and Western,Bank of China building  (non-residential),18/3/2020,106,,,,,,,,,,,
-Central and Western, Gloucester Tower (non-residential),18/3/2020,206,,,,,,,,,,,
-Sai Kung ,39D Tai Mong Tsai Road ,18/3/2020,182,,,,,,,,,,,
-Kowloon City,26 Cumberland Road,18/3/2020,199,,,,,,,,,,,
-Southern,"Block 4, Repulse Bay Garden",18/3/2020,203,,,,,,,,,,,
-Yau Tsim Mong,Yau Ma Tei Jockey Club General Out-patient Clinic (non-residential),18/3/2020,150 and 192,,,,,,,,,,,
-Tuen Mun,Yan Oi General Out-patient Clinic (non-residential),18/3/2020,193,,,,,,,,,,,
-Eastern,Technology Plaza (non-residential),19/3/2020,229,,,,,,,,,,,
-Yuen Long,Tin Shui Shopping Center (non-residential),19/3/2020,231,,,,,,,,,,,
-Tuen Mun,Tuen Mun Parkland Square (non-residential),19/3/2020,244,,,,,,,,,,,
-Sai Kung,Ming Tak Shopping Centre (non-residential),19/3/2020,256,,,,,,,,,,,
-Central & Western,"Phase 1, IFC (non-residential)",19/3/2020,270,,,,,,,,,,,
-Sham Shui Po,67 Broadway (non-residential),19/3/2020,270,101,104 and 156,,,,,,,,,
-Sham Shui Po,Cheung Lung Industrial Building (non-residential),19/3/2020,291,,,,,,,,,,,
-Kowloon CityÂ ,360 Prince Edward Road (non-residential),19/3/2020,349,,,,,,,,,,,
-Eastern,"Maple Mansion, Harbour View Gardens",19/3/2020,249,,,,,,,,,,,
-Central & Western,"Evergreen Tower, Western Garden",19/3/2020,238,,,,,,,,,,,
-Central & Western,"Po Hing Mansion, 20 Rutter Street",19/3/2020,245,,,,,,,,,,,
-Central & Western,Conway Mansion,19/3/2020,194,208,,,,,,,,,,
-Central & Western,May Tower,19/3/2020,224,,,,,,,,,,,
-Yuen Long,"Shui Lam House, Tin Shui Estate",19/3/2020,231,222,243,285,286,,,,,,,
-Sai Kung,31 Wo Tong Kong,19/3/2020,239,178,,,,,,,,,,
-Shatin,"Block D, The Grandville",19/3/2020,253,178,,,,,,,,,,
-Shatin,"Tower 1, Ma On Shan Centre",19/3/2020,252,195,,,,,,,,,,
-Eastern,Tung Lam Court,19/3/2020,237,199,,,,,,,,,,
-Eastern,"Lai Wah Mansion, 867-881 King's Road",19/3/2020,250,,,,,,,,,,,
-Eastern,"Block Q, Kornhill",19/3/2020,269,,,,,,,,,,,
-Southern,"South Bay Road, Repulse Bay",19/3/2020,234,,,,,,,,,,,
-Southern,"Block 4, Repulse Bay Garden",19/3/2020,203,,,,,,,,,,,
-Sham Shui Po,"Phase 2, Village Gardens",19/3/2020,243,,,,,,,,,,,
-Kwai Tsing,"Hong Ping House, Cheung Hong Estate",19/3/2020,233,,,,,,,,,,,
-Islands,"Block 5, Tung Chung Crescent",19/3/2020,212,,,,,,,,,,,
-Wan Chai ,Sakura Court ,19/3/2020,181,,,,,,,,,,,
-Wan Chai,8 Ventris Road,19/3/2020,247,,,,,,,,,,,
-Wan Chai,"Beverly Hill, 6 Broadwood Road",19/3/2020,246,,,,,,,,,,,
-Wan Chai,Tower 3 The Avenue,19/3/2020,211,,,,,,,,,,,
-Wan Chai ,Sakura Court ,19/3/2020,181 and 215,,,,,,,,,,,
-Southern,"Block 4, Repulse Bay Garden",19/3/2020,203 and 223,,,,,,,,,,,
-Wan Chai,Tower 3 The Avenue,19/3/2020,211 and 214,,,,,,,,,,,
-Kwun Tong,"C-Bons International Center, 108 Wai Yip Street (non-residential)",19/3/2020,233,,,,,,,,,,,
-Kwai Tsing,Shek Yam Shopping Centre (non-residential),20/3/2020,263,,,,,,,,,,,
-Central & Western,97 Hollywood Road (non-residential),20/3/2020,266,158,,,,,,,,,,
-Shatin,Union Hospital (non-residential),20/3/2020,317,,,,,,,,,,,
-Central & Western,One Exchange Square (non-residential),20/3/2020,339,,,,,,,,,,,
-Eastern,Parker33 (non-residential),20/3/2020,339,235,,,,,,,,,,
-Central & Western,"Shun On Building, 2 Sands Street",20/3/2020,261,,,,,,,,,,,
-Central & Western,SOHO 189,20/3/2020,267,,,,,,,,,,,
-Central & Western,"Silvercrest, 24 Macdonnell Road",20/3/2020,265,,,,,,,,,,,
-Yuen Long,"Yiu Foo House, Tin Yiu (1) Estate ",20/3/2020,258,,,,,,,,,,,
-Southern,No. 4 Stanley Village Road,20/3/2020,225,,,,,,,,,,,
-Southern,Repulse Bay Garden,20/3/2020,266,,,,,,,,,,,
-Tsuen Wan,"Block C, Luk Yeung Sun Chuen",20/3/2020,229,,,,,,,,,,,
-Wong Tai Sin,Tower 7 The Latitude ,20/3/2020,226,,,,,,,,,,,
-Kwai Tsing ,"Yam Heng House, Shek Yum Estate",20/3/2020,263,,,,,,,,,,,
-Wan Chai,"Tower 1, Hoover Tower",20/3/2020,210,,,,,,,,,,,
-Kwai Tsing ,Shek Yam Shopping Centre (non-residential),20/3/2020,263,,,,,,,,,,,
-Wong Tai Sin,Kai Tak Garden Shopping Arcade (non-residential),21/3/2020,275,,,,,,,,,,,
-Southern,Le Meridien Cyberport (non-residential),21/3/2020,316,,,,,,,,,,,
-Shatin,16 Science Park Avenue (non-residential),21/3/2020,333,,,,,,,,,,,
-Kowloon City,Cheong Shing Court,21/3/2020,262,,,,,,,,,,,
-Sai Kung,Yee Ching House Yee Ming Estate,,"58,128",,,,,,,,,,,
-Wan Chai,Envoy Garden,,114,,,,,,,,,,,
-Southern,"Block 28, Baguio Villa",,notified by the health authority of Canada and 117,,,,,,,,,,,
-Tai Po,"Heng Tai House, Fu Heng Estate",,119,,,,,,,,,,,
-Tuen Mun,"On Hei House, Siu Hei Court",,120,,,,,,,,,,,
-Sha Tin,"Mau Lam House, Kwong Lam Court",,122,178,,,,,,,,,,
-Tsuen Wan,"Tower 7, Bellagio",,123,178,,,,,,,,,,
-Kwun Tong,"Block T, Telford Gardens",,125,195,,,,,,,,,,
-Kwun Tong,"Block 26, Phase 2, Laguna City",,126,199,,,,,,,,,,
-Kwai Tsing,iPlace,,130,158,,,,,,,,,,
-Central & Western,"Serene Court, 35 Sai Ning Street",,132,,,,,,,,,,,
-Tai Po,"Ng Tung Chai, Lam Tsuen",,134,,,,,,,,,,,
-Central & Western,View Villa,,135,,,,,,,,,,,
-Southern,18 Stanley Main Street,,136,,,,,,,,,,,
-Wan Chai,"Block A, Tai Hang Terrace",,137,,,,,,,,,,,
-Eastern,Cornell Centre,,139,,,,,,,,,,,
-Sai Kung,684 Clear Water Bay Road,,141,,,,,,,,,,,
-Kwai Tsing,Tivoli Garden,,142,,,,,,,,,,,
-North,"Lai Ming House, Wah Ming Estate",,143,,,,,,,,,,,
-Sai Kung,The Palisades,,145,,,,,,,,,,,
-Eastern,Fort Mansion,,146,,,,,,,,,,,
-Central & Western,"Kellett View Town Houses, 65 Mount Kellett Road",,147,,,,,,,,,,,
-Southern,"Wah Cheong House, Wah Fu 2 Estate",,149,,,,,,,,,,,
-Yau Tsim Mong,Hotel ICON,,150,121,244,,,,,,,,,
-Yau Tsim Mong,"Block A, Chungking Mansions",,151,,,,,,,,,,,
-Tuen Mun,"Tower 1, Oceania Heights",,152,217,,,,,,,,,,
-Shatin,"Block 10, Pristine Villa",,153,243,,,,,,,,,,
-Kowloon City,8 Hok Ling Street,,154,,,,,,,,,,,
-Wong Tai Sin,"Lung Chu House, Lung Poon Court",,155,,,,,,,,,,,
-Central & Western,Island Shangri-La,,156,,,,,,,,,,,
-Tai Po,"Block 16, Mayfair By The Sea",,157,,,,,,,,,,,
-Southern,The Redhill Peninsula,,160,337,338,,,,,,,,,
-Tuen Mun,"Block 4, Tuen Mun Town Plaza",,161,,,,,,,,,,,
-Yau Tsim Mong,"Tower 7, the Coronation",,162,,,,,,,,,,,
-Central & Western,"Emerald Garden, 86 Pok Fu Lam Road",,163,,,,,,,,,,,
-Wong Tai Sin,"Choi Wah House, Choi Fai Estate",,167,,,,,,,,,,,
-Wan Chai,"Tower 2, the Zenith",,168,,,,,,,,,,,
-Eastern,Hyatt Centric Victoria Harbour Hong Kong,,169,343,,,,,,,,,,
-Eastern,"Block 2, Island Resort",,170,343,,,,,,,,,,
-Shatin,"Block 8, Saddle Ridge Garden",,171,,,,,,,,,,,
-Shatin,Hong Kong Sports Institute Athletes' Hostel,,172,178,,,,,,,,,,
-Wong Tai Sin,"Oi Wai House, Tsz Oi Court",,173,,,,,,,,,,,
-Yau Tsim Mong,"Tower 3, Hampton Place",,174,,,,,,,,,,,
-Kwun Tong,"Ying Lai House, Yau Lai Estate",,175,,,,,,,,,,,
-Central & Western,Rich View Terrace,,177,,,,,,,,,,,
-Central & Western,3A Tregunter Path,,180,,,,,,,,,,,
-Wan Chai,Sakura Court,,181,170,,,,,,,,,,
-Sai Kung,Tai Mong Tsai Road,,182,,,,,,,,,,,
-Central & Western,"Seymour Place,60 Robinson Road",,183,,,,,,,,,,,
-Southern,"Block 47, Baguio Villa",,184,,,,,,,,,,,
-Wan Chai,"King Cheung Mansion, 5 King Kwong Street",,185,,,,,,,,,,,
-Eastern,"Block 1, Island Resort",,186,,,,,,,,,,,
-Sham Shui Po,E hotel Hong Kong,,190,,,,,,,,,,,
-Shatin,"Block C, Sunshine City",,191,,,,,,,,,,,
-Yau Tsim Mong,Hang Yue Court,,192,176,,,,,,,,,,
-Tuen Mun,Pentahotel Hong Kong,,193,,,,,,,,,,,
-Central & Western,Conway Mansion,,194,,,,,,,,,,,
-Kowloon City,Hang Tak Yuen,,195,,,,,,,,,,,
-Kwai Tsing,"Kwai On House, Kwai Fong Estate",,196,,,,,,,,,,,
-Sai Kung,"Kwong Ning House, Kwong Ming Court",,198,,,,,,,,,,,
-Yau Tsim Mong,26 Kimberley Road,,199,,,,,,,,,,,
-Yau Tsim Mong,Imperial Hotel,,200,,,,,,,,,,,
-Yuen Long,Pak Sha Tsuen,,201,,,,,,,,,,,
-Southern,"Block 4, Repulse Bay Garden",,203,,,,,,,,,,,
-Shatin,"Court B, Tower 3, Dragons Range",,204,,,,,,,,,,,
-Sai Kung,"Tower 2, The Capitol, Lohas Park",,205,,,,,,,,,,,
-Southern,46 Island Road,,206,217,,,,,,,,,,
-Central & Western,"Tower 1, Hillsborough Court",,207,243,,,,,,,,,,
-Central & Western,20 Square Street,,208,,,,,,,,,,,
-Yau Tsim Mong,K11 ARTUS,,209,,,,,,,,,,,
-Wan Chai,"Tower 1, Hoover Tower",,210,,,,,,,,,,,
-Wan Chai,Tower 3 The Avenue,,211,,,,,,,,,,,
-Islands,"Block 5, Tung Chung Crescent",,212,,,,,,,,,,,
-Wan Chai,Villa Monte Rosa,,216,,,,,,,,,,,
-Central & Western,1 High Street,,217,,,,,,,,,,,
-Wan Chai,70 Tin Hau Temple Road,,218,,,,,,,,,,,
-Tsuen Wan,"Block 5, The Summit Terrace",,219,,,,,,,,,,,
-Tsuen Wan,Tower 1 Vision City,,220,,,,,,,,,,,
-Sham Shui Po,"Yee Kok Court, Yee Tai House",,221,,,,,,,,,,,
-Central & Western,May Tower,,224,,,,,,,,,,,
-Southern,No. 4 Stanley Village Road,,225,,,,,,,,,,,
-Southern,"Tower 3, The Repulse Bay",,226,,,,,,,,,,,
-Wong Tai Sin,Tower 7 The Latitude,,226,,,,,,,,,,,
-Kowloon City,"Tower 3, Green Wood Laguna Verde",,227,,,,,,,,,,,
-Kowloon City,8 Hok Ling Street,,228,,,,,,,,,,,
-Tsuen Wan,"Block C, Luk Yeung Sun Chuen",,229,,,,,,,,,,,
-Wan Chai,St. Regis Hong Kong,,230,,,,,,,,,,,
-Yuen Long,"Shui Lam House, Tin Shui Estate",,231,,,,,,,,,,,
-North,"Tower 1, Green Code",,232,,,,,,,,,,,
-Kwai Tsing,"Hong Ping House, Cheung Hong Estate",,233,,,,,,,,,,,
-Southern,"South Bay Road, Repulse Bay",,234,,,,,,,,,,,
-Wan Chai,The Emperor Hotel,,236,,,,,,,,,,,
-Eastern,Tung Lam Court,,237,,,,,,,,,,,
-Central & Western,"Evergreen Tower, Western Garden",,238,339,,,,,,,,,,
-Sai Kung,31 Wo Tong Kong,,239,183,204,,,,,,,,,
-Shatin,"Tower 1, BayshoreTowers",,240,,,,,,,,,,,
-Kowloon City,"Hibiscus House, Ma Tau Wai Estate",,242,,,,,,,,,,,
-Sham Shui Po,"Phase 2, Village Gardens",,243,,,,,,,,,,,
-Tuen Mun,"Tip Sum House, Butterfly Estate",,244,,,,,,,,,,,
-Central & Western,"Po Hing Mansion, 20 Rutter Street",,245,,,,,,,,,,,
-Wan Chai,"Block C, Beverly Hill, 6 Broadwood Road",,246,,,,,,,,,,,
-Wan Chai,8 Ventris Road,,247,,,,,,,,,,,
-Eastern,"Maple Mansion, Harbour View Gardens",,249,,,,,,,,,,,
-Eastern,"Lai Wah Mansion, 867-881 King's Road",,250,,,,,,,,,,,
-Central & Western,The Nova,,251,,,,,,,,,,,
-Shatin,"Tower 1, Ma On Shan Centre",,252,,,,,,,,,,,
-Shatin,"Block D, The Grandville",,253,,,,,,,,,,,
-Tuen Mun,"Hing Fai House, Tai Hing Estate",,255,,,,,,,,,,,
-Eastern,Viking Villas,,260,,,,,,,,,,,
-Central & Western,"Shun On Building, 2 Sands Street",,261,,,,,,,,,,,
-Kowloon City,Cheong Shing Court,,262,256,,,,,,,,,,
-Kwai Tsing,"Yam Heng House, Shek Yum Estate",,263,,,,,,,,,,,
-Wan Chai,Sakura Court,,264,,,,,,,,,,,
-Central & Western,"Silvercrest, 24 Macdonnell Road",,265,,,,,,,,,,,
-Southern,Repulse Bay Garden,,266,,,,,,,,,,,
-Central & Western,SOHO 189,,267,,,,,,,,,,,
-Eastern,"Block Q, Kornhill",,269,,,,,,,,,,,
-Sham Shui Po,"Block 23, Phase 1, Mei Foo Sun Cheun",,270,,,,,,,,,,,
-Yau Tsim Mong,"Block 4, Prosperous Garden",,272,,,,,,,,,,,
-Yau Tsim Mong,"Block B, Hoi Lam House, Hoi Fu Court",,273,222,,,,,,,,,,
-Kwun Tong,Dorsett Kwun Tong,,274,,,,,,,,,,,
-Wong Tai Sin,Kai Tak Garden,,275,,,,,,,,,,,
-Wan Chai,Hang Shun Mansions,,276,,,,,,,,,,,
-Wan Chai,307 Jaffe Road,,277,,,,,,,,,,,
-Wan Chai,Tagus Residences,,278,,,,,,,,,,,
-Islands,"Woodland Court, Parkvale Village",,279,,,,,,,,,,,
-Central & Western,Chi Residences 120,,281,,,,,,,,,,,
-Central & Western,208 Hollywood Road,,282,264,,,,,,,,,,
-Southern,L'Hoel Island South,,283,,,,,,,,,,,
-Sha Tin,"Block 6, Bayshore Towers",,284,,,,,,,,,,,
-Yau Tsim Mong,"Tower 7, The Long Beach",,285,,,,,,,,,,,
-Sai Kung,Pak Kong Au Road,,286,,,,,,,,,,,
-Tsuen Wan,Indi Home,,287,,,,,,,,,,,
-Kwai Tsing,"On Hoi House, Cheung On Estate",,287,183,204,,,,,,,,,
-Eastern,"Block 6, Provident Centre",,288,,,,,,,,,,,
-Eastern,"On Hiu Mansion, Lei King Wan",,289,,,,,,,,,,,
-Southern,Ovolo Southside,,290,,,,,,,,,,,
-Southern,"Chun Tak House, Lung Tak Court",,291,,,,,,,,,,,
-Wan Chai,Rosedale Hotel Hong Kong,,292,,,,,,,,,,,
-Wan Chai,Monmouth Villa,,293,,,,,,,,,,,
-Yuen Long,"Heng Moon House, Tin Heng Estate",,294,,,,,,,,,,,
-Tsuen Wan,City Point,,295,,,,,,,,,,,
-North,Fanling Wai South,,296,,,,,,,,,,,
-Eastern,Ramada Hong Kong Grand View,,297,,,,,,,,,,,
-North,"Lai Ming House, Wah Ming Estate",,298,,,,,,,,,,,
-Kowloon City,"Tower 3, Harbour View Horizon Hotel",,299,,,,,,,,,,,
-Yau Tsim Mong,Rosedale Hotel Kowloon,,300,,,,,,,,,,,
-Shatin,"Fook Lam House, Kwong Lam Court",,301,,,,,,,,,,,
-Shatin,Athlete's Hostel in HK Sports Institues,,302,,,,,,,,,,,
-Eastern,Tung Lam Court,,303,,,,,,,,,,,
-Eastern,191-193 Shau Kei Wan Road,,306,,,,,,,,,,,
-Kwun Tong,"Tak Shui House, Tak Tin Estate",,308,,,,,,,,,,,
-Wan Chai,"Celeste Court, Fung Fai Terrace",,309,,,,,,,,,,,
-Central & Western,Valiant Park,,310,,,,,,,,,,,
-Kowloon City,8 Hok Ling Street,,311,,,,,,,,,,,
-Kwai Tsing,"Kwai Yat House, Kwai Hong Court",,312,,,,,,,,,,,
-Yau Tsim Mong,Lyton Building,,313,,,,,,,,,,,
-Sham Shui Po,"Yee Tai House, Yee Kok Court",,314,,,,,,,,,,,
-Central & Western,Wise Mansion,,315,,,,,,,,,,,
-Southern,Le Meridien Cyberport,,316,,,,,,,,,,,
-Sai Kung,Marina Cov,,317, 183 and 204,,,,,,,,,,
-Southern,"Block 4, Aqua 33",,318,,,,,,,,,,,
-Central &Western,"Block 8, Hee Wong Terrace, Kennedy Town",,319,,,,,,,,,,,
-Tuen Mun,"The Hillgrove, 9 Tsing Fat Lane, Tuen Mun",,320,,,,,,,,,,,
-Islands,"Novotel Citygate Hong Kong, Tung Chung",,321,,,,,,,,,,,
-Kowloon City,"Stafford Road, Kowloon Tong",,322,,,,,,,,,,,
-Kowloon City,25 Stafford Road,,322,,,,,,,,,,,
-Kowloon City,"Block 6, Parc Palais, 18 Wylie Road, King's Park",,323,,,,,,,,,,,
-Yau Tsim Mong,Rosedale Hotel Kowloon,,324,,,,,,,,,,,
-Central &Western,"Vienna Court, Realty Gardens, Mid-levels",,325,,,,,,,,,,,
-Southern,"Block D, The Manhattan, Tai Tam",,326,,,,,,,,,,,
-Central & Western,"Tower 1, Hillsborough Court, Mid-levels",,327,,,,,,,,,,,
-Islands,"Tower 10, the Visionary, Tung Chung",,328,,,,,,,,,,,
-Tai Po,"Block 7, Phase 4, Tai Po Centre",,332,312,,,,,,,,,,
-Yau Tsim Mong,"Kadoorie Avenue Mansion, 207 Prince Edward Road West",,333,,,,,,,,,,,
-Eastern,"Braemar Hill Mansions, 15-43 Braemar Hill Road",,334,,,,,,,,,,,
-Yau Tsim Mong,"Best Western Grand Hotel, Tsim Sha Tsui",,335,268,,,,,,,,,,
-Kowloon City,"152 Waterloo Road, Kowloon Tong",,336,,,,,,,,,,,
-Kwai Tsing,"Mai Ning Building, Kwai Chung",,337,,,,,,,,,,,
-Kwai Tsing,"Chau Kwai House, Kwai Chung Estate",,338,,,,,,,,,,,
-Eastern,"Wah Hei House, Tung Hei Court, Sai Wan Ho",,339,,,,,,,,,,,
-Sai Kung,"Block 1, Park Mediterranean, Sai Kung",,339,,,,,,,,,,,
-Eastern,"Sui Fat House, Siu Sai Wan Estate, Chai Wan",,340,,,,,,,,,,,
-Wan Chai,"3 Broadwood Road, Happy Valley",,341,,,,,,,,,,,
-Southern,"Tung Yip House, Lei Tung Estate, Ap Lei Chau",,342,,,,,,,,,,,
-Eastern,"Stayed in Homy Inn, North Point",,342,,,,,,,,,,,
-Wan Chai,"Island Building, Wan Chai",,343,,,,,,,,,,,
-Central & Western,"Fairlane Tower, Mid-levels",,345,,,,,,,,,,,
-Wan Chai,"Po Ming Building, Causeway Bay",,346,223,,,,,,,,,,
-Sha Tin,"Block 7, Villa Athena, Ma On Shan",,347,,,,,,,,,,,
-Eastern,"Block 3, Fullview Garden, Siu Sai Wan",,348,,,,,,,,,,,
-Sha Tin,"Yiu Shun House, Yiu On Estate, Ma On Shan",,349,,,,,,,,,,,
-Tai Po,"Block 10, Treasure Spot Garden, Tai Po",,350,215,,,,,,,,,,
-Tai Po,"Block 10, Treasure Spot Garden, Tai Po",,351,,,,,,,,,,,
-Sai Kung,"Sai Keng Village, Sai Sha Road, Sai Kung",,352,,,,,,,,,,,
-Kwun Tong,"Dorsett Kwun Tong Hotel, Kwun Tong",,353,214,230,,,,,,,,,
-Central & Western,"53 Hollywood Road, Central",,354,,,,,,,,,,,
-Kowloon City,"Tower 3, Costa Del Sol, Laguna Verde",,227,,,,,,,,,,,
-Central & Western,"Travelodge Hotel, 263 Hollywood Road",,248,,,,,,,,,,,
-Shatin,Athlete's Hotstel in Hong Kong Sports Institutes,,254,,,,,,,,,,,
-Sham Shui Po,Mei Foo Sun Chuen Phase I,,270,,,,,,,,,,,
-Islands,"Tower 12, Caribbean Coast",,271,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,259,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,213,,,,,,,,,,
-,,,,118,,,,,,,,,,
-,,,,124,140,,,,,,,,,
-,,,,121,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,129,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,127,,,,,,,,,,
-,,,,131,133,138,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,148,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,158,,,,,,,,,,
-,,,,235,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,222,,,,,,,,,,
-,,,,176,,,,,,,,,,
-,,,,178,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,215,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,223,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,256,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,214,230,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,264,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,268,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,304,,,,,,,,,,
+﻿District,Building name,Last date of residence of the case(s),Related probable/confirmed cases
+Shatin,Alva Hotel by Royal,20/1/2020,
+Shatin,"Tower 1A, Oceanaire",21/1/2020,
+Shatin,"Tower 1, Lake Silver",23/1/2020,"Case 4,5"
+Shatin,"Tower 1, Lake Silver",23/1/2020,
+Shatin ,"Tower 1, Lake Silver",23/1/2020,
+Tuen Mun,South Hillcrest,24/1/2020,"Case 3,8"
+Kwai Tsing,"Hong Mei House, Cheung Hong Estate",24/1/2020,Case 12
+Tuen Mun,South Hillcrest,24/1/2020,
+Kwai Tsing,"Hong Mei House, Cheung Hong Estate",24/1/2020,
+Eastern,Universal Towers,25/1/2020,Case 6
+Eastern,Universal Towers,25/1/2020,
+Sai Kung,"Tower 2, Tseung Kwan O Plaza",26/1/2020,Non local case
+Sai Kung,"Tower 2, Tseung Kwan O Plaza",26/1/2020,
+Sai Kung,"Tseung Kwan O Plaza, Tower 2",26/1/2020,
+Yau Tsim Mong,W Hong Kong,28/1/2020,"Case 9,10,11"
+Central,Four Seasons Hotel,28/1/2020,"Case 9,10,11"
+Yau Tsim Mong,W Hong Kong,28/1/2020,
+Central,Four Seasons Hotel,28/1/2020,
+Central ,Four Seasons Hotel ,28/1/2020,
+Yau Tsim Mong,Prudential Centre,29/1/2020,Case 16
+Yau Tsim Mong,Prudential Centre,29/1/2020,
+Yau Tsim Mong,"Tower 2, The Coronation",30/1/2020,"Case 9,10,11"
+Kwai Ching,"Luk Kwai House, Kwai Chung Estate",30/1/2020,Case 14
+Yau Tsim Mong,"Tower 2, The Coronation",30/1/2020,
+Kwai Ching,"Luk Kwai House, Kwai Chung Estate",30/1/2020,
+Kwai Tsing,"Luk Kwai House, Kwai Chung Estate",30/1/2020,
+Kwun Tong,"Yue Hong House, Hong Tin Court",31/1/2020,
+Kowloon City,"Block 1, Site 11, Whampoa Garden",31/1/2020,
+Kowloon City,"Block 1, Site 11, Whampoa Garden",1/2/2020,"Case 13,15"
+Yau Tsim Mong,"58 Nathan Road, Mirador Mansion",1/2/2020,Non local case
+Kowloon City,"15 Celestial Heights, 80 Sheung Shing Street",1/2/2020,Case 16
+Kwai Tsing,"Tower 1, Kowloon Commerce Centre",1/2/2020,Case 18
+Kowloon City,"Block 1, Site 11, Whampoa Garden",1/2/2020,
+Yau Tsim Mong,"58 Nathan Road, Mirador Mansion",1/2/2020,
+Kowloon City,"15 Celestial Heights, 80 Sheung Shing Street",1/2/2020,
+Kwai Tsing,"Tower 1, Kowloon Commerce Centre ",1/2/2020,
+Kowloon City,183 Ma Tau Wai Road,3/2/2020,Case 18
+Kowloon City,183 Ma Tau Wai Road,3/2/2020,
+Kwai Tsing,"Block 1, Villa Esplanada",3/2/2020,
+Kwun Tong,"Yue Hong House, Hong Tin Court",4/2/2020,"Case 17, 19, 20"
+Yau Tsim Mong,"Tower 2, Silvercord",4/2/2020,Case 19
+Kwun Tong,"Yue Hong House, Hong Tin Court",4/2/2020,
+Yau Tsim Mong,"Tower 2, Silvercord",4/2/2020,
+Kwai Tsing,"Block 1, Villa Esplanada",5/2/2020,"Case 21,22"
+Eastern ,"Ko Mong building, 142 - 146 Shau Kei Wan Road",5/2/2020,Case 23
+Shatin,"Sui Shek House, Shek Mun Estate Phase II",5/2/2020,Case 24
+Eastern District,"Ko Mong building, 142 - 146 Shau Kei Wan Road",5/2/2020,Case 23
+Eastern,"Ko Mong building, 142 - 146 Shau Kei Wan Road",5/2/2020,Case 23
+North ,"Serenity Garden, Hang Tau",6/2/2020,Case 25
+Sha Tin,"Tower 10, The Palazzo",6/2/2020,Case 26
+Kowloon City,"Hospital Authority Building, 147B Argyle Street (non-residential)",6/2/2020,"Case 57, 59"
+Kowloon City,"Hospital Authority Building, 147B Argyle Street(non-residential)",6/2/2020,"Case 57, 59"
+North District,"Serenity Garden, Hang Tau",6/2/2020,Case 25
+Kowloon City,"Hospital Authority Building, 147B Argyle Street (non-residential)",7/2/2020,"Case 57, 59"
+Tuen Mun,"Hanford Plaza, 333 Castle Peak Road (non-residential)",7/2/2020,Case 66
+Tuen Mun,"Hanford Plaza, 333 Castle Peak Road(non-residential)",7/2/2020,Case 66
+Wong Tai Sin,Choi Fung Court,8/2/2020,Case 28
+Wan Chai,"Hung Fook Mansion, 356-362 Lockhart Road",8/2/2020,"Case 27, 29, 30, 31"
+Wan Chai,"Lai Chi building, 42-56 Leighton Road ",8/2/2020,"Case 32,34,35,41"
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (non-residential)",8/2/2020,"Case 65, 70"
+Wan Chai,"Hung Fook Mansion, 356-362 Lockhart Road",8/2/2020,"Case 27,29, 30,31"
+Wan Chai,"Lai Chi building, 42-56 Leighton Road",8/2/2020,"Case 32,34,35,41"
+Wan Chai,"Lai Chi building, 42-56 Leighton Road",8/2/2020,"Case 32,34,35"
+Wan Chai,"Chung Wui Mansion, 110 Wan Chai Road",9/2/2020,"Case 33, 36"
+Shatin,"Tai Wo House, Wo Che Estate ",9/2/2020,Case 37
+Eastern ,"Cheung Hing Building, 110 Sai Wan Ho Street ",9/2/2020,"Case 38, 39, 40"
+Kwai Tsing,"Hong Mei House, Cheung Hong Estate",9/2/2020,"Case 12, 42, 48, 49"
+Yau Tsim Mong,MOKO (non-residential),9/2/2020,"Case 37, 50"
+Eastern,"Fu Yan Court, 23 Sai Wan Ho Street (non-residential)",9/2/2020,"Case 57, 60"
+Yau Tsim Mong,MOKO(non-residential),9/2/2020,"Case 37, 50"
+Eastern,"Fu Yan Court, 23 Sai Wan Ho Street(non-residential)",9/2/2020,"Case 57, 60"
+Eastern District,"Cheung Hing Building, 110 Sai Wan Ho Street ",9/2/2020,"Case 38, 39, 40"
+Yau Tsim Mong,MOKO,9/2/2020,"Case 37,50"
+Eastern,"Cheung Hing Building, 110 Sai Wan Ho Street ",9/2/2020,"Case 38, 39, 40"
+Yau Tsim Mong,MOKO (non-residential),9/2/2020,"Case 37,50"
+Wan Chai,"Central Tower, 89 Lockhart Road",9/2/2020,"Case 33, 36"
+Kwai Tsing,"Hong Mei House, Cheung Hong Estate",9/2/2020,"Case 12, 42"
+Eastern,"Block 3, Island Resort",10/2/2020,Case 43
+Southern,"Tung Ping House, Lei Tung Estate",10/2/2020,Case 44
+Sai Kung ,"Po Yan House, Po Lam Estate",10/2/2020,Case 45
+Southern ,"Tin Chak House, Tin Wan Estate",10/2/2020,Case 46
+Tuen Mun,Leung Tin Village ,10/2/2020,Case 47
+Kwai Tsing,"On Tao House, Cheung On Estate ",10/2/2020,Case 50
+Wan Chai ,Kwan Chart Tower (Non residential building),10/2/2020,"Case 30, 44"
+Kwun Tong,Domain (Non residential building),10/2/2020,Case 67
+Eastern,"Po Shan Mansion, Tai Koo Shing (Non residential building)",10/2/2020,Case 60
+Wan Chai ,Kwan Chart Tower (non-residential),10/2/2020,"Case 30, 44"
+Kwun Tong,Domain (non-residential),10/2/2020,Case 67
+Eastern,"Po Shan Mansion, Tai Koo Shing (non-residential)",10/2/2020,Case 60
+Wan Chai ,Kwan Chart Tower(non-residential),10/2/2020,"Case 30, 44"
+Kwun Tong,Domain(non-residential),10/2/2020,Case 67
+Eastern District,"Block 3, Island Resort",10/2/2020,Case 43
+Southern District,"Tung Ping House, Lei Tung Estate",10/2/2020,Case 44
+Southern District,"Tin Chak House, Tin Wan Estate",10/2/2020,Case 46
+Wan Chai ,Kwan Chart Tower,10/2/2020,"Case 30, 44"
+Southern District ,"Tung Ping House, Lei Tung Estate",10/2/2020,Case 44
+Southern District ,"Tin Chak House, Tin Wan Estate",10/2/2020,Case 46
+Eastern,633 King's Road (Non residential building),11/2/2020,"Case 57, 59"
+Eastern,"633 King's Road, North Point (Non residential building)",11/2/2020,"Case 57, 59"
+Eastern,"633 King's Road, North Point (non-residential)",11/2/2020,"Case 57, 59"
+Eastern,"633 King's Road, North Point(non-residential)",11/2/2020,"Case 57, 59"
+Tuen Mun,Tze Tin Tsuen,12/2/2020,Case 51
+Wan Chai,"Heung Hoi Mansion, 28-32 O'Brien Road",12/2/2020,"Case 52, 53"
+Kwai Tsing,"Shek Yi House, Shek Lei (II) Estate",12/2/2020,Case 55
+Eastern ,"Block D, Mount Parker Lodge, 10 Hong Pak Path",12/2/2020,Case 52
+Eastern District,"Block D, Mount Parker Lodge, 10 Hong Pak Path",12/2/2020,Case 52
+Eastern,"Mount Parker Lodge, 10 Hong Pak Path",12/2/2020,Case 52
+Southern ,Tai Long Wan Village ,13/2/2020,Case 54
+Central and Western ,233 Wing Lok Street ,13/2/2020,Case 56 
+Wong Tai Sin,"42 Yuk Wah Street, Tsz Wan Shan (Non residential building)",13/2/2020,Case 59
+Kwun Tong,"Lok Wah Shopping Centre, Lok Wah North Estate (Non residential building)",13/2/2020,Case 62
+Eastern,Goldfield Mansion (Non residential building),13/2/2020,Case 74
+Kwun Tong,Kai Tin Shopping Centre (Non residential building),13/2/2020,Case 72
+Eastern,"Workingberg Commercial Building, Marble Road (Non residential building)",13/2/2020,Case 85
+Eastern,"Workingberg Commercial Building, Marble Road (Non residential building) ",13/2/2020,Case 85
+Eastern,"Workingberg Commercial Building, Marble Road  (Non residential building)",13/2/2020,Case 85
+Wong Tai Sin,"42 Yuk Wah Street, Tsz Wan Shan (non-residential)",13/2/2020,Case 59
+Kwun Tong,"Lok Wah Shopping Centre, Lok Wah North Estate (non-residential)",13/2/2020,Case 62
+Kwun Tong,"Lok Wah Shopping Centre, Lok Wah North Estate(non-residential)",13/2/2020,Case 62
+Southern District,Tai Long Wan Village ,13/2/2020,Case 54
+Central and Western District ,233 Wing Lok Street ,13/2/2020,Case 56 
+Eastern ,"Block D, Mount Parker Lodge, 10 Hong Pak Path",14/2/2020,"Case 52, 61"
+Wan Chai,The Hong Kong Jockey Club Happy Valley Clubhouse (Non residential building),14/2/2020,Case 85
+Kwun Tong,Hiu Lai Court Shopping Centre (Non residential building),14/2/2020,Case 67
+Kwun Tong,Hiu Lai Court Shopping Centre (non-residential),14/2/2020,Case 67
+Tuen Mun,5 Sam Shing Street (non-residential),14/2/2020,Case 63
+Kwun Tong,Hiu Lai Court Shopping Centre(non-residential),14/2/2020,Case 67
+Eastern,"Yuan Kung Mansion, Tai Koo Shing (Non residential building)",15/2/2020,Case 57
+Sham Shui Po,Cheung Sha Wan Jockey Club Clinic (Non residential building),15/2/2020,Case 58
+Eastern,"Yuan Kung Mansion, Tai Koo Shing (non-residential)",15/2/2020,Case 57
+Sham Shui Po,Cheung Sha Wan Jockey Club Clinic (non-residential),15/2/2020,Case 58
+Tuen Mun,"Block 1, Seaview Garden",15/2/2020,Case 63
+Eastern,"Yuan Kung Mansion, Tai Koo Shing(non-residential)",15/2/2020,Case 57
+Sham Shui Po,Cheung Sha Wan Jockey Club Clinic(non-residential),15/2/2020,Case 58
+Eastern,"Ming Kung Mansion, Taikoo Shing, 22 Taikoo Shing Road",15/2/2020,Case 57
+Eastern,"Ming Kung Mansion, Taikoo Shing, 22 Taikoo Shing Road",16/2/2020,"Case 57, 60"
+Sai Kung,Yee Ching House Yee Ming Estate,16/2/2020,Case 58
+Wong Tai Sin,"Oi Wah House, Tsz Oi Court, Tsz Wan Shan",16/2/2020,Case 59
+Sham Shui Po,298D Un Chau Street (Non residential building),16/2/2020,Case 58
+Wan Chai,35-45 Johnston Road  (Non residential building),16/2/2020,Case 85
+Wan Chai,35-45 Johnston Road (Non residential building),16/2/2020,Case 85
+Wan Chai,35-45 Johnston Road (Non residential building) ,16/2/2020,Case 85
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (Non residential building)",16/2/2020,"Case 65, 70, 73, 74, 76, 77, 83"
+Wan Chai,"35-45, Johnston Road  (Non residential building)",16/2/2020,Case 85
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (Non residential building)",16/2/2020,"Case 65, 70, 73, 74, 76, 77"
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (non-residential)",16/2/2020,"Case 65, 70, 73, 74"
+Sham Shui Po,298D Un Chau Street (non-residential),16/2/2020,Case 58
+Sham Shui Po,298D Un Chau Street(non-residential),16/2/2020,Case 58
+Kwun Tong,"Cambridge Building, 25-41 Hong Ning Road",17/2/2020,Case 62
+Tai Po,"Fortune Plaza Arcade, 4 On Chee Road (Non residential building)",17/2/2020,Case 68
+Wan Chai ,World Trade Centre  (Non residential building),17/2/2020,Case 85
+Wan Chai ,World Trade Centre (Non residential building),17/2/2020,Case 85
+Wan Chai ,World Trade Centre (Non residential building) ,17/2/2020,Case 85
+Tai Po,"Fortune Plaza Arcade, 4 On Chee Road (non-residential)",17/2/2020,Case 68
+Tai Po,"Fortune Plaza Arcade, 4 On Chee Road(non-residential)",17/2/2020,Case 68
+Eastern,"Sui Moon House, Siu Sai Wan Estate",18/2/2020,"Case 64, 65"
+Tuen Mun,"Block 1, Seaview Garden",18/2/2020,"Case 63, 66"
+Eastern,"Coronet Court, 1-9A North Point Road (Non-residential)",18/2/2020,"Case 64, 65"
+Tuen Mun,5 Sam Shing Street (Non-residential),18/2/2020,"Case 63, 66"
+Central and Western,271-285 Des Voeux Road West (Non-residential),18/2/2020,Case 69
+Wan Chai,310 Gloucester Road (Non-residential),18/2/2020,Case 85
+Eastern,"Coronet Court, 1-9A North Point Road (Non residential building)",18/2/2020,"Case 64, 65"
+Tuen Mun,5 Sam Shing Street (Non residential building),18/2/2020,"Case 63, 66"
+Central and Western,271-285 Des Voeux Road West (Non residential building),18/2/2020,Case 69
+Wan Chai,310 Gloucester Road (Non residential building),18/2/2020,Case 85
+Eastern,"Coronet Court, 1-9A North Point Road(non-residential)",18/2/2020,"Case 64, 65"
+Tuen Mun,5 Sam Shing Street(non-residential),18/2/2020,"Case 63, 66"
+Central and Western,271-285 Des Voeux Road West(non-residential),18/2/2020,Case 69
+Kwun Tong,"Hiu Fai House, Hiu Lai Court",19/2/2020,Case 67
+Yuen Long,"Shek Wu Wai, San Tin",19/2/2020,Case 68
+Central and Western ,Man Mo Temple (non-residential),19/2/2020,Case 85
+Wan Chai,Hang Wai Commercial Building (non-residential),19/2/2020,Case 85
+Kwun Tong,Kwun Tong Community Health Centre (non-residential),19/2/2020,Case 69
+Eastern,Cheong Yuen Building (non-residential),19/2/2020,Case 74
+Central and Western,Yardley Commercial Building  (non-residential),19/2/2020,Case 85
+Central and Western,Yardley Commercial Building (Non-residential),19/2/2020,Case 85
+Central and Western ,Man Mo Temple (Non residential building),19/2/2020,Case 85
+Wan Chai,Hang Wai Commercial Building (Non residential building),19/2/2020,Case 85
+Kwun Tong,Kwun Tong Community Health Centre (Non residential building),19/2/2020,Case 69
+Eastern,Cheong Yuen Building (Non residential building),19/2/2020,Case 74
+Central and Western,Yardley Commercial Building  (Non residential building),19/2/2020,Case 85
+Central and Western,Yardley Commercial Building B23 (Non residential building),19/2/2020,Case 85
+Central and Western,Yardley Commercial Building (Non residential building),19/2/2020,Case 85
+Central and Western,Yardley Commercial Building (Non residential building) ,19/2/2020,Case 85
+Kwun Tong,Kwun Tong Community Health Centre(non-residential),19/2/2020,Case 69
+Kwun Tong,"Yun Mei House, Yau Mei Court",20/2/2020,Case 69
+Kwun Tong ,Kwong Tin Shopping Centre (non-residential),20/2/2020,Case 72
+Yau Tsim Mong ,Mong Kok East station (non-residential),20/2/2020,Case 82
+Kwun Tong ,Kwong Tin Shopping Centre (Non residential building),20/2/2020,Case 72
+Yau Tsim Mong ,Mong Kok East station (Non residential building),20/2/2020,Case 82
+Wan Chai,"Fly Dragon Terrace, 26-32 Tin Hau Temple Road",22/2/2020,Case 70
+Eastern,"Chin Hing House, Hing Wah (II) Estate",22/2/2020,Case 73
+Yuen Long ,"Block 3, Grand Yoho",22/2/2020,Case 75
+Eastern,"Block B, Healthy Gardens",22/2/2020,Case 86
+Kwun Tong,Sceneway Plaza (non-residential),22/2/2020,Case 82
+Eastern,Ming Yuen Centre (non-residential),22/2/2020,Case 83
+Central and Western,JW Marriott Hotel (non-residential),22/2/2020,"Case 85, 101, 104"
+Eastern,"Tower 1, Fleur Pavilia (non-residential)",22/2/2020,"Case 85, 101, 104"
+Wan Chai ,Jolly Villa  (non-residential),22/2/2020,Case 85
+Eastern,Chun Yeung Street Market  (non-residential),22/2/2020,Case 86
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (non-residential)",22/2/2020,"Case 65, 70, 73, 74, 76, 77, 83, 86, 92, 93, 98, 102"
+Wan Chai ,6 Cheong Ming Street (non-residential),22/2/2020,Case 85
+Wan Chai ,Jolly Villa (non-residential),22/2/2020,Case 85
+Eastern,Chun Yeung Street Market (non-residential),22/2/2020,Case 86
+Wan Chai,The Hong Kong Jockey Club Happy Valley Clubhouse (non-residential),22/2/2020,"Case 85, 101, 104."
+Central and Western,JW Marriott Hotel (Non-residential),22/2/2020,"Case 85, 101"
+Eastern,"Tower 1, Fleur Pavilia (Non-residential)",22/2/2020,Case 85
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (Non-residential)",22/2/2020,"Case 65, 70, 73, 74, 76, 77, 83, 86, 92, 93, 98"
+Kwun Tong,Sceneway Plaza (Non residential building),22/2/2020,Case 82
+Eastern,Ming Yuen Centre (Non residential building),22/2/2020,Case 83
+Central and Western,JW Marriott Hotel (Non residential building),22/2/2020,Case 85
+Eastern,"Tower 1, Fleur Pavilia (Non residential building)",22/2/2020,Case 85
+Wan Chai ,Jolly Villa  (Non residential building),22/2/2020,Case 85
+Eastern,Chun Yeung Street Market  (Non residential building),22/2/2020,Case 86
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (Non residential building)",22/2/2020,"Case 65, 70, 73, 74, 76, 77, 83, 86, 92, 93"
+Wan Chai ,6 Cheong Ming Street (Non residential building),22/2/2020,Case 85
+Wan Chai ,Jolly Villa (Non residential building) ,22/2/2020,Case 85
+Eastern,Chun Yeung Street Market (Non residential building) ,22/2/2020,Case 86
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (Non residential building)",22/2/2020,"Case 65, 70, 73, 74, 76, 77, 83, 86, 92, 93, 98"
+Wan Chai ,Jolly Villa (Non residential building),22/2/2020,Case 85
+Eastern,Chun Yeung Street Market (Non residential building),22/2/2020,Case 86
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (Non residential building)",22/2/2020,"Case 65, 70, 73, 74, 76, 77, 83, 86"
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street",22/2/2020,Case 74
+Kwun Tong,"Choi Tin House, Hing Tin Estate",22/2/2020,Case 72
+Eastern,Majestic Apartments,23/2/2020,Case 77
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street (non-residential)",23/2/2020,"Case 65, 70, 73, 74, 76, 77, 83, 86, 92, 93, 98, 102"
+Wan Chai,The Hong Kong Jockey Club Happy Valley Clubhouse (non-residential),23/2/2020,"Case 85, 101, 104."
+Wan Chai,Royal Hong Kong Yacht Club (non-residential),23/2/2020,Case 85
+Islands,23-27 Sok Kwu Wan First Street (non-residential),23/2/2020,Case 85
+Sai Kung,Bauhinia Garden (non-residential),23/2/2020,Case 92
+Wan Chai,Royal Hong Kong Yacht Club (Non residential building),23/2/2020,Case 85
+Islands,23-27 Sok Kwu Wan First Street (Non residential building),23/2/2020,Case 85
+Sai Kung,Bauhinia Garden (Non residential building),23/2/2020,Case 92
+Southern,"Phase 1, The Redhill Peninsula",23/2/2020,Case 76
+Wan Chai,2 Village Road (Non residential building),23/2/2020,Case 76
+Kwun Tong,"Choi Tin House, Hing Tin Estate",24/2/2020,"Case 72, 82"
+Central and Western,Crawford House (non-residential),24/2/2020,"Case 85, 90"
+Eastern,"Hong Fook Court, Bedford Gardens",24/2/2020,"Case 83, 84"
+Southern,"Phase 1, The Redhill Peninsula",24/2/2020,"Case 76, 91"
+Central and Western,Crawford House (Non residential building),24/2/2020,"Case 85, 90"
+Wan Chai,"Block 4, Swiss Towers",24/2/2020,Case 85
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street",25/2/2020,"Case 74, 89, 102"
+Southern,"Phase 1, The Redhill Peninsula",25/2/2020,"Case 76, 91, 103"
+Wan Chai,25-29 Great George Street (non-residential),25/2/2020,Case 105
+Central and Western,29 Queen's Road Central (non-residential),25/2/2020,Case 105
+Wan Chai,"Block 4, Swiss Towers",25/2/2020,"Case 85, 90"
+Wan Chai,Hong Kong Sanatorium & Hospital (non-residential),25/2/2020,"Case 76, 85, 91"
+Eastern,"Maylun Apartments, 1-25 Shu Kuk Street",25/2/2020,"Case 74,89"
+Wan Chai,Hong Kong Sanatorium & Hospital (Non residential building),25/2/2020,"Case 76, 85, 91"
+Wan Chai,Hong Kong Sanatorium & Hospital (Non residential building),25/2/2020,"Case 76, 85"
+Wan Chai,Jolly Villa,26/2/2020,"Case 101, 104"
+Eastern,"Hong Fook Court, Bedford Gardens",26/2/2020,"Case 83, 84, 112"
+Wan Chai,"Block 4, Swiss Towers",26/2/2020,"Case 85, 90, 113"
+Eastern,Anne Black General Out-patient Clinic (non-residential),26/2/2020,Case 93
+Kwun Tong ,11 Mut Wah Street (non-residential),26/2/2020,Case 98
+Central and Western,Smithfield Municipal Services Building (non-residential),26/2/2020,Case 105
+Central and Western,"South China Building, 1 Wyndham Street (non-residential)",26/2/2020,Case notified by the health authority of Canada
+Wan Chai,"Jolly Villa, 8 Tai Hang Road",26/2/2020,Case 101
+Eastern,Anne Black General Out-patient Clinic (Non residential building),26/2/2020,Case 93
+Kwun Tong ,11 Mut Wah Street (Non residential building),26/2/2020,Case 98
+Sai Kung,"Block 4, Bauhinia Garden",26/2/2020,Case 92
+Sai Kung,"Block 4, Bauhinia Garden",27/2/2020,"Case 92, 95"
+Eastern,Hung Fuk Building,27/2/2020,Case 93
+Central and Western,10 Des Voeux Road Central (non-residential),27/2/2020,Case 105
+Central and Western,10 Des Voeux Road Central  (non-residential),27/2/2020,Case 105
+Kwun Tong,Hong Shui Court,29/2/2020,Case 98
+Sham Shui Po,"Un Lok House, Un Chau Estate",29/2/2020,"Case 99, 100"
+Southern,Meng Wah Complex  (non-residential),29/2/2020,Case 107
+Kwun Tong ,Hong Shui Court,29/2/2020,Case 98
+Southern,Meng Wah Complex (non-residential),29/2/2020,Case 107
+Southern,"Block 28, Baguio Villa ",29/2/2020,Case notified by the health authority of Canada
+Central and Western,"Block F, Greenview Gardens (non-residential)",29/2/2020,Case notified by the health authority of Thailand
+Southern,"Block 28, Baguio Villa (non-residential)",29/2/2020,Case 105 related contact tracing
+Southern,"Block 28, Baguio Villa  (non-residential)",29/2/2020,Case 105 related contact tracing
+Kowloon CityÂ ,5 Kent Road  (non-residential),1/3/2020,"Case 105, 108"
+Yau Tsim Mong,Sheraton Hong Kong Hotel & Towers  (non-residential),1/3/2020,"Case 105, 108"
+Kwai Tsing ,Metroplaza  (non-residential),1/3/2020,"Case 130, 131"
+Kowloon City,5 Kent Road  (non-residential),1/3/2020,"Case 105, 108"
+Kwai Tsing,Metroplaza  (non-residential),1/3/2020,"Case 130, 131"
+Kowloon CityÂ ,5 Kent Road (non-residential),1/3/2020,"Case 105, 108"
+Yau Tsim Mong,Sheraton Hong Kong Hotel & Towers (non-residential),1/3/2020,"Case 105, 108"
+Kowloon City?,5 Kent Road  (non-residential),1/3/2020,"Case 105, 108"
+Kowloon City,5 Kent Road (non-residential),1/3/2020,"Case 105, 108"
+Kowloon City?,5 Kent Road (non-residential),1/3/2020,"Case 105, 108"
+Kowloon CityÂ ,5 Kent Road (non-residential),1/3/2020,Case 105
+Wan Chai,Tung Fong Building  (non-residential),2/3/2020,Case 105
+Central and Western,Tung Wah Hospital  (non-residential),2/3/2020,Case 105
+Yau Tsim Mong,Bank of China Centre   (non-residential),2/3/2020,Case 105
+Central and Western,United Centre  (non-residential),2/3/2020,Case 105
+Yau Tsim Mong,Sincere Podium  (non-residential),2/3/2020,Case 130 and 131
+Yau Tsim Mong,Sincere Podium  (non-residential),2/3/2020,"Case 130, 131"
+Wan Chai,Tung Fong Building (non-residential),2/3/2020,Case 105
+Central and Western,Tung Wah Hospital (non-residential),2/3/2020,Case 105
+Yau Tsim Mong,Bank of China Centre (non-residential),2/3/2020,Case 105
+Central and Western,United Centre (non-residential),2/3/2020,Case 105
+Yau Tsim Mong,Sincere Podium (non-residential),2/3/2020,Case 130
+Yau Tsim Mong,Bank of China Centre  (non-residential),2/3/2020,Case 105
+Central and Western,Wellington Place (non-residential),2/3/2020,Case 105
+Central and Western,Wellington Place (non-residential),3/3/2020,Case 105 and 108
+Central and Western,"South China Building, 1 Wyndham Street (non-residential)",3/3/2020,Case notified by the health authority of Canada and Case 117
+Central and Western,Wellington Place  (non-residential),3/3/2020,Case 105 and 108
+Central and Western,"South China Building, 1 Wyndham Street  (non-residential)",3/3/2020,Case notified by the health authority of Canada and Case 117
+Central and Western,Wellington Place  (non-residential),3/3/2020,"Case 105, 108"
+Central and Western,Wellington Place (non-residential),3/3/2020,"Case 105, 108"
+Islands,"Lot No. 1116, Praya South, Cheung Chau (non-residential)",4/3/2020,Case 107
+Islands,111D Tai Sun Back Street  (non-residential),4/3/2020,Case 107
+Islands,101-103 San Hing Street (non-residential),4/3/2020,Case 107
+Wan Chai,Tang Shiu Kin Hospital  (non-residential),4/3/2020,Case 105
+Islands,"Lot No. 1116, Praya South, Cheung Chau  (non-residential)",4/3/2020,Case 107
+Islands,111D Tai Sun Back Street   (non-residential),4/3/2020,Case 107
+Islands,101-103 San Hing Street  (non-residential),4/3/2020,Case 107
+Wan Chai,Tang Shiu Kin Hospital (non-residential),4/3/2020,Case 105
+Islands,111D Tai Sun Back Street (non-residential),4/3/2020,Case 107
+Wan Chai ,"Block C, Villa Lotto",4/3/2020,Case 105
+Wan Chai ,"Block C, Villa Lotto",5/3/2020,"Case 105, 108"
+Central and Western,"Block A, Po Shan Mansion",5/3/2020,"Case 106, 116"
+Southern,"Scenic Villa, Scenic Villa Drive",5/3/2020,Case 107
+Southern,"Block 31, Baguio Villa",5/3/2020,Case 111
+Central and Western,Canossa Hospital (non-residential),5/3/2020,Case 106
+Central and Western,Hong Kong Museum of Medical Sciences (non-residential),5/3/2020,Case 110
+Central and Western,Hong Kong Industrial Building (non-residential),5/3/2020,Case 116
+Southern,Aberdeen Municipal Services Building (non-residential),5/3/2020,Case 118
+Central and Western,Canossa Hospital  (non-residential),5/3/2020,Case 106
+Central and Western,Hong Kong Museum of Medical Sciences  (non-residential),5/3/2020,Case 110
+Central and Western,Hong Kong Industrial Building  (non-residential),5/3/2020,Case 116
+Southern,Aberdeen Municipal Services Building  (non-residential),5/3/2020,Case 118
+Wan Chai,"Block C, Villa Lotto",5/3/2020,"Case 105, 108"
+Southern,Queen Mary Hospital (non-residential),5/3/2020,Case 118
+Southern,Queen Mary Hospital  (non-residential),5/3/2020,Case 118
+Central and Western,"Block A, Po Shan Mansion",5/3/2020,Case 106
+Wan Chai,"Block 1, Swiss Towers",6/3/2020,Case 110
+Central and Western,341 Des Voeux Road West,6/3/2020,Case 116
+Wan Chai,Lee Garden One (non-residential),6/3/2020,"Case 114, 154"
+Southern,550 Victoria Road (non-residential),6/3/2020,Case 118
+Wan Chai,Lee Garden One  (non-residential),6/3/2020,Case 114
+Southern,550 Victoria Road  (non-residential),6/3/2020,Case 118
+Wan Chai,Hong Kong Sanatorium & Hospital  (non-residential),6/3/2020,"Case 76, 85, 91, 110"
+Wan Chai,Hong Kong Sanatorium & Hospital (non-residential),6/3/2020,"Case 76, 85, 91, 110"
+Wan Chai,Lee Garden One (non-residential),6/3/2020,Case 114
+Yuen Long,"Tower 1, La Grove",7/3/2020,115
+Tai Po,Tai Po Mega Mall (non-residential),7/3/2020,124
+Tsuen Wan,Bellagio Mall (non-residential),7/3/2020,"123, 129"
+Central & Western,73 Wyndham Street  (non-residential),7/3/2020,"182, 192"
+Yuen Long,"Tower 1, La Grove",7/3/2020,Case 115
+Tsuen Wan,Bellagio Mall (non-residential),7/3/2020,Case 123 and 129
+Tai Po,Tai Po Mega Mall (non-residential),7/3/2020,Case 124
+Central & Western,73 Wyndham Street  (non-residential),7/3/2020,Case 182 and 192
+Wan Chai,Envoy Garden,7/3/2020,Case 114
+Tsuen Wan,Bellagio Mall  (non-residential),7/3/2020,Case 123 and 129
+Tai Po,Tai Po Mega Mall  (non-residential),7/3/2020,Case 124
+Tsuen Wan,Bellagio Mall  (non-residential),7/3/2020,"Case 123, 129"
+Tsuen Wan,Bellagio Mall (non-residential),7/3/2020,"Case 123, 129"
+Tai Po,Tai Po Centre (non-residential),7/3/2020,Case 124
+Tai Po,Tai Po Centre  (non-residential),7/3/2020,Case 124
+Tsuen Wan,Tower 1 Vision City,8/3/2020,220
+Wan Chai,Envoy Garden,8/3/2020,"114, 213"
+Yau Tsim Mong,Sunbeam Commercial Building (non-residential),8/3/2020,125
+Sha Tin ,Po Fook Memorial Hall  (non-residential),8/3/2020,125
+Yau Tsim Mong,Mongkok Metro (non-residential),8/3/2020,125
+Yau Tsim Mon,182 Reclamation Street (non-residential),8/3/2020,125
+Wan Chai,48 Percival Street (non-residential),8/3/2020,134
+Tuen Mun,"Shopping Centre, Melody Garden (non-residential)",8/3/2020,"120 ,  121"
+Wan Chai,Envoy Garden,8/3/2020,"Case 114, 213"
+Tuen Mun,"Shopping Centre, Melody Garden (non-residential)",8/3/2020,Case 120 and 121
+Sha Tin ,Po Fook Memorial Hall  (non-residential),8/3/2020,Case 125
+Yau Tsim Mong,Mongkok Metro (non-residential),8/3/2020,Case 125
+Yau Tsim Mon,182 Reclamation Street (non-residential),8/3/2020,Case 125
+Yau Tsim Mong,Sunbeam Commercial Building (non-residential),8/3/2020,Case 125
+Wan Chai,48 Percival Street (non-residential),8/3/2020,Case 134
+Tuen Mun,"Shopping Centre, Melody Garden  (non-residential)",8/3/2020,Case 120 and 121
+Sha Tin ,Po Fook Memorial Hall   (non-residential),8/3/2020,Case 125
+Yau Tsim Mong,Mongkok Metro  (non-residential),8/3/2020,Case 125
+Yau Tsim Mon,182 Reclamation Street  (non-residential),8/3/2020,Case 125
+Yau Tsim Mong,Sunbeam Commercial Building  (non-residential),8/3/2020,Case 125
+Wan Chai,48 Percival Street  (non-residential),8/3/2020,Case 134
+Tuen Mun,"Shopping Centre, Melody Garden  (non-residential)",8/3/2020,"Case 120, 121"
+Sha Tin,Po Fook Memorial Hall   (non-residential),8/3/2020,Case 125
+Wan Chai,458 Percival Street  (non-residential),8/3/2020,Case 134
+Tuen Mun,"Shopping Centre, Melody Garden (non-residential)",8/3/2020,"Case 120, 121"
+Sha Tin ,Po Fook Memorial Hall (non-residential),8/3/2020,Case 125
+Kwun Tong,Domain (non-residential),9/3/2020,"Case 67, 125"
+Tuen Mun,Richland Garden Shopping Arcade (non-residential),9/3/2020,"Case 120, 121"
+Tsuen Wan,61 Sham Tseng Village (non-residential),9/3/2020,Case 123
+Tsuen Wan,Chan Kee Commercial Centre (non-residential),9/3/2020,Case 123
+Yau Tsim Mong,CMB Wing Lung Bank Centre (non-residential),9/3/2020,Case 125
+Yau Tsim Mong,Good Hope Building (non-residential),9/3/2020,Case 125
+Kwun Tong,Sing Win Factory Building (non-residential),9/3/2020,Case 125
+Kwun Tong,Kwun Tong Plaza (non-residential),9/3/2020,Case 125
+Kwun Tong,Laguna Plaza (non-residential),9/3/2020,"Case 126, 127"
+Eastern,625 King's Road (non-residential),9/3/2020,Case 134
+Yau Tsim Mong,14 Granville Road (non-residential),9/3/2020,"Case 174, 222"
+Wan Chai,Central Plaza (non-residential),9/3/2020,Case 192
+Southern,"Block 28, Baguio Villa",9/3/2020,"Case notified by the health authority of Canada and Case 117, 118"
+Tsuen Wan,Chan Kee Commercial Centre (non-residential),9/3/2020,123
+Tsuen Wan, 61 Sham Tseng Village (non-residential),9/3/2020,123
+Yau Tsim Mong,Good Hope Building (non-residential),9/3/2020,125
+Yau Tsim Mong,CMB Wing Lung Bank Centre (non-residential),9/3/2020,125
+Kwun Tong ,Sing Win Factory Building  (non-residential),9/3/2020,125
+Kwun Tong ,Kwun Tong Plaza (non-residential),9/3/2020,125
+Eastern,625 King's Road (non-residential),9/3/2020,134
+Yau Tsim Mong,14 Granville Road (non-residential),9/3/2020,174
+Wan Chai,Central Plaza (non-residential),9/3/2020,192
+Tuen Mun,Richland Garden Shopping Arcade (non-residential),9/3/2020,"120, 121"
+Kwun Tong,Laguna Plaza (non-residential),9/3/2020,"126, 127"
+Kwun Tong,Domain (non-residential),9/3/2020,"67, 125"
+Tuen Mun,Richland Garden Shopping Arcade (non-residential),9/3/2020,Case 120 and 121
+Tsuen Wan, 61 Sham Tseng Village (non-residential),9/3/2020,Case 123
+Kwun Tong ,Kwun Tong Plaza (non-residential),9/3/2020,Case 125
+Kwun Tong ,Sing Win Factory Building  (non-residential),9/3/2020,Case 125
+Kwun Tong,Domain (non-residential),9/3/2020,Case 67 and 125
+Kwun Tong,Laguna Plaza (non-residential),9/3/2020,Case 126 and 127
+Yau Tsim Mong,14 Granville Road (non-residential),9/3/2020,Case 174
+Tuen Mun,Richland Garden Shopping Arcade  (non-residential),9/3/2020,Case 120 and 121
+Tsuen Wan,Chan Kee Commercial Centre  (non-residential),9/3/2020,Case 123
+Tsuen Wan, 61 Sham Tseng Village  (non-residential),9/3/2020,Case 123
+Kwun Tong ,Kwun Tong Plaza  (non-residential),9/3/2020,Case 125
+Kwun Tong ,Sing Win Factory Building   (non-residential),9/3/2020,Case 125
+Kwun Tong,Domain  (non-residential),9/3/2020,Case 67 and 125
+Yau Tsim Mong,Good Hope Building  (non-residential),9/3/2020,Case 125
+Yau Tsim Mong,CMB Wing Lung Bank Centre  (non-residential),9/3/2020,Case 125
+Kwun Tong,Laguna Plaza  (non-residential),9/3/2020,Case 126 and 127
+Eastern,625 King's Road  (non-residential),9/3/2020,Case 134
+Tuen Mun,Richland Garden Shopping Arcade  (non-residential),9/3/2020,"Case 120, 121"
+Kwun Tong ,Sing Win Factory Building (non-residential),9/3/2020,Case 125
+Kwun Tong,Domain  (non-residential),9/3/2020,"Case 67, 125"
+Kwun Tong,Laguna Plaza  (non-residential),9/3/2020,"Case 126, 127"
+Kwun Tong,Kwun Tong Plaza  (non-residential),9/3/2020,Case 125
+Kwun Tong,Sing Win Factory Building   (non-residential),9/3/2020,Case 125
+Kwun Tong,Domain (non-residential),9/3/2020,"Case 67,125"
+Tai Po,Fu Heng Shopping Centre (non-residential),9/3/2020,Case 119
+Islands,Cheung Chau Municipal Services Building (non-residential),10/3/2020,Case 123
+Islands,1-2 Kin Sun Lane (non-residential),10/3/2020,Case 123
+Yuen Long,Kingswood Richly Plaza (non-residential),10/3/2020,Case 125
+Kwai Tsing,Tsing Yi Square (non-residential),10/3/2020,Case 142
+Southern,One Island South (non-residential),10/3/2020,Case 163
+Southern,41 Heung Yip Road (non-residential),10/3/2020,Case 163
+Southern,Canadian International School (non-residential),10/3/2020,Case 182
+Wan Chai,Times Square (non-residential),10/3/2020,Case 183
+Tuen Mun,"On Hei House, Siu Hei Court",10/3/2020,"120, 121"
+Sai Kung,Yee Ching House Yee Ming Estate,10/3/2020,"58,128"
+Sha Tin,"Mau Lam House, Kwong Lam Court",10/3/2020,122
+Tsuen Wan ,"Tower 7, Bellagio",10/3/2020,"123, 129"
+Kwun Tong,"Block T, Telford Gardens",10/3/2020,125
+Kwun Tong,"Block 26, Phase 2, Laguna City",10/3/2020,"126, 127"
+Islands,Cheung Chau Municipal Services Building (non-residential),10/3/2020,123
+Islands,1-2 Kin Sun Lane (non-residential),10/3/2020,123
+Yuen Long,Kingswood Richly Plaza (non-residential),10/3/2020,125
+Kwai Tsing ,Tsing Yi Square  (non-residential),10/3/2020,142
+Southern ,41 Heung Yip Road  (non-residential),10/3/2020,163
+Southern ,One Island South  (non-residential),10/3/2020,163
+Southern,Canadian International School (non-residential),10/3/2020,182
+Wan Chai,Times Square (non-residential),10/3/2020,183
+Tuen Mun,"On Hei House, Siu Hei Court",10/3/2020,"Case 120, 121"
+Sha Tin,"Mau Lam House, Kwong Lam Court",10/3/2020,Case 122
+Tsuen Wan ,"Tower 7, Bellagio",10/3/2020,"Case 123, 129"
+Kwun Tong,"Block T, Telford Gardens",10/3/2020,Case 125
+Kwun Tong,"Block 26, Phase 2, Laguna City",10/3/2020,"Case 126,127"
+Sai Kung,Yee Ching House Yee Ming Estate,10/3/2020,"Case 58,128"
+Yuen Long District,Kingswood Richly Plaza (non-residential),10/3/2020,Case 125
+Kwai Tsing ,Tsing Yi Square  (non-residential),10/3/2020,Case 142
+Southern ,One Island South  (non-residential),10/3/2020,Case 163
+Southern ,41 Heung Yip Road  (non-residential),10/3/2020,Case 163
+Islands,Cheung Chau Municipal Services Building  (non-residential),10/3/2020,Case 123
+Islands,1-2 Kin Sun Lane  (non-residential),10/3/2020,Case 123
+Yuen Long District,Kingswood Richly Plaza  (non-residential),10/3/2020,Case 125
+Kwai Tsing ,Tsing Yi Square   (non-residential),10/3/2020,Case 142
+Tsuen Wan,"Tower 7, Bellagio",10/3/2020,"Case 123, 129"
+Kwai Tsing,Tsing Yi Square   (non-residential),10/3/2020,Case 142
+Tai Po,"Heng Tai House, Fu Heng Estate",10/3/2020,"Case 119, 124"
+Tai Po,Fu Heng Shopping Centre  (non-residential),10/3/2020,"Case 119, 124"
+Kwai Tsing,iPlace,10/3/2020,Case 130
+Tai Po,Fu Heng Shopping Centre (non-residential),10/3/2020,"Case 119, 124"
+Tai Po,"Heng Tai House, Fu Heng Estate",10/3/2020,Case 119
+Tai Po,Fu Heng Shopping Centre (non-residential),11/3/2020,"Case 119, 124, 140"
+Central & Western,"Meng Wah Complex, University of Hong Kong (non-residential)",11/3/2020,Case 132
+Wan Chai,"Block 2, Cavendish Heights, 33 Perkins Road (non-residential)",11/3/2020,Case 137
+Wan Chai,5 Perkins Road (non-residential),11/3/2020,Case 137
+Yau Tsim Mong,Argyle Centre Phase (non-residential),11/3/2020,Case 142
+Wan Chai,Hong Kong Adventist Hospital (non-residential),11/3/2020,"Case 147, 148"
+Sham Shui Po,Festival Walk (non-residential),11/3/2020,Case 183
+Central & Western,"Meng Wah Complex, University of Hong Kong (non-residential)",11/3/2020,132
+Wan Chai,"Block 2, Cavendish Heights, 33 Perkins Road (non-residential)",11/3/2020,137
+Wan Chai,5 Perkins Road (non-residential),11/3/2020,137
+Yau Tsim Mong,Argyle Centre Phase  (non-residential),11/3/2020,142
+Sham Shui Po,Festival Walk (non-residential),11/3/2020,183
+Tai Po,Fu Heng Shopping Centre (non-residential),11/3/2020,"119, 124, 140"
+Wan Chai,Hong Kong Adventist Hospital (non-residential),11/3/2020,"147, 148"
+Central and Western,"Meng Wah Complex, University of Hong Kong (non-residential)",11/3/2020,Case 132
+Tai Po,Fu Heng Shopping Centre (non-residential),11/3/2020,"Case 119, 124 and 140"
+Yau Tsim Mong,Argyle Centre Phase  (non-residential),11/3/2020,Case 142
+Wan Chai,Hong Kong Adventist Hospital Stubbs Road (non-residential),11/3/2020,Case 147 and 148
+Central and Western,"Meng Wah Complex, University of Hong Kong  (non-residential)",11/3/2020,Case 132
+Wan Chai,"Block 2, Cavendish Heights, 33 Perkins Road  (non-residential)",11/3/2020,Case 137
+Wan Chai,5 Perkins Road  (non-residential),11/3/2020,Case 137
+Tai Po,Fu Heng Shopping Centre  (non-residential),11/3/2020,"Case 119, 124 and 140"
+Yau Tsim Mong,Argyle Centre Phase   (non-residential),11/3/2020,Case 142
+Wan Chai,Hong Kong Adventist Hospital Stubbs Road  (non-residential),11/3/2020,Case 147 and 148
+Tai Po,Fu Heng Shopping Centre  (non-residential),11/3/2020,"Case 119, 124, 140"
+Wan Chai,Hong Kong Adventist Hospital Stubbs Road  (non-residential),11/3/2020,"Case 147, 148"
+Kwai Tsing,iPlace,11/3/2020,"Case 130, 131"
+Yau Tsim Mong,Grand Centre (non-residential),12/3/2020,"Case 142, 195"
+Wong Tai Sin,Mikiki (non-residential),12/3/2020,Case 155
+Tuen Mun,Siu Lun Shopping Centre (non-residential),12/3/2020,Case 161
+Kwai Tsing,Florentia Village (non-residential),12/3/2020,Case 163
+Central & Western,"Serene Court, 35 Sai Ning Street ",12/3/2020,132
+Kwai Tsing,iPlace,12/3/2020,"130, 131,133, 138"
+Wong Tai Sin,Mikiki (non-residential),12/3/2020,155
+Tuen Mun,Siu Lun Shopping Centre (non-residential),12/3/2020,161
+Kwai Tsing ,Florentia Village (non-residential),12/3/2020,163
+Yau Tsim Mong,Grand Centre  (non-residential),12/3/2020,"142, 195"
+Kwai Tsing,iPlace,12/3/2020,"Case 130, 131,133 and 138"
+Central and Western,"Serene Court, 35 Sai Ning Street ",12/3/2020,Case 132
+Yau Tsim Mong,Grand Centre  (non-residential),12/3/2020,Case 142 and 195
+Kwai Tsing ,Florentia Village (non-residential),12/3/2020,Case 163
+Yau Tsim Mong,Grand Centre  (non-residential),12/3/2020,Case 142
+Wan Chai,Hopewell Centre (non-residential),12/3/2020,Case 168
+Yau Tsim Mong,Grand Centre   (non-residential),12/3/2020,Case 142
+Wong Tai Sin,Mikiki  (non-residential),12/3/2020,Case 155
+Wan Chai,Hong Kong Sanatorium & Hospital (non-residential),13/3/2020,"Case 76, 85, 91, 110, 139, 147, 148"
+Wan Chai,Hopewell Centre (non-residential),13/3/2020,"Case 101, 156, 168"
+Kwai Tsing,Greenfield Shopping Arcade (non-residential),13/3/2020,Case 142
+Central & Western,Kwong Ga Factory Building (non-residential),13/3/2020,Case 146
+Yau Tsim Mong,Kowloon Mosque And Islamic Centre (non-residential),13/3/2020,Case 151
+Sham Shui Po,Kimberland Center (non-residential),13/3/2020,Case 153
+Kowloon City,Celestial Place (non-residential),13/3/2020,Case 155
+Yau Tsim Mong,"MTR Kowloon Station, Airport Express Line Arrival Concourse (non-residential)",13/3/2020,Case 162
+Central & Western,Pacific Place (non-residential),13/3/2020,Case 182
+Sai Kung,13 Sha Tsui Path (non-residential),13/3/2020,Case 182
+Wan Chai,Starcrest (non-residential),13/3/2020,Case 182
+Wan Chai,12 St. Francis Street (non-residential),13/3/2020,Case 183
+Central & Western,63 Wyndham Street (non-residential),13/3/2020,"Case 191, 217"
+Central & Western,2-4 Shelley Street (non-residential),13/3/2020,"Case 191, 217, 250, 332"
+Central & Western,44 D'Aguilar Street (non-residential),13/3/2020,"Case 191, 217, 250, 332"
+Wan Chai,Immigration Tower (non-residential),13/3/2020,Case 211
+Central & Western,15 Queen's Road Central (non-residential),13/3/2020,Case 211
+Wan Chai,183 Queen's Road East (non-residential),13/3/2020,Case 211
+Wan Chai,200 Queen's Road East (non-residential),13/3/2020,Case 211
+Sai Kung,Razor Hill Dairy Farm Shopping Centre (non-residential),13/3/2020,Case 239
+Central & Western,45 Pottinger Street (non-residential),13/3/2020,"Case 217, 275, 278, 284, 332"
+Kwai Tsing,"Block 2, Kwai Fong Terrace (non-residential)",13/3/2020,Case 337
+Tai Po,"Ng Tung Chai, Lam Tsuen",13/3/2020,134
+Tai Po,"Heng Tai House, Fu Heng Estate",13/3/2020,"119, 124, 140"
+Central & Western,View Villa,13/3/2020,135
+Sai Kung ,684 Clear Water Bay Road ,13/3/2020,141
+Eastern,Cornell Centre ,13/3/2020,139
+Southern,18 Stanley Main Street,13/3/2020,136
+Kwai Tsing ,Tivoli Garden,13/3/2020,142
+Wan Chai,"Block A, Tai Hang Terrace",13/3/2020,137
+Kwai Tsing ,Greenfield Shopping Arcade (non-residential),13/3/2020,142
+Central & Western,Kwong Ga Factory Building (non-residential),13/3/2020,146
+Yau Tsim Mong,Kowloon Mosque And Islamic Centre (non-residential),13/3/2020,151
+Sham Shui Po,Kimberland Center (non-residential),13/3/2020,153
+Kowloon City,Celestial Place (non-residential),13/3/2020,155
+Yau Tsim Mong,"MTR Kowloon Station, Airport Express Line Arrival Concourse  (non-residential)",13/3/2020,162
+Central & Western,Pacific Place (non-residential),13/3/2020,182
+Sai Kung ,13 Sha Tsui Path  (non-residential),13/3/2020,182
+Wan Chai,Starcrest (non-residential),13/3/2020,182
+Wan Chai,12 St. Francis Street (non-residential),13/3/2020,183
+Central & Western,15 Queen's Road Central (non-residential),13/3/2020,211
+Wan Chai,Immigration Tower (non-residential),13/3/2020,211
+Wan Chai,183 Queen's Road East (non-residential),13/3/2020,211
+Wan Chai,200 Queen's Road East (non-residential),13/3/2020,211
+Central & Western,45 Pottinger Street (non-residential),13/3/2020,217
+Sai Kung,Razor Hill Dairy Farm Shopping Centre (non-residential),13/3/2020,239
+Wan Chai,Hopewell Centre (non-residential),13/3/2020,"101, 156, 168"
+Central & Western,63 Wyndham Street (non-residential),13/3/2020,"191, 217"
+Central & Western,2-4 Shelley Street (non-residential),13/3/2020,"191, 217, 250"
+Central & Western,44 D'Aguilar Street (non-residential),13/3/2020,"191, 217, 250"
+Wan Chai,Hong Kong Sanatorium & Hospital (non-residential),13/3/2020,"76, 85, 91, 110, 139, 147, 148"
+Tai Po,"Ng Tung Chai, Lam Tsuen",13/3/2020,Case 134
+Central and Western,View Villa,13/3/2020,Case 135
+Southern,18 Stanley Main Street,13/3/2020,Case 136
+Wan Chai,"Block A, Tai Hang Terrace, 5 Chun Fai Road",13/3/2020,Case 137
+Eastern,Cornell Centre ,13/3/2020,Case 139
+Tai Po,"Heng Tai House, Fu Heng Estate",13/3/2020,"Case 119, 124, 140"
+Sai Kung ,684 Clear Water Bay Road ,13/3/2020,Case 141
+Kwai Tsing ,Tivoli Garden,13/3/2020,Case 142
+Wan Chai,Hong Kong Sanatorium & Hospital (non-residential),13/3/2020,"Case 76, 85, 91, 110, 139, 147 and 148"
+Kwai Tsing ,Greenfield Shopping Arcade (non-residential),13/3/2020,Case 142
+Sham Shui Po,"Kimberland Center, 55 Wing Hong Street (non-residential)",13/3/2020,Case 153
+Wan Chai,Hopewell Centre (non-residential),13/3/2020,"Case 101,156 and 168"
+Yau Tsim Mong,"MTR Kowloon Station, Airport Express Line Arrival Concourse  (non-residential)",13/3/2020,Case 162
+Sai Kung ,13 Sha Tsui Path  (non-residential),13/3/2020,Case 182
+Central and Western,15 Queen's Road Central (non-residential),13/3/2020,Case 211
+Central and Western,63 Wyndham Street (non-residential),13/3/2020,Case 217
+Central and Western,2-4 Shelley Street (non-residential),13/3/2020,Case 217
+Central and Western,45 Pottinger Street (non-residential),13/3/2020,Case 217
+Wan Chai,Hopewell Centre (non-residential),13/3/2020,Case 101 and 156
+Wan Chai,Hong Kong Sanatorium & Hospital  (non-residential),13/3/2020,"Case 76, 85, 91, 110, 139, 147 and 148"
+Kwai Tsing ,Greenfield Shopping Arcade  (non-residential),13/3/2020,Case 142
+Central & Western,Kwong Ga Factory Building  (non-residential),13/3/2020,Case 146
+Yau Tsim Mong,Kowloon Mosque And Islamic Centre  (non-residential),13/3/2020,Case 151
+Sham Shui Po,"Kimberland Center, 55 Wing Hong Street  (non-residential)",13/3/2020,Case 153
+Kowloon City,Celestial Place  (non-residential),13/3/2020,Case 155
+Wan Chai,Hopewell Centre  (non-residential),13/3/2020,Case 101 and 156
+Wan Chai,Hong Kong Sanatorium & Hospital  (non-residential),13/3/2020,"Case 76, 85, 91, 110, 139, 147, 148"
+Eastern,Cornell Centre,13/3/2020,Case 139
+Sai Kung,684 Clear Water Bay Road,13/3/2020,Case 141
+Kwai Tsing,Tivoli Garden,13/3/2020,Case 142
+Wan Chai,Hong Kong Sanatorium & Hospital  (non-residential),13/3/2020,"Case 76, 85, 91, 110, 139"
+Kwai Tsing,Greenfield Shopping Arcade  (non-residential),13/3/2020,Case 142
+Wan Chai,The Harbourview (non-residential),14/3/2020,Case 144
+Southern,"Ping On House, 2 Chengtu Road (non-residential)",14/3/2020,Case 149
+Kowloon City,In House (non-residential),14/3/2020,Case 154
+Wan Chai,Pinnacle Building (non-residential),14/3/2020,"Case 169, 208"
+Central & Western,Scenic Rise (non-residential),14/3/2020,"Case 169, 208, 315, 222"
+Central & Western,The Grand Stage (non-residential),14/3/2020,Case 170
+Tuen Mun,Kam Men Mansion (non-residential),14/3/2020,Case 170
+Tsuen Wan,Royal View Hotel (non-residential),14/3/2020,Case 170
+Tuen Mun,The Sherwood (non-residential),14/3/2020,Case 170
+Tuen Mun,1 Lam Tei Main Street (non-residential),14/3/2020,Case 170
+Sai Kung,10A-C Po Tung Rd (non-residential),14/3/2020,Case 182
+Islands,Auberge Discovery Bay Hong Kong (non-residential),14/3/2020,"Case 191, 233, 237, 253, 258, 259"
+Central & Western,Standard Chartered Bank Building (non-residential),14/3/2020,Case 194
+Central & Western,37-44 Cochrane Street (non-residential),14/3/2020,Case 217
+Central & Western,20A D'Aguilar Street (non-residential),14/3/2020,Case 217
+Yau Tsim Mong,Harbour Crystal Centre (non-residential),14/3/2020,"Case 233, 253, 295"
+Yau Tsim Mong,Harilela Mansion (non-residential),14/3/2020,Case 250
+Yau Tsim Mong,23 Lock Road (non-residential),14/3/2020,Case 250
+Central & Western,83 Catchick Street (non-residential),14/3/2020,Case 318
+Wan Chai,South China Athletic Association (non-residential),14/3/2020,Case 318
+Kwai Tsing,Kwai Chung Plaza (non-residential),14/3/2020,Case 337
+Central & Western,"Kellett View Town Houses, 65 Mount Kellett Road",14/3/2020,"147, 148"
+North,"Lai Ming House, Wah Ming Estate",14/3/2020,143
+Sai Kung,The Palisades,14/3/2020,145
+Eastern,Fort Mansion,14/3/2020,146
+Wan Chai,The Harbourview (non-residential),14/3/2020,144
+Southern,"Ping On House, 2 Chengtu Road (non-residential)",14/3/2020,149
+Kowloon City,In House (non-residential),14/3/2020,154
+Wan Chai,Pinnacle Building (non-residential),14/3/2020,169
+Central & Western,The Grand Stage (non-residential),14/3/2020,170
+Tuen Mun,Kam Men Mansion (non-residential),14/3/2020,170
+Tuen Mun,The Sherwood (non-residential),14/3/2020,170
+Tuen Mun,1 Lam Tei Main Street (non-residential),14/3/2020,170
+Tsuen Wan,Royal View Hotel (non-residential),14/3/2020,170
+Sai Kung ,10A-C Po Tung Rd (non-residential),14/3/2020,182
+Central & Western,Standard Chartered Bank Building (non-residential),14/3/2020,194
+Central & Western,37-44 Cochrane Street (non-residential),14/3/2020,217
+Central & Western,20A D'Aguilar Street (non-residential),14/3/2020,217
+Yau Tsim Mong,Harilela Mansion (non-residential),14/3/2020,250
+Yau Tsim Mong,23 Lock Road (non-residential),14/3/2020,250
+Islands,Auberge Discovery Bay Hong Kong (non-residential),14/3/2020,"191, 233, 237, 253, 258, 259"
+North,"Lai Ming House, Wah Ming Estate",14/3/2020,Case 143
+Sai Kung,The Palisades,14/3/2020,Case 145
+Eastern,"Fort Mansion, 25-27 Fort Street",14/3/2020,Case 146
+Central & Western,"Kellett View Town Houses, 65 Mount Kellett Road",14/3/2020,"Case 147, 148"
+Wan Chai,Pinnacle Building (non-residential),14/3/2020,Case 169
+Sai Kung ,10A-C Po Tung Rd (non-residential),14/3/2020,Case 182
+Central & Western,44 D'Aguilar Street (non-residential),14/3/2020,Case 217
+Central & Western,Bank of China Building (non-residential),14/3/2020,Case 183
+Sai Kung,"Pak Sha Wan, Sai Kung",14/3/2020,Case 145
+Southern,"Kellett View Town Houses, 65 Mount Kellett Road",14/3/2020,"Case 147, 148"
+Wan Chai,The Harbourview  (non-residential),14/3/2020,Case 144
+Kowloon City,In House  (non-residential),14/3/2020,Case 154
+Central & Western,JW Marriott Hotel Hong Kong (non-residential),15/3/2020,"Case 85, 101,104, 156"
+Tuen Mun,2 Hoi Chu Road (non-residential),15/3/2020,Case 152
+North,"Lai Ming House, Wah Ming Estate (non-residential)",15/3/2020,Case 155
+Yau Tsim Mong,Kam San Building 78-86 Reclamation Street (non-residential),15/3/2020,Case 159
+Tuen Mun,Tuen Mun Town Plaza (non-residential),15/3/2020,Case 161
+Tuen Mun,Tuen Mun Trend Plaza (non-residential),15/3/2020,Case 161
+Southern,Union Industrial Building (non-residential),15/3/2020,"Case 169, 208, 277, 315"
+Wan Chai,14 Tai Wong Street East (non-residential),15/3/2020,Case 169
+Eastern,Cheerful Garden (non-residential),15/3/2020,Case 170
+Shatin,Courtyard by Marriott Hong Kong (non-residential),15/3/2020,Case 171
+Shatin,Jubilee Square (non-residential),15/3/2020,Case 172
+Sham Shui Po,323 Lai Chi Kok Rd (non-residential),15/3/2020,Case 191
+Sham Shui Po,225 Ki Lung Street (non-residential),15/3/2020,Case 191
+Central & Western,Printing House (non-residential),15/3/2020,Case 194
+Wan Chai,9 Star Street (non-residential),15/3/2020,Case 195
+Yau Tsim Mong,Langham Hotel Hong Kong (non-residential),15/3/2020,Case 195
+Wan Chai,Sun Fung Mansion (non-residential),15/3/2020,Case 195
+Central & Western,46 Wyndham Street (non-residential),15/3/2020,Case 217
+Central & Western,60 Wyndham Street (non-residential),15/3/2020,Case 217
+Central & Western,5 Lan Kwai Fong (non-residential),15/3/2020,Case 217
+Central & Western,Hong Kong Plaza (non-residential),15/3/2020,Case 250
+Kowloon City,8 Hok Ling Street,15/3/2020,154
+Central & Western,Island Shangri-La,15/3/2020,156
+Tuen Mun,"Tower 1, Oceania Heights",15/3/2020,152
+Shatin,"Block 10, Pristine Villa",15/3/2020,153
+Yau Tsim Mong,"Block A, Chungking Mansions",15/3/2020,151
+Yau Tsim Mong,Hotel ICON,15/3/2020,150
+Southern,"Wah Cheong House, Wah Fu 2 Estate",15/3/2020,149
+Wong Tai Sin,"Lung Chu House, Lung Poon Court",15/3/2020,155
+Tuen Mun,2 Hoi Chu Road  (non-residential),15/3/2020,152
+North,"Lai Ming House, Wah Ming Estate (non-residential)",15/3/2020,155
+Yau Tsim Mong,Kam San Building 78-86 Reclamation Street (non-residential),15/3/2020,159
+Tuen Mun,Tuen Mun Town Plaza (non-residential),15/3/2020,161
+Tuen Mun,Tuen Mun Trend Plaza (non-residential),15/3/2020,161
+Wan Chai,14 Tai Wong Street East (non-residential),15/3/2020,169
+Eastern ,Cheerful Garden (non-residential),15/3/2020,170
+Shatin,Courtyard by Marriott Hong Kong (non-residential),15/3/2020,171
+Shatin,Jubilee Square (non-residential),15/3/2020,172
+Sham Shui Po,225 Ki Lung Street  (non-residential),15/3/2020,191
+Sham Shui Po,323 Lai Chi Kok Rd (non-residential),15/3/2020,191
+Central & Western,Printing House (non-residential),15/3/2020,194
+Central & Western,ICBC Tower (non-residential),15/3/2020,195
+Yau Tsim Mong,Langham Hotel Hong Kong (non-residential),15/3/2020,195
+Wan Chai,9 Star Street (non-residential),15/3/2020,195
+Wan Chai,Sun Fung Mansion (non-residential),15/3/2020,195
+Central & Western,46 Wyndham Street (non-residential),15/3/2020,217
+Central & Western,60 Wyndham Street (non-residential),15/3/2020,217
+Central & Western,5 Lan Kwai Fong (non-residential),15/3/2020,217
+Central & Western,Hong Kong Plaza (non-residential),15/3/2020,250
+Central & Western,JW Marriott Hotel Hong Kong (non-residential),15/3/2020,"85, 101,104, 156"
+Southern,"Wah Cheong House, Wah Fu 2 Estate",15/3/2020,Case 149
+Yau Tsim Mong,Hotel ICON,15/3/2020,Case 150
+Yau Tsim Mong,"Block A, Chungking Mansions",15/3/2020,Case 151
+Tuen Mun,"Tower 1, Oceania Heights",15/3/2020,Case 152
+Shatin,"Block 10, Pristine Villa",15/3/2020,Case 153
+Kowloon City,8 Hok Ling Street,15/3/2020,Case 154
+Wong Tai Sin,"Lung Chu House, Lung Poon Court",15/3/2020,Case 155
+Central & Western,Island Shangri-La,15/3/2020,Case 156
+Central & Western,JW Marriott Hotel Hong Kong (non-residential),15/3/2020,"Case 85, 101,104 and 156"
+Tuen Mun,2 Hoi Chu Road  (non-residential),15/3/2020,Case 152
+Eastern ,Cheerful Garden (non-residential),15/3/2020,Case 170
+Shatin,Courtyard by Marriott Hong Kong Sha Tin (non-residential),15/3/2020,Case 171
+Sham Shui Po,225 Ki Lung Street  (non-residential),15/3/2020,Case 191
+Central and Western,Printing House (non-residential),15/3/2020,Case 194
+Central and Western,ICBC Tower (non-residential),15/3/2020,Case 195
+Central and Western,46 Wyndham Street (non-residential),15/3/2020,Case 217
+Central and Western,60 Wyndham Street (non-residential),15/3/2020,Case 217
+Central and Western,5 Lan Kwai Fong (non-residential),15/3/2020,Case 217
+Yau Tsim Mong,Yau Ma Tei Jockey Club General Out-patient Clinic (non-residential),15/3/2020,Case 150
+Wan Chai,Island Shangri-La,15/3/2020,Case 156
+Yau Tsim Mong,Yau Ma Tei Jockey Club General Out-patient Clinic  (non-residential),15/3/2020,Case 150
+North,"Lai Ming House, Wah Ming Estate  (non-residential)",15/3/2020,Case 155
+Wan Chai,JW Marriott Hotel Hong Kong  (non-residential),15/3/2020,"Case 85, 101,104 and 156"
+Yau Tsim Mong,Sino Cheer Plaza (non-residential),16/3/2020,Case 159
+Yau Tsim Mong,"Harvest Moon House, 337 - 339 Nathan Road (non-residential)",16/3/2020,Case 159
+Yau Tsim Mong,"Hang Shing Building, 363 Nathan Road (non-residential)",16/3/2020,Case 159
+Southern,Stanley Plaza (non-residential),16/3/2020,Case 160
+Central & Western,Admiralty Centre Tower 1 (non-residential),16/3/2020,Case 161
+Wan Chai,Win Fung Building (non-residential),16/3/2020,"Case 169, 208"
+Shatin,The Palazzo Shopping Centre (non-residential),16/3/2020,Case 172
+Yau Tsim Mong,"152 Austin Road, Tsim Sha Tsui, Kowloon (non-residential)",16/3/2020,"Case 174, 222, 243, 285, 286"
+Central & Western,Nan Dao Commercial Building (non-residential),16/3/2020,"Case 177, 178"
+Central & Western,Silver Jubilee Mansion (non-residential),16/3/2020,"Case 177, 178"
+Central & Western,Century Square (non-residential),16/3/2020,"Case 184, 195"
+Central & Western,California Tower (non-residential),16/3/2020,"Case 195, 199"
+Central & Western,The Centrium (non-residential),16/3/2020,Case 195
+Central & Western,Kinwick Centre (non-residential),16/3/2020,Case 195
+Central & Western,21 Gough Street (non-residential),16/3/2020,Case 195
+Central & Western,Wing Tuck Commercial Centre (non-residential),16/3/2020,Case 208
+Eastern,AIA Tower (non-residential),16/3/2020,Case 250
+Eastern,"Phase II, Healthy Village (non-residential)",16/3/2020,Case 250
+Central & Western,Wah Ming Centre (non-residential),16/3/2020,Case 251
+Tuen Mun,Hong Kong Gold Coast Hotel (non-residential),16/3/2020,Case 253
+Central & Western,Hang Fai Building (non-residential),16/3/2020,Case 261
+Kwun Tong,Draco Industrial Building (non-residential),16/3/2020,Case 262
+Tsuen Wan,Wing Fung Industrial Building (non-residential),16/3/2020,Case 263
+Wan Chai,82 Jaffe Road (non-residential),16/3/2020,Case 276
+Eastern,Hing Tung Shopping Centre (non-residential),16/3/2020,Case 304
+Central & Western,The Centrium (non-residential),16/3/2020,Case 318
+Yau Tsim Mong,Sun Ming Building (non-residential),16/3/2020,Case 337
+Kowloon City ,8 Hok Ling Street,16/3/2020,228
+Tai Po,"Block 16, Mayfair By The Sea",16/3/2020,"157, 158"
+Central & Western,"Emerald Garden, 86 Pok Fu Lam Road",16/3/2020,163
+Tuen Mun,"Block 4, Tuen Mun Town Plaza",16/3/2020,161
+Southern,The Redhill Peninsula,16/3/2020,"160, 235"
+Yau Tsim Mong,Sino Cheer Plaza  (non-residential),16/3/2020,159
+Yau Tsim Mong,"Hang Shing Building, 363 Nathan Road (non-residential)",16/3/2020,159
+Yau Tsim Mong,"Harvest Moon House, 337 - 339 Nathan Road (non-residential)",16/3/2020,159
+Southern,Stanley Plaza (non-residential),16/3/2020,160
+Central & Western,Admiralty Centre Tower 1 (non-residential),16/3/2020,161
+Wan Chai,Win Fung Building (non-residential),16/3/2020,169
+Shatin,The Palazzo Shopping Centre (non-residential),16/3/2020,172
+Yau Tsim Mong,Mount Kelly School Hong Kong (non-residential),16/3/2020,174
+Central & Western,The Centrium (non-residential),16/3/2020,195
+Central & Western,Kinwick Centre (non-residential),16/3/2020,195
+Central & Western,21 Gough Street (non-residential),16/3/2020,195
+Central & Western, Wing Tuck Commercial Centre (non-residential),16/3/2020,208
+Yau Tsim Mong,Mount Kelly School Hong Kong (non-residential),16/3/2020,243
+Eastern,AIA Tower (non-residential),16/3/2020,250
+Eastern,"Phase II, Healthy Village (non-residential)",16/3/2020,250
+Central & Western,Wah Ming Centre (non-residential),16/3/2020,251
+Tuen Mun,Hong Kong Gold Coast Hotel (non-residential),16/3/2020,253
+Central & Western,Hang Fai Building (non-residential),16/3/2020,261
+Kwun Tong ,Draco Industrial Building  (non-residential),16/3/2020,262
+Tsuen Wan,Wing Fung Industrial Building (non-residential),16/3/2020,263
+Central & Western,Nan Dao Commercial Building (non-residential),16/3/2020,"177, 178"
+Central & Western,Silver Jubilee Mansion (non-residential),16/3/2020,"177, 178"
+Central & Western,Century Square (non-residential),16/3/2020,"184, 195"
+Central & Western,California Tower (non-residential),16/3/2020,"195, 199"
+Tai Po,"Block 16, Mayfair By The Sea",16/3/2020,"Case 157, 158"
+Southern,The Redhill Peninsula,16/3/2020,Case 160
+Tuen Mun,"Block 4, Tuen Mun Town Plaza",16/3/2020,Case 161
+Central & Western,"Emerald Garden, 86 Pok Fu Lam Road",16/3/2020,Case 163
+Yau Tsim Mong,Sino Cheer Plaza  (non-residential),16/3/2020,Case 159
+Wan Chai,Win Fung Building (non-residential),16/3/2020,Case 169
+Yau Tsim Mong,Mount Kelly School Hong Kong (non-residential),16/3/2020,Case 174
+Central & Western,Silver Jubilee Mansion (non-residential),16/3/2020,Case 177 and 178
+Central & Western,Nan Dao Commercial Building (non-residential),16/3/2020,Case 177 and 178
+Central & Western,Century Square (non-residential),16/3/2020,Case 184 and 195
+Central & Western,California Tower (non-residential),16/3/2020,Case 195 and 199
+Central and Western, Wing Tuck Commercial Centre (non-residential),16/3/2020,Case 208
+Central and Western,Wah Ming Centre (non-residential),16/3/2020,Case 251
+Shatin,CCT Telecom Building  (non-residential),16/3/2020,Case 191
+Tuen Mun,"Shopping Centre, Melody Garden (non-residential)",17/3/2020,"Case 120 , 121, 244"
+Shatin,Hilton Plaza (non-residential),17/3/2020,Case 172
+Shatin,CCT Telecom Building (non-residential),17/3/2020,"Case 191, 217"
+Kowloon City,Hong Kong Baptist Hospital (non-residential),17/3/2020,"Case 195, 243"
+Kwun Tong,Lam Tin South Sports Centre (non-residential),17/3/2020,Case 200
+Sai Kung,Park Central Shopping Centre (non-residential),17/3/2020,Case 205
+Central & Western,Princeâ€™s Building (non-residential),17/3/2020,Case 206
+Central & Western,33 Des Voeux Rd West (non-residential),17/3/2020,Case 208
+Kwai Tsing,"Block 1, Kwai Tak Industrial Centre (non-residential)",17/3/2020,"Case 229,  337,  338"
+Tsuen Wan,Carson Mansion (non-residential),17/3/2020,Case 229
+Kwun Tong,C-BONS International Tower (non-residential),17/3/2020,Case 233
+Eastern,Sai Wan Ho Market (non-residential),17/3/2020,Case 237
+Wan Chai,Vocational Training Council (non-residential),17/3/2020,Case 237
+Tsuen Wan,8 Chung On Street (non-residential),17/3/2020,Case 253
+Central & Western,Ho Lee Commercial Building (non-residential),17/3/2020,"Case 276, 343"
+Wan Chai,76-84 Jaffe Road (non-residential),17/3/2020,"Case 276, 343"
+Kowloon City,Hang Tak Yuen,17/3/2020,195
+Central & Western,Rich View Terrace,17/3/2020,"177, 178"
+Central & Western,3A Tregunter Path,17/3/2020,180
+Central & Western,"Seymour Place,60 Robinson Road",17/3/2020,183
+Shatin,Hong Kong Sports Institute Athletes' Hostel,17/3/2020,172
+Shatin,"Block 8, Saddle Ridge Garden ",17/3/2020,171
+Eastern,Hyatt Centric Victoria Harbour Hong Kong,17/3/2020,169
+Eastern,"Block 1, Island Resort",17/3/2020,"186, 170"
+Yau Tsim Mong,"Tower 7, the Coronation",17/3/2020,162
+Southern,"Block 47, Baguio Villa",17/3/2020,184
+Southern,"Tower 3, The Repulse Bay",17/3/2020,226
+Wong Tai Sin,"Oi Wai House, Tsz Oi Court",17/3/2020,173
+Wong Tai Sin,"Choi Wah House, Choi Fai Estate",17/3/2020,167
+Wan Chai,"Tower 2, the Zenith",17/3/2020,168
+Wan Chai,"King Cheung Mansion, 5 King Kwong Street",17/3/2020,185
+Kwun Tong,"Ying Lai House, Yau Lai Estate",17/3/2020,"175, 176"
+Shatin,Hilton Plaza (non-residential),17/3/2020,172
+Kwun Tong , Lam Tin South Sports Centre  (non-residential),17/3/2020,200
+Sai Kung, Park Central (non-residential),17/3/2020,205
+Central & Western,Princeâ€™s Building (non-residential),17/3/2020,206
+Central & Western,33 Des Voeux Rd West (non-residential),17/3/2020,208
+Tsuen Wan,Carson Mansion (non-residential),17/3/2020,229
+Kwai Tsing ,"Block 1, Kwai Tak Industrial Centre (non-residential)",17/3/2020,229
+Kwun Tong,C-BONS International Tower (non-residential),17/3/2020,233
+Eastern,Sai Wan Ho Market (non-residential),17/3/2020,237
+Wan Chai,Vocational Training Council (non-residential),17/3/2020,237
+Tsuen Wan,8 Chung On Street (non-residential),17/3/2020,253
+Shatin,CCT Telecom Building  (non-residential),17/3/2020,"191, 217"
+Kowloon City,Hong Kong Baptist Hospital (non-residential),17/3/2020,"195, 243"
+Yau Tsim Mong,"Tower 7, the Coronation",17/3/2020,Case 162
+Wong Tai Sin,"Choi Wah House, Choi Fai Estate",17/3/2020,Case 167
+Wan Chai,"Tower 2, the Zenith",17/3/2020,Case 168
+Eastern,Hyatt Centric Victoria Harbour Hong Kong,17/3/2020,Case 169
+Eastern,"Block 2, Island Resort",17/3/2020,Case 170
+Shatin,"Block 8, Saddle Ridge Garden ",17/3/2020,Case 171
+Shatin,Hong Kong Sports Institute Athletes' Hostel,17/3/2020,Case 172
+Wong Tai Sin,"Oi Wai House, Tsz Oi Court",17/3/2020,Case 173
+Kwun Tong,"Ying Lai House, Yau Lai Estate",17/3/2020,Case 175 and 176
+Central & Western,"Rich View Terrace, 26 Square Street",17/3/2020,Case 177 and 178
+Central & Western,3A Tregunter Path,17/3/2020,Case 180
+Central & Western,"Seymour Place,60 Robinson Road",17/3/2020,Case 183
+Southern,"Block 47, Baguio Villa",17/3/2020,Case 184
+Wan Chai,"King Cheung Mansion, 5 King Kwong Street",17/3/2020,Case 185
+Eastern,"Block 1, Island Resort",17/3/2020,Case 186
+Kowloon City,Hang Tak Yuen,17/3/2020,Case 195
+Kowloon City,Hong Kong Baptist Hospital (non-residential),17/3/2020,Case 195
+Kwun Tong , Lam Tin South Sports Centre  (non-residential),17/3/2020,Case 200
+Sai Kung, Park Central (non-residential),17/3/2020,Case 205
+Central and Western,Princeâ€™s Building (non-residential),17/3/2020,Case 206
+Central and Western,33 Des Voeux Rd West (non-residential),17/3/2020,Case 208
+Shatin,CCT Telecom Building  (non-residential),17/3/2020,Case 191 and 217
+Yau Tsim Mong,"Tower 3, Hampton Place",17/3/2020,Case 174
+Wan Chai ,Sakura Court ,17/3/2020,Case 181
+Central & Western,"Seymour Place, 60 Robinson Road",17/3/2020,Case 183
+Central & Western,"ICBC Tower, Garden Road (non-residential)",18/3/2020,"Case 195, 339"
+Central & Western,Bank of China building (non-residential),18/3/2020,"Case 106, 183, 204"
+Tuen Mun,V city (non-residential),18/3/2020,Case 193
+Yau Tsim Mong,Boundary Street Sports Centre No. 2 (non-residential),18/3/2020,Case 200
+Yuen Long,Yuen Long DivisionÂ Police Station (non-residential),18/3/2020,Case 201
+Central & Western,Gloucester Tower (non-residential),18/3/2020,Case 206
+Shatin,89 Chik Fu Street (non-residential),18/3/2020,Case 253
+Central & Western,Nan Fung Place (non-residential),18/3/2020,Case 270
+Central & Western,120 Connaught Road West (non-residential),18/3/2020,Case 281
+Kowloon City,"Hibiscus House, Ma Tau Wai Estate",18/3/2020,242
+Central & Western,20 Square Street,18/3/2020,208
+Central & Western,The Nova,18/3/2020,251
+Central & Western,1 High Street,18/3/2020,217
+Central & Western,"Tower 1, Hillsborough Court",18/3/2020,207
+Yuen Long,Pak Sha Tsuen,18/3/2020,201
+Tuen Mun,Pentahotel Hong Kong,18/3/2020,193
+Sai Kung ,Tai Mong Tsai Road ,18/3/2020,182
+Sai Kung,"Tower 2, The Capitol, Lohas Park",18/3/2020,"205, 256"
+Sai Kung ,"Kwong Ning House, Kwong Ming Court",18/3/2020,198
+Shatin,"Court B, Tower 3, Dragons Range",18/3/2020,204
+Shatin,"Tower 1, BayshoreTowers",18/3/2020,240
+Shatin,"Block C, Sunshine City",18/3/2020,191
+Yau Tsim Mong,K11 ARTUS,18/3/2020,209
+Yau Tsim Mong,26 Kimberley Road,18/3/2020,199
+Yau Tsim Mong,Imperial Hotel ,18/3/2020,200
+Yau Tsim Mong,Hang Yue Court ,18/3/2020,192
+Yau Tsim Mong,"Tower 3, Hampton Place",18/3/2020,"174, 222"
+Southern,46 Island Road,18/3/2020,206
+Tsuen Wan,"Block 5, The Summit Terrace",18/3/2020,219
+Sham Shui Po,E hotel Hong Kong ,18/3/2020,190
+Sham Shui Po,"Yee Kok Court, Yee Tai House",18/3/2020,221
+Kwai Tsing ,"Kwai On House, Kwai Fong Estate ",18/3/2020,196
+Wan Chai,Villa Monte Rosa,18/3/2020,216
+Wan Chai,70 Tin Hau Temple Road,18/3/2020,218
+Wan Chai,St. Regis Hong Kong,18/3/2020,"230, 264"
+Tuen Mun,V city  (non-residential),18/3/2020,193
+Yau Tsim Mong ,Boundary Street Sports Centre No. 2 (non-residential),18/3/2020,200
+Yuen Long,Yuen Long DivisionÂ Police Station (non-residential),18/3/2020,201
+Central & Western, Gloucester Tower (non-residential),18/3/2020,206
+Shatin,89 Chik Fu Street (non-residential),18/3/2020,253
+Central & Western,Bank of China building  (non-residential),18/3/2020,"106, 183, 204"
+Yau Tsim Mong,"Tower 3, Hampton Place",18/3/2020,Case 174 and 222
+Sai Kung ,Tai Mong Tsai Road ,18/3/2020,Case 182
+Sham Shui Po,E hotel Hong Kong ,18/3/2020,Case 190
+Shatin,"Block C, Sunshine City",18/3/2020,Case 191
+Yau Tsim Mong,Hang Yue Court ,18/3/2020,Case 192
+Tuen Mun,Pentahotel Hong Kong Tuen Mun,18/3/2020,Case 193 
+Central & Western,Conway Mansion,18/3/2020,Case 194
+Kwai Tsing ,"Kwai On House, Kwai Fong Estate ",18/3/2020,Case 196
+Sai Kung ,"Kwong Ning House, Kwong Ming Court",18/3/2020,Case 198
+Yau Tsim Mong,26 Kimberley Road,18/3/2020,Case 199
+Yau Tsim Mong,Imperial Hotel ,18/3/2020,Case 200
+Yuen Long,Pak Sha Tsuen,18/3/2020,Case 201
+Shatin,"Court B, Tower 3, Dragons Range",18/3/2020,Case 204
+Sai Kung,"Tower 2, The Capitol",18/3/2020,Case 205
+Southern,46 Island Road,18/3/2020,Case 206
+Central & Western,"Tower 1, Hillsborough Court",18/3/2020,Case 207
+Central & Western,20 Square Street,18/3/2020,Case 208
+Yau Tsim Mong,K11 ARTUS,18/3/2020,Case 209
+Wan Chai,Villa Monte Rosa,18/3/2020,Case 216
+Central & Western,1 High Street,18/3/2020,Case 217
+Tai Hang,70 Tin Hau Temple Road,18/3/2020,Case 218
+Tsuen Wan,"Block 5, The Summit Terrace",18/3/2020,Case 219
+Shatin,"Tower 1, BayshoreTowers",18/3/2020,Case 240
+Central & Western,The Nova,18/3/2020,Case 251
+Tuen Mun,V city  (non-residential),18/3/2020,Case 193
+Yau Tsim Mong ,Boundary Street Sports Centre No. 2 (non-residential),18/3/2020,Case 200
+Central and Western,Bank of China building  (non-residential),18/3/2020,"Case 106, 183 and 204"
+Central and Western, Gloucester Tower (non-residential),18/3/2020,Case 206
+Sai Kung ,39D Tai Mong Tsai Road ,18/3/2020,Case 182
+Kowloon City,26 Cumberland Road,18/3/2020,Case 199
+Southern,"Block 4, Repulse Bay Garden",18/3/2020,Case 203
+Yau Tsim Mong,Yau Ma Tei Jockey Club General Out-patient Clinic (non-residential),18/3/2020,Case 150 and 192
+Tuen Mun,Yan Oi General Out-patient Clinic (non-residential),18/3/2020,Case 193
+Eastern,Technology Plaza (non-residential),19/3/2020,Case 229
+Yuen Long,Tin Shui Shopping Center (non-residential),19/3/2020,Case 231
+Tuen Mun,Tuen Mun Parkland Square (non-residential),19/3/2020,Case 244
+Sai Kung,Ming Tak Shopping Centre (non-residential),19/3/2020,Case 256
+Central & Western,"Phase 1, IFC (non-residential)",19/3/2020,Case 270
+Sham Shui Po,67 Broadway (non-residential),19/3/2020,Case 270
+Sham Shui Po,Cheung Lung Industrial Building (non-residential),19/3/2020,"Case 291, 312"
+Kowloon CityÂ ,360 Prince Edward Road (non-residential),19/3/2020,Case 349
+Eastern,"Maple Mansion, Harbour View Gardens",19/3/2020,249
+Central & Western,"Evergreen Tower, Western Garden",19/3/2020,"238, 268"
+Central & Western,"Po Hing Mansion, 20 Rutter Street",19/3/2020,245
+Central & Western,Conway Mansion,19/3/2020,194
+Central & Western,May Tower,19/3/2020,224
+Yuen Long,"Shui Lam House, Tin Shui Estate",19/3/2020,231
+Sai Kung,31 Wo Tong Kong,19/3/2020,239
+Shatin,"Block D, The Grandville",19/3/2020,253
+Shatin,"Tower 1, Ma On Shan Centre",19/3/2020,252
+Eastern,Tung Lam Court,19/3/2020,237
+Eastern,"Lai Wah Mansion, 867-881 King's Road",19/3/2020,250
+Eastern,"Block Q, Kornhill",19/3/2020,269
+Southern,"South Bay Road, Repulse Bay",19/3/2020,234
+Southern,"Block 4, Repulse Bay Garden",19/3/2020,"203, 223"
+Sham Shui Po,"Phase 2, Village Gardens",19/3/2020,243
+Kwai Tsing,"Hong Ping House, Cheung Hong Estate",19/3/2020,233
+Islands,"Block 5, Tung Chung Crescent",19/3/2020,212
+Wan Chai ,Sakura Court ,19/3/2020,"181, 215"
+Wan Chai,8 Ventris Road,19/3/2020,247
+Wan Chai,"Beverly Hill, 6 Broadwood Road",19/3/2020,246
+Wan Chai,Tower 3 The Avenue,19/3/2020,"211, 214, 230"
+Eastern,Technology Plaza (non-residential),19/3/2020,229
+Yuen Long,Tin Shui Shopping Center (non-residential),19/3/2020,231
+Sai Kung,Ming Tak Shopping Centre (non-residential),19/3/2020,256
+Wan Chai ,Sakura Court ,19/3/2020,Case 181 and 215
+Central & Western,Conway Mansion,19/3/2020,Case 194
+Southern,"Block 4, Repulse Bay Garden",19/3/2020,Case 203 and 223
+Wan Chai,Tower 3 The Avenue,19/3/2020,Case 211 and 214
+Islands,"Block 5, Tung Chung Crescent",19/3/2020,Case 212
+Central & Western,May Tower,19/3/2020,Case 224
+Kwai Tsing,"Hong Ping House, Cheung Hong Estate",19/3/2020,Case 233
+Eastern,Tung Lam Court,19/3/2020,Case 237
+Central & Western,"Po Hing Mansion, 20 Rutter Street",19/3/2020,Case 245
+Shatin,"Block D, The Grandville",19/3/2020,Case 253
+Kwun Tong,"C-Bons International Center, 108 Wai Yip Street (non-residential)",19/3/2020,Case 233
+Kwai Tsing,Shek Yam Shopping Centre (non-residential),20/3/2020,Case 263
+Central & Western,97 Hollywood Road (non-residential),20/3/2020,Case 266
+Shatin,Union Hospital (non-residential),20/3/2020,Case 317
+Central & Western,One Exchange Square (non-residential),20/3/2020,Case 339
+Eastern,Parker33 (non-residential),20/3/2020,Case 339
+Central & Western,"Shun On Building, 2 Sands Street",20/3/2020,261
+Central & Western,SOHO 189,20/3/2020,267
+Central & Western,"Silvercrest, 24 Macdonnell Road",20/3/2020,265
+Yuen Long,"Yiu Foo House, Tin Yiu (1) Estate ",20/3/2020,"258, 259"
+Southern,No. 4 Stanley Village Road,20/3/2020,225
+Southern,Repulse Bay Garden,20/3/2020,266
+Tsuen Wan,"Block C, Luk Yeung Sun Chuen",20/3/2020,229
+Wong Tai Sin,Tower 7 The Latitude ,20/3/2020,226
+Kwai Tsing ,"Yam Heng House, Shek Yum Estate",20/3/2020,263
+Wan Chai,"Tower 1, Hoover Tower",20/3/2020,210
+Kwai Tsing ,Shek Yam Shopping Centre (non-residential),20/3/2020,263
+Central & Western,97 Hollywood Road (non-residential),20/3/2020,266
+Wan Chai,"Tower 1, Hoover Tower",20/3/2020,Case 210
+Southern,No. 4 Stanley Village Road,20/3/2020,Case 225
+Wong Tai Sin,Kai Tak Garden Shopping Arcade (non-residential),21/3/2020,Case 275
+Southern,Le Meridien Cyberport (non-residential),21/3/2020,Case 316
+Shatin,16 Science Park Avenue (non-residential),21/3/2020,Case 333
+Kowloon City,Cheong Shing Court,21/3/2020,262
+Sai Kung,Yee Ching House Yee Ming Estate,,"Case 58,128"
+Wan Chai,Envoy Garden,,"Case 114, 213"
+Southern,"Block 28, Baguio Villa",,"Case notified by the health authority of Canada and Case 117, 118"
+Tai Po,"Heng Tai House, Fu Heng Estate",,"Case 119, 124, 140"
+Tuen Mun,"On Hei House, Siu Hei Court",,"Case 120, 121"
+Sha Tin,"Mau Lam House, Kwong Lam Court",,Case 122
+Tsuen Wan,"Tower 7, Bellagio",,"Case 123, 129"
+Kwun Tong,"Block T, Telford Gardens",,Case 125
+Kwun Tong,"Block 26, Phase 2, Laguna City",,"Case 126, 127"
+Kwai Tsing,iPlace,,"Case 130, 131,133, 138"
+Central & Western,"Serene Court, 35 Sai Ning Street",,Case 132
+Tai Po,"Ng Tung Chai, Lam Tsuen",,Case 134
+Central & Western,View Villa,,Case 135
+Southern,18 Stanley Main Street,,Case 136
+Wan Chai,"Block A, Tai Hang Terrace",,Case 137
+Eastern,Cornell Centre,,Case 139
+Sai Kung,684 Clear Water Bay Road,,Case 141
+Kwai Tsing,Tivoli Garden,,Case 142
+North,"Lai Ming House, Wah Ming Estate",,Case 143
+Sai Kung,The Palisades,,Case 145
+Eastern,Fort Mansion,,Case 146
+Central & Western,"Kellett View Town Houses, 65 Mount Kellett Road",,"Case 147, 148"
+Southern,"Wah Cheong House, Wah Fu 2 Estate",,Case 149
+Yau Tsim Mong,Hotel ICON,,Case 150
+Yau Tsim Mong,"Block A, Chungking Mansions",,Case 151
+Tuen Mun,"Tower 1, Oceania Heights",,Case 152
+Shatin,"Block 10, Pristine Villa",,Case 153
+Kowloon City,8 Hok Ling Street,,Case 154
+Wong Tai Sin,"Lung Chu House, Lung Poon Court",,Case 155
+Central & Western,Island Shangri-La,,Case 156
+Tai Po,"Block 16, Mayfair By The Sea",,"Case 157, 158"
+Southern,The Redhill Peninsula,,"Case 160, 235"
+Tuen Mun,"Block 4, Tuen Mun Town Plaza",,Case 161
+Yau Tsim Mong,"Tower 7, the Coronation",,Case 162
+Central & Western,"Emerald Garden, 86 Pok Fu Lam Road",,Case 163
+Wong Tai Sin,"Choi Wah House, Choi Fai Estate",,Case 167
+Wan Chai,"Tower 2, the Zenith",,Case 168
+Eastern,Hyatt Centric Victoria Harbour Hong Kong,,Case 169
+Eastern,"Block 2, Island Resort",,Case 170
+Shatin,"Block 8, Saddle Ridge Garden",,Case 171
+Shatin,Hong Kong Sports Institute Athletes' Hostel,,Case 172
+Wong Tai Sin,"Oi Wai House, Tsz Oi Court",,Case 173
+Yau Tsim Mong,"Tower 3, Hampton Place",,"Case 174, 222"
+Kwun Tong,"Ying Lai House, Yau Lai Estate",,"Case 175, 176"
+Central & Western,Rich View Terrace,,"Case 177, 178"
+Central & Western,3A Tregunter Path,,Case 180
+Wan Chai,Sakura Court,,"Case 181, 215"
+Sai Kung,Tai Mong Tsai Road,,Case 182
+Central & Western,"Seymour Place,60 Robinson Road",,Case 183
+Southern,"Block 47, Baguio Villa",,Case 184
+Wan Chai,"King Cheung Mansion, 5 King Kwong Street",,Case 185
+Eastern,"Block 1, Island Resort",,Case 186
+Sham Shui Po,E hotel Hong Kong,,Case 190
+Shatin,"Block C, Sunshine City",,Case 191
+Yau Tsim Mong,Hang Yue Court,,Case 192
+Tuen Mun,Pentahotel Hong Kong,,Case 193
+Central & Western,Conway Mansion,,Case 194
+Kowloon City,Hang Tak Yuen,,Case 195
+Kwai Tsing,"Kwai On House, Kwai Fong Estate",,Case 196
+Sai Kung,"Kwong Ning House, Kwong Ming Court",,Case 198
+Yau Tsim Mong,26 Kimberley Road,,Case 199
+Yau Tsim Mong,Imperial Hotel,,Case 200
+Yuen Long,Pak Sha Tsuen,,Case 201
+Southern,"Block 4, Repulse Bay Garden",,"Case 203, 223"
+Shatin,"Court B, Tower 3, Dragons Range",,Case 204
+Sai Kung,"Tower 2, The Capitol, Lohas Park",,"Case 205, 256"
+Southern,46 Island Road,,Case 206
+Central & Western,"Tower 1, Hillsborough Court",,Case 207
+Central & Western,20 Square Street,,Case 208
+Yau Tsim Mong,K11 ARTUS,,Case 209
+Wan Chai,"Tower 1, Hoover Tower",,Case 210
+Wan Chai,Tower 3 The Avenue,,"Case 211, 214, 230"
+Islands,"Block 5, Tung Chung Crescent",,Case 212
+Wan Chai,Villa Monte Rosa,,Case 216
+Central & Western,1 High Street,,Case 217
+Wan Chai,70 Tin Hau Temple Road,,Case 218
+Tsuen Wan,"Block 5, The Summit Terrace",,Case 219
+Tsuen Wan,Tower 1 Vision City,,Case 220
+Sham Shui Po,"Yee Kok Court, Yee Tai House",,Case 221
+Central & Western,May Tower,,Case 224
+Southern,No. 4 Stanley Village Road,,Case 225
+Southern,"Tower 3, The Repulse Bay",,Case 226
+Wong Tai Sin,Tower 7 The Latitude,,Case 226
+Kowloon City,"Tower 3, Green Wood Laguna Verde",,Case 227
+Kowloon City,8 Hok Ling Street,,Case 228
+Tsuen Wan,"Block C, Luk Yeung Sun Chuen",,Case 229
+Wan Chai,St. Regis Hong Kong,,"Case 230, 264"
+Yuen Long,"Shui Lam House, Tin Shui Estate",,Case 231
+North,"Tower 1, Green Code",,Case 232
+Kwai Tsing,"Hong Ping House, Cheung Hong Estate",,Case 233
+Southern,"South Bay Road, Repulse Bay",,Case 234
+Wan Chai,The Emperor Hotel,,Case 236
+Eastern,Tung Lam Court,,Case 237
+Central & Western,"Evergreen Tower, Western Garden",,"Case 238, 268"
+Sai Kung,31 Wo Tong Kong,,Case 239
+Shatin,"Tower 1, BayshoreTowers",,Case 240
+Kowloon City,"Hibiscus House, Ma Tau Wai Estate",,Case 242
+Sham Shui Po,"Phase 2, Village Gardens",,Case 243
+Tuen Mun,"Tip Sum House, Butterfly Estate",,Case 244
+Central & Western,"Po Hing Mansion, 20 Rutter Street",,Case 245
+Wan Chai,"Block C, Beverly Hill, 6 Broadwood Road",,Case 246
+Wan Chai,8 Ventris Road,,Case 247
+Eastern,"Maple Mansion, Harbour View Gardens",,Case 249
+Eastern,"Lai Wah Mansion, 867-881 King's Road",,Case 250
+Central & Western,The Nova,,Case 251
+Shatin,"Tower 1, Ma On Shan Centre",,Case 252
+Shatin,"Block D, The Grandville",,Case 253
+Tuen Mun,"Hing Fai House, Tai Hing Estate",,Case 255
+Eastern,Viking Villas,,Case 260
+Central & Western,"Shun On Building, 2 Sands Street",,Case 261
+Kowloon City,Cheong Shing Court,,Case 262
+Kwai Tsing,"Yam Heng House, Shek Yum Estate",,Case 263
+Wan Chai,Sakura Court,,Case 264
+Central & Western,"Silvercrest, 24 Macdonnell Road",,Case 265
+Southern,Repulse Bay Garden,,Case 266
+Central & Western,SOHO 189,,Case 267
+Eastern,"Block Q, Kornhill",,Case 269
+Sham Shui Po,"Block 23, Phase 1, Mei Foo Sun Cheun",,Case 270
+Yau Tsim Mong,"Block 4, Prosperous Garden",,Case 272
+Yau Tsim Mong,"Block B, Hoi Lam House, Hoi Fu Court",,Case 273
+Kwun Tong,Dorsett Kwun Tong,,Case 274
+Wong Tai Sin,Kai Tak Garden,,Case 275
+Wan Chai,Hang Shun Mansions,,Case 276
+Wan Chai,307 Jaffe Road,,Case 277
+Wan Chai,Tagus Residences,,Case 278
+Islands,"Woodland Court, Parkvale Village",,Case 279
+Central & Western,Chi Residences 120,,Case 281
+Central & Western,208 Hollywood Road,,Case 282
+Southern,L'Hoel Island South,,Case 283
+Sha Tin,"Block 6, Bayshore Towers",,Case 284
+Yau Tsim Mong,"Tower 7, The Long Beach",,Case 285
+Sai Kung,Pak Kong Au Road,,Case 286
+Tsuen Wan,Indi Home,,Case 287
+Kwai Tsing,"On Hoi House, Cheung On Estate",,Case 287
+Eastern,"Block 6, Provident Centre",,Case 288
+Eastern,"On Hiu Mansion, Lei King Wan",,Case 289
+Southern,Ovolo Southside,,Case 290
+Southern,"Chun Tak House, Lung Tak Court",,Case 291
+Wan Chai,Rosedale Hotel Hong Kong,,Case 292
+Wan Chai,Monmouth Villa,,Case 293
+Yuen Long,"Heng Moon House, Tin Heng Estate",,Case 294
+Tsuen Wan,City Point,,Case 295
+North,Fanling Wai South,,Case 296
+Eastern,Ramada Hong Kong Grand View,,Case 297
+North,"Lai Ming House, Wah Ming Estate",,Case 298
+Kowloon City,"Tower 3, Harbour View Horizon Hotel",,Case 299
+Yau Tsim Mong,Rosedale Hotel Kowloon,,Case 300
+Shatin,"Fook Lam House, Kwong Lam Court",,Case 301
+Shatin,Athlete's Hostel in HK Sports Institues,,Case 302
+Eastern,Tung Lam Court,,"Case 303, 304"
+Eastern,191-193 Shau Kei Wan Road,,Case 306
+Kwun Tong,"Tak Shui House, Tak Tin Estate",,Case 308
+Wan Chai,"Celeste Court, Fung Fai Terrace",,Case 309
+Central & Western,Valiant Park,,Case 310
+Kowloon City,8 Hok Ling Street,,Case 311
+Kwai Tsing,"Kwai Yat House, Kwai Hong Court",,Case 312
+Yau Tsim Mong,Lyton Building,,Case 313
+Sham Shui Po,"Yee Tai House, Yee Kok Court",,Case 314
+Central & Western,Wise Mansion,,Case 315
+Southern,Le Meridien Cyberport,,Case 316
+Sai Kung,Marina Cov,,Case 317
+Southern,"Block 4, Aqua 33",,Case 318
+Central &Western,"Block 8, Hee Wong Terrace, Kennedy Town",,Case 319
+Tuen Mun,"The Hillgrove, 9 Tsing Fat Lane, Tuen Mun",,Case 320
+Islands,"Novotel Citygate Hong Kong, Tung Chung",,Case 321
+Kowloon City,"Stafford Road, Kowloon Tong",,Case 322
+Kowloon City,25 Stafford Road,,Case 322
+Kowloon City,"Block 6, Parc Palais, 18 Wylie Road, King's Park",,Case 323
+Yau Tsim Mong,Rosedale Hotel Kowloon,,Case 324
+Central &Western,"Vienna Court, Realty Gardens, Mid-levels",,Case 325
+Southern,"Block D, The Manhattan, Tai Tam",,Case 326
+Central & Western,"Tower 1, Hillsborough Court, Mid-levels",,Case 327
+Islands,"Tower 10, the Visionary, Tung Chung",,Case 328
+Tai Po,"Block 7, Phase 4, Tai Po Centre",,Case 332
+Yau Tsim Mong,"Kadoorie Avenue Mansion, 207 Prince Edward Road West",,Case 333
+Eastern,"Braemar Hill Mansions, 15-43 Braemar Hill Road",,Case 334
+Yau Tsim Mong,"Best Western Grand Hotel, Tsim Sha Tsui",,Case 335
+Kowloon City,"152 Waterloo Road, Kowloon Tong",,Case 336
+Kwai Tsing,"Mai Ning Building, Kwai Chung",,Case 337
+Kwai Tsing,"Chau Kwai House, Kwai Chung Estate",,Case 338
+Eastern,"Wah Hei House, Tung Hei Court, Sai Wan Ho",,Case 339
+Sai Kung,"Block 1, Park Mediterranean, Sai Kung",,Case 339
+Eastern,"Sui Fat House, Siu Sai Wan Estate, Chai Wan",,Case 340
+Wan Chai,"3 Broadwood Road, Happy Valley",,Case 341
+Southern,"Tung Yip House, Lei Tung Estate, Ap Lei Chau",,Case 342
+Eastern,"Stayed in Homy Inn, North Point",,Case 342
+Wan Chai,"Island Building, Wan Chai",,Case 343
+Central & Western,"Fairlane Tower, Mid-levels",,Case 345
+Wan Chai,"Po Ming Building, Causeway Bay",,Case 346
+Sha Tin,"Block 7, Villa Athena, Ma On Shan",,Case 347
+Eastern,"Block 3, Fullview Garden, Siu Sai Wan",,Case 348
+Sha Tin,"Yiu Shun House, Yiu On Estate, Ma On Shan",,Case 349
+Tai Po,"Block 10, Treasure Spot Garden, Tai Po",,Case 350
+Tai Po,"Block 10, Treasure Spot Garden, Tai Po",,Case 351
+Sai Kung,"Sai Keng Village, Sai Sha Road, Sai Kung",,Case 352
+Kwun Tong,"Dorsett Kwun Tong Hotel, Kwun Tong",,Case 353
+Central & Western,"53 Hollywood Road, Central",,Case 354
+Kowloon City,"Tower 3, Costa Del Sol, Laguna Verde",,227
+Central & Western,"Travelodge Hotel, 263 Hollywood Road",,248
+Tuen Mun,"Tip Sum House, Butterfly Estate",,244
+North,"Tower 1, Green Code",,232
+Shatin,Athlete's Hotstel in Hong Kong Sports Institutes,,254
+Eastern,Viking Villas,,260
+Yau Tsim Mong,"Block B, Hoi Lam House, Hoi Fu Court",,273
+Yau Tsim Mong,"Block 4, Prosperous Garden",,272
+Sham Shui Po,Mei Foo Sun Chuen Phase I,,270
+Islands,"Tower 12, Caribbean Coast",,271
+Wan Chai,The Emperor Hotel,,236
+Kwun Tong,Dorsett Kwun Tong,,274
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
