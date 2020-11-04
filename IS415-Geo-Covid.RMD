@@ -35,6 +35,7 @@ occupancy_qc <- read_csv("data/aspatial/occupancy_of_quarantine_centres_eng.csv"
 indv_caseinfo <- read_csv("data/aspatial/enhanced_sur_covid_19_eng.csv")
 reported_cases_by_country <- read_csv("data/aspatial/countries_areas_have_reported_cases_eng.csv")
 testing_done_mth <- read_csv("data/aspatial/statistics_on_covid_19_testing_cumulative.csv")
+cases_location <- read_csv("data/aspatial/building_list_eng.csv")
 ```
 
 
@@ -127,7 +128,8 @@ confines_current_nonclose_line
 ## Total No. of Reported Cases Daily in HK
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 hk_reported_cases <- reported_cases_by_country %>%
-  filter(`Countries/areas` == 'Hong Kong Special Administrative Region')
+  filter(`Countries/areas` == 'Hong Kong Special Administrative Region') %>%
+  
 ```
 
 
@@ -163,20 +165,79 @@ ggplot(freq_gender, aes(x=Gender, y=count, fill=Gender)) + geom_bar(stat='identi
 ```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
 indv_caseinfo$`Report date` <- as.Date(indv_caseinfo$`Report date`, "%d/%m/%Y")
 
-cases_date <- indv_caseinfo %>%
-  mutate(count = 1) %>%
-  dplyr::select('Case no.', 'Report date', 'count') %>%
+confirm_cases <- indv_caseinfo %>%
+  mutate(confirm_count = 1) %>%
+  dplyr::select('Case no.', 'Report date', 'confirm_count') %>%
   group_by(`Report date` = floor_date(`Report date`, "month")) %>%
-  summarise(count = sum(count)) 
+  summarise(confirm_count = sum(confirm_count)) 
+
+confirm_cases <- within(confirm_cases, conf_cumul <- cumsum(confirm_count))
+```
+
+###Death Cases by Date
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+death_cases <- indv_caseinfo %>%
+  filter(indv_caseinfo$`Hospitalised/Discharged/Deceased` == 'Deceased') %>%
+  mutate(death_count = 1) %>%
+  dplyr::select('Case no.', 'Report date', 'death_count') %>%
+  group_by(`Report date` = floor_date(`Report date`, "month")) %>%
+  summarise(death_count = sum(death_count))
+
+death_cases <- within(death_cases, dth_cumul <- cumsum(death_count))
+```
+
+###Recovered Cases by Date
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+recovered_cases <- indv_caseinfo %>%
+  filter(indv_caseinfo$`Hospitalised/Discharged/Deceased` == 'Discharged') %>%
+  mutate(recovered_count = 1) %>%
+  dplyr::select('Case no.', 'Report date', 'recovered_count') %>%
+  group_by(`Report date` = floor_date(`Report date`, "month")) %>%
+  summarise(recovered_count = sum(recovered_count))
+
+recovered_cases <- within(recovered_cases, recov_cumul <- cumsum(recovered_count))
+```
+
+###Combine confirmed, death and recovered count cases
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+confdth_cases <- left_join(confirm_cases, recovered_cases, by="Report date")
+combined_count <- left_join(confdth_cases, death_cases, by="Report date")
+
+combined_count[is.na(combined_count)] = 0
+combined_count <- within(combined_count, dth_cumul <- cumsum(death_count))
+```
+
+###Combined_count line graph by new cases per month
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+ggplot(combined_count, aes(x=`Report date`)) +
+  geom_line(aes(y=confirm_count), color="darkred") +
+  #geom_line(aes(y=recovered_count), color="green") +
+  geom_line(aes(y=death_count), linetype="twodash")
+```
+
+###Combined_count line graph by cumulative cases 
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+ggplot(combined_count, aes(x=`Report date`)) +
+  geom_line(aes(y=conf_cumul), color="darkred") +
+  geom_line(aes(y=recov_cumul), color="green") +
+  geom_line(aes(y=dth_cumul), linetype="twodash")
+```
+
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+#Count of Reported Confirmed Cases
 
 ggplot(cases_date, aes(x=`Report date`, y=count)) + geom_line() + geom_point() + scale_x_date(date_labels = "%m") + geom_text(aes(label=count), vjust=-0.5)
 ```
 
+## cases_location
 
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+#cases_location$`Last date of residence of the case(s)` <- as.Date(cases_location$`Last date of residence of the case(s)`, "%d/$m/%Y")
 
-
-
-
+num_cases_location <- cases_location %>%
+  mutate(count = 0) #%>%
+  
+```
 
 
 
