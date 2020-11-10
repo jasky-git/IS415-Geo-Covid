@@ -1,0 +1,128 @@
+---
+title: "Geovid-China"
+author: "Shermin Tan"
+date: "11/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+# Getting Started
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+packages = c('sp','tidyverse', 'sf',  'rgdal','spatstat', 'spatstat', 'raster', 'maptools', 'rgeos','dplyr', 'tmap', 'ggplot2', 'spdep', 'lubridate')
+
+for(p in packages){
+  if(!require(p, character.only = T)){
+    install.packages(p)
+  }
+  library(p, character.only = T)
+}
+```
+
+# Import data
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+china_city <- st_read(dsn = "data/china/geospatial", layer = "china_city_basemap")
+china_province <- st_read(dsn = "data/china/geospatial", layer = "china_province_basemap")
+city_confirmed <- read_csv("data/china/aspatial/city_confirmed_0115_1010.csv")
+```
+
+##China Province & City
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+china_map <- st_join(china_city, china_province, by = c('GbProv' = 'GbProv')) %>%
+  rename('GbProv' = 'GbProv.x')
+```
+
+# EPSG:3415
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+china_3415 <- st_set_crs(china_map, 3415)
+qtm(china_3415)
+```
+
+#Confirmed Cases in each City
+```{r echo=TRUE, eval=TRUE, warning=FALSE, message=FALSE}
+city_confirmed_geo <- left_join(city_confirmed, china_map, by = c('GbProv' = 'GbProv'))
+city_confirmed_geo <- st_as_sf(city_confirmed_geo)
+
+tm_shape(city_confirmed_geo)+
+  tm_fill("T_C_09",
+          style = "quantile",
+          n = 10,
+          palette = "Blues",
+          legend.hist = TRUE, ) + 
+  #tm_facets(by="month", free.coords=TRUE, drop.shapes=FALSE) +
+  tmap_options(max.categories = 41) +
+  tm_layout(main.title = "Distribution of Cases",
+            main.title.position = "center",
+            main.title.size = 1,
+            legend.height = 0.40, 
+
+            legend.width = 0.35,
+            legend.outside = TRUE,
+            legend.position = c("right", "bottom"),
+            frame = TRUE) +
+  tm_borders(alpha = 0.5)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
